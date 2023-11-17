@@ -1,5 +1,5 @@
 Strain,Type,Rating,Effects,Flavor,Breeders,LOCATION
-1024,sativa,4.4,"Uplifted,Happy,Relaxed,Energetic,Creative","Spicy/Herbal,Sage,Woody",Medical Seeds Co,Spain
+1024,sativa,4.4,"Uplifted,Happy,Relaxed,Energetic,Creative","Spicy_Herbal,Sage,Woody",Medical Seeds Co,Spain
 100-Og,hybrid,4,"Creative,Energetic,Tingly,Euphoric,Relaxed","Earthy,Sweet,Citrus",,
 13-Dawgs,hybrid,4.2,"Tingly,Creative,Hungry,Relaxed,Uplifted","Apricot,Citrus,Grapefruit",Canadian LP Delta 9 BioTech,Canada
 24K-Gold,hybrid,4.6,"Happy,Relaxed,Euphoric,Uplifted,Talkative","Citrus,Earthy,Orange",,Los Angeles
@@ -25,7 +25,7 @@ Aberdeen,hybrid,4.3,"Uplifted,Euphoric,Giggly,Energetic,Sleepy","Menthol,Blue,Ch
 Abusive-Og,indica,4.5,"Relaxed,Euphoric,Sleepy,Happy,Giggly","Earthy,Pine,Diesel",,California
 Acapulco-Gold,sativa,4.5,"Happy,Uplifted,Euphoric,Energetic,Relaxed","Earthy,Sweet,Pungent",,"Acapulco, Mexico"
 Acdc,hybrid,4.5,"Relaxed,Happy,Uplifted,Focused,Euphoric","Earthy,Pine,Woody",,
-Ace-Killer-Og,indica,4.8,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Earthy,Diesel,Spicy/Herbal",,
+Ace-Killer-Og,indica,4.8,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Earthy,Diesel,Spicy_Herbal",,
 Ace-Of-Spades,indica,4.1,"Relaxed,Euphoric,Happy,Sleepy,Hungry","Earthy,Sweet,Woody",TGA Subcool Genetics,"Seattle, Washington"
 Aceh,sativa,4.4,"Creative,Euphoric,Talkative,Energetic,Happy","Earthy,Mango,Lemon",,Aceh region of Indonesia
 Acid,hybrid,4.4,"Creative,Happy,Euphoric,Energetic,Uplifted","Lemon,Diesel,Earthy",,
@@ -42,29 +42,29 @@ Afghan-Skunk,indica,4.3,"Sleepy,Relaxed,Happy,Hungry,Giggly","Skunk,Woody,Sweet"
 Afghan-Sour-Kush,indica,4.5,"Hungry,Relaxed,Aroused,Sleepy,Euphoric","Earthy,Diesel,Pungent",MTG Seeds,
 Afghan-Widow,hybrid,4.5,"Creative,Energetic,Euphoric,Focused,Uplifted","Flowery,Diesel,Sweet",,
 Afghani,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Sweet,Pine",,Afghanistan
-Afghani-Cbd,indica,4.6,"Relaxed,Happy,Sleepy,Tingly,Creative","Flowery,Chemical,Spicy/Herbal","Canadian LP Tweed, Inc",Canada
+Afghani-Cbd,indica,4.6,"Relaxed,Happy,Sleepy,Tingly,Creative","Flowery,Chemical,Spicy_Herbal","Canadian LP Tweed, Inc",Canada
 Afghanica,hybrid,4.1,"Relaxed,Sleepy,Happy,Hungry,Euphoric","Sweet,Flowery,Skunk",Flying Dutchman,"Castle Rock, Washington"
 Afghanimal,indica,5,"Hungry,Relaxed,Aroused,Sleepy,Focused","Citrus,Skunk",In House Genetics,
 Afghooey,indica,4.1,"Uplifted,Euphoric,Relaxed,Talkative,Creative","Earthy,Sweet,Woody",,
 Afgoo,indica,4.1,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Sweet,Pine,Woody",,
 Afgooey,indica,4.3,"Relaxed,Happy,Sleepy,Giggly,Uplifted","Woody,Pine,Pungent",,
 Afkansastan,indica,3.8,"Uplifted,Euphoric,Giggly,Happy,Relaxed","Tobacco,Earthy",,
-Afpak,hybrid,4.2,"Relaxed,Creative,Focused,Sleepy,Happy","Pine,Spicy/Herbal,Earthy",,
-African,sativa,3.9,"Euphoric,Energetic,Aroused,Tingly,Creative","Spicy/Herbal,Pungent,Pepper",Unknown,Africa
+Afpak,hybrid,4.2,"Relaxed,Creative,Focused,Sleepy,Happy","Pine,Spicy_Herbal,Earthy",,
+African,sativa,3.9,"Euphoric,Energetic,Aroused,Tingly,Creative","Spicy_Herbal,Pungent,Pepper",Unknown,Africa
 Afrikaner,sativa,0,None,None,Cannabaal and Waldo Botha,South African
 Afternoon-Delight,hybrid,4.8,"Talkative,Relaxed,Uplifted,Tingly,Creative","Pungent,Citrus,Tropical",Colorado Seed Inc.,"Boulder, Colorado"
 Afwreck,hybrid,4.2,"Euphoric,Happy,Uplifted,Relaxed,Sleepy","Earthy,Pine,Pungent",,
 Agent-Orange,hybrid,4.2,"Happy,Uplifted,Relaxed,Energetic,Euphoric","Citrus,Orange,Earthy",,
 Agent-Tangie,hybrid,4.5,"Uplifted,Happy,Creative,Euphoric,Focused","Skunk,Citrus,Orange",,
-Air-Jordan-Og,indica,4.5,"Happy,Relaxed,Euphoric,Sleepy,Tingly","Diesel,Pine,Spicy/Herbal",Good as Gold in California,
+Air-Jordan-Og,indica,4.5,"Happy,Relaxed,Euphoric,Sleepy,Tingly","Diesel,Pine,Spicy_Herbal",Good as Gold in California,
 Ak-47,hybrid,4.2,"Happy,Relaxed,Uplifted,Euphoric,Energetic","Earthy,Pungent,Woody",Serious Seed,Africa
 Ak-48,hybrid,4,"Happy,Energetic,Uplifted,Creative,Relaxed","Earthy,Pungent,Citrus",,
 Alaska,sativa,4.6,"Relaxed,Sleepy,Euphoric,Focused,Happy","Earthy,Woody,Pine",Tikum Olam,Alaska
 Alaska-Thunder-Grape,hybrid,5,"Tingly,Uplifted,Creative,Euphoric,Focused","Pepper,Strawberry,Grape",,Sonoma County
-Alaskan-Ice,sativa,4.4,"Euphoric,Uplifted,Happy,Relaxed,Energetic","Sweet,Earthy,Spicy/Herbal",Green House Seeds,"Amsterdam, Netherlands"
+Alaskan-Ice,sativa,4.4,"Euphoric,Uplifted,Happy,Relaxed,Energetic","Sweet,Earthy,Spicy_Herbal",Green House Seeds,"Amsterdam, Netherlands"
 Alaskan-Thunder-Fuck,sativa,4.4,"Happy,Euphoric,Relaxed,Uplifted,Energetic","Earthy,Woody,Pine",,"Matanuska Valley, Alaska"
 Albert-Walker,hybrid,4.7,"Relaxed,Euphoric,Happy,Uplifted,Hungry","Earthy,Mango,Blueberry",,Pacific Northwest
-Alchemy,hybrid,4.8,"Relaxed,Sleepy,Uplifted,Hungry,Tingly","Cheese,Sweet,Spicy/Herbal",TGA Genetics,"Seattle, Washington"
+Alchemy,hybrid,4.8,"Relaxed,Sleepy,Uplifted,Hungry,Tingly","Cheese,Sweet,Spicy_Herbal",TGA Genetics,"Seattle, Washington"
 Alf,hybrid,5,"Relaxed,Creative,Euphoric,Giggly,Happy","Diesel,Tropical,Pungent",The Captain's Connection,
 Alice-In-Wonderland,sativa,4.5,"Focused,Euphoric,Happy,Uplifted,Relaxed","Pine,Mint,Sweet",Unknown,
 Alien-Abduction,hybrid,3.8,"Happy,Relaxed,Focused,Uplifted,Creative","Earthy,Nutty,Sweet",Ocean grown Genetics,California
@@ -81,27 +81,27 @@ Alien-Reunion,hybrid,4.9,"Euphoric,Uplifted,Happy,Relaxed,Talkative","Pungent,Sk
 Alien-Rift,indica,4.6,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Grape,Earthy,Chemical",Ocean Grown Seeds,
 Alien-Rock-Candy,hybrid,4.7,"Relaxed,Happy,Euphoric,Sleepy,Tingly","Sweet,Citrus,Earthy",Alien Genetics,"Humboldt, California"
 Alien-Sour-Apple,hybrid,4.6,"Euphoric,Relaxed,Uplifted,Creative,Happy","Sweet,Lemon,Apple",Franchise Genetics,
-Alien-Stardawg,sativa,4.4,"Uplifted,Happy,Euphoric,Creative,Tingly","Diesel,Spicy/Herbal,Sage",Green Beanz Seeds,
-Alien-Technology,indica,4.5,"Happy,Relaxed,Uplifted,Euphoric,Focused","Earthy,Spicy/Herbal,Woody",OBSoul33t,
+Alien-Stardawg,sativa,4.4,"Uplifted,Happy,Euphoric,Creative,Tingly","Diesel,Spicy_Herbal,Sage",Green Beanz Seeds,
+Alien-Technology,indica,4.5,"Happy,Relaxed,Uplifted,Euphoric,Focused","Earthy,Spicy_Herbal,Woody",OBSoul33t,
 Aliens-On-Moonshine,indica,4.5,"Relaxed,Happy,Talkative,Uplifted,Giggly","Citrus,Sage,Grapefruit",SinCity Seeds ,"Las Vegas, Nevada"
 Allen-Iverson-Og,indica,5,"Uplifted,Euphoric,Happy,Relaxed",None,California's Good as Gold,
 Allen-Wrench,sativa,4.3,"Happy,Uplifted,Focused,Energetic,Hungry","Citrus,Earthy,Pungent",,
-Allkush,indica,5,"Relaxed,Sleepy,Uplifted,Happy","Spicy/Herbal,Honey,Earthy",Paradise Seeds,"Amsterdam, Netherlands"
+Allkush,indica,5,"Relaxed,Sleepy,Uplifted,Happy","Spicy_Herbal,Honey,Earthy",Paradise Seeds,"Amsterdam, Netherlands"
 Aloha,sativa,4.2,"Energetic,Uplifted,Happy,Creative,Focused","Tropical,Sweet,Citrus",,Hawaaii
 Aloha-Grape-Stomper,hybrid,5,"Tingly,Uplifted,Euphoric,Giggly,Happy","Blueberry,Grape,Tropical",,Hawaaii
 Aloha-Limone,hybrid,4.8,"Euphoric,Creative,Energetic,Talkative,Uplifted","Sweet,Citrus,Earthy",Kush Genetics,Hawaaii
 Alohaberry,hybrid,4.2,"Energetic,Uplifted,Aroused,Tingly,Relaxed","Berry,Apple,Chestnut",,Hawaaii
 Alpha-Blue,sativa,4.5,"Energetic,Happy,Euphoric,Relaxed,Talkative","Earthy,Blueberry,Sweet",Unknown,
 Alpha-Cow,sativa,5,None,None,,
-Alpha-Express,sativa,4.7,"Energetic,Focused,Talkative,Happy,Relaxed","Diesel,Earthy,Spicy/Herbal",,
-Alpha-Og,hybrid,4.6,"Relaxed,Focused,Happy,Euphoric,Sleepy","Spicy/Herbal,Sweet,Berry",Alpha Medic,
+Alpha-Express,sativa,4.7,"Energetic,Focused,Talkative,Happy,Relaxed","Diesel,Earthy,Spicy_Herbal",,
+Alpha-Og,hybrid,4.6,"Relaxed,Focused,Happy,Euphoric,Sleepy","Spicy_Herbal,Sweet,Berry",Alpha Medic,
 Alpine-Blue,hybrid,5,"Uplifted,Creative,Energetic,Aroused,Euphoric","Berry,Blueberry,Pine",,
 Alpine-Star,indica,4.2,"Relaxed,Uplifted,Happy,Euphoric,Tingly","Pine,Citrus,Earthy",,
 Als-Dream,hybrid,3,"Talkative,Energetic",None,,Colorado
 Ambrosia,hybrid,4.4,"Uplifted,Euphoric,Relaxed,Creative,Focused","Flowery,Lavender,Earthy",Jordan of the Islands,Canada
 American-Dream,hybrid,4.7,"Focused,Euphoric,Tingly,Energetic,Relaxed","Earthy,Sweet,Pungent",Sensi Seeds,"Amsterdam, Netherlands"
 American-Kush,indica,4.8,"Relaxed,Tingly,Sleepy,Uplifted,Happy","Sweet,Lemon,Lime",AlphaKronic Genes,
-Americano,indica,4.6,"Relaxed,Creative,Focused,Euphoric,Aroused","Earthy,Spicy/Herbal,Tobacco",Enterprise Seeds,Canada
+Americano,indica,4.6,"Relaxed,Creative,Focused,Euphoric,Aroused","Earthy,Spicy_Herbal,Tobacco",Enterprise Seeds,Canada
 Amethyst,hybrid,3.9,"Energetic,Creative,Giggly,Hungry,Happy",,Zion Botanicals,"Portland, Oregon"
 Amethyst-Bud,hybrid,4.2,"Uplifted,Happy,Relaxed,Focused,Energetic","Berry,Lavender,Sweet",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Amnesia,sativa,4.3,"Happy,Euphoric,Energetic,Creative,Uplifted","Earthy,Sweet,Skunk",,
@@ -116,7 +116,7 @@ Anonymous-Og,indica,5,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Flowery,Cof
 Anubis,indica,5,"Relaxed,Sleepy,Creative,Focused,Aroused","Grape,Lime,Earthy",Pyramid Seeds,
 Ape-Shit,hybrid,5,"Happy,Relaxed,Uplifted,Giggly,Talkative","Sweet,Grape,Lavender",,
 Apollo-11,hybrid,4.4,"Uplifted,Happy,Euphoric,Relaxed,Creative","Pungent,Citrus,Lemon",Brothers Grimm Seeds,
-Apollo-13,hybrid,4.4,"Happy,Euphoric,Energetic,Uplifted,Creative","Earthy,Spicy/Herbal,Sweet",Brothers Grimm Seeds,
+Apollo-13,hybrid,4.4,"Happy,Euphoric,Energetic,Uplifted,Creative","Earthy,Spicy_Herbal,Sweet",Brothers Grimm Seeds,
 Appalachia,hybrid,4.8,"Relaxed,Euphoric,Happy,Creative,Giggly","Pungent,Skunk,Earthy",High & Lonesome Seeds,
 Appalachian-Power,sativa,4.3,"Euphoric,Creative,Focused,Talkative,Uplifted","Tropical,Grape,Sweet",Soulshine Cannabis,
 Apple-Jack,hybrid,3.6,"Happy,Relaxed,Focused,Energetic,Tingly","Apple,Sweet,Earthy",,
@@ -126,33 +126,33 @@ Arabian-Gold,sativa,4.1,"Euphoric,Tingly,Giggly,Sleepy,Creative",,,
 Arctic-Sun,hybrid,4.3,"Creative,Relaxed,Energetic,Euphoric,Focused","Ammonia,Skunk",Flying Dutchman,"Castle Rock, Washington"
 Arcticblue,hybrid,4.8,"Happy,Uplifted,Euphoric,Energetic,Relaxed","Blueberry,Sweet,Earthy",ArticBlue Farms,
 Area-51,hybrid,4.4,"Happy,Uplifted,Relaxed,Euphoric,Creative","Earthy,Citrus,Sweet",,
-Argyle,indica,3.9,"Happy,Uplifted,Relaxed,Sleepy,Focused","Spicy/Herbal,Pungent,Earthy","Canadian LP Tweed, Inc",Canada
+Argyle,indica,3.9,"Happy,Uplifted,Relaxed,Sleepy,Focused","Spicy_Herbal,Pungent,Earthy","Canadian LP Tweed, Inc",Canada
 Arjans-Strawberry-Haze,sativa,4.3,"Happy,Uplifted,Talkative,Relaxed,Creative","Strawberry,Sweet,Berry",Arjan,
 Arjans-Ultra-Haze-1,sativa,4.8,"Euphoric,Focused,Energetic,Relaxed,Creative","Minty,Earthy,Mint",Green House Seeds,"Amsterdam, Netherlands"
 Armageddon,hybrid,4,"Uplifted,Giggly,Happy,Relaxed,Talkative","Diesel,Woody,Tropical",,
-Armagnac,hybrid,4.2,"Relaxed,Sleepy,Talkative,Giggly,Happy","Spicy/Herbal,Sweet,Flowery",New House Seeds,
-Ash,hybrid,4.5,"Relaxed,Happy,Uplifted,Euphoric,Sleepy","Pungent,Skunk,Spicy/Herbal",Mr Nice Seeds ,
+Armagnac,hybrid,4.2,"Relaxed,Sleepy,Talkative,Giggly,Happy","Spicy_Herbal,Sweet,Flowery",New House Seeds,
+Ash,hybrid,4.5,"Relaxed,Happy,Uplifted,Euphoric,Sleepy","Pungent,Skunk,Spicy_Herbal",Mr Nice Seeds ,
 Asian-Fantasy,sativa,4.4,"Euphoric,Hungry,Happy,Relaxed,Talkative","Earthy,Skunk,Woody",,
-Aspen-Og,hybrid,4.1,"Focused,Happy,Energetic,Relaxed,Talkative","Blueberry,Spicy/Herbal,Earthy",,
+Aspen-Og,hybrid,4.1,"Focused,Happy,Energetic,Relaxed,Talkative","Blueberry,Spicy_Herbal,Earthy",,
 Astroboy,sativa,4.5,"Relaxed,Energetic,Happy,Creative,Focused","Sweet,Citrus,Grapefruit",TGA Subcool Genetics,"Seattle, Washington"
 Athabasca,indica,4.6,"Talkative,Uplifted,Happy,Relaxed,Giggly","Earthy,Ammonia,Diesel",Canadian LP Aphria Genetics,Canada
 Atmosphere,hybrid,4.8,"Uplifted,Euphoric,Relaxed,Happy,Tingly","Flowery,Sweet,Citrus",,
 Atomic,hybrid,4.5,"Happy,Relaxed,Talkative,Creative,Euphoric",Earthy,,
-Atomic-Goat,hybrid,4.8,"Relaxed,Uplifted,Giggly,Tingly,Happy","Spicy/Herbal,Nutty,Sage",,"Seattle, Washington"
+Atomic-Goat,hybrid,4.8,"Relaxed,Uplifted,Giggly,Tingly,Happy","Spicy_Herbal,Nutty,Sage",,"Seattle, Washington"
 Atomic-Northern-Lights,hybrid,4.2,"Talkative,Uplifted,Hungry,Tingly,Focused","Earthy,Pungent,Flowery",,
 Atomical-Haze,sativa,4.4,"Happy,Relaxed,Energetic,Uplifted,Creative","Pungent,Minty,Citrus",Paradise Seeds,"Amsterdam, Netherlands"
 Aurora-Borealis,indica,4.2,"Happy,Euphoric,Relaxed,Sleepy,Hungry","Earthy,Woody,Sweet",,
-Aurora-Indica,indica,4.4,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Spicy/Herbal,Tropical",Nirvana Seeds,"Amsterdam, Netherlands"
+Aurora-Indica,indica,4.4,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Spicy_Herbal,Tropical",Nirvana Seeds,"Amsterdam, Netherlands"
 Avalon,hybrid,3.6,"Aroused,Tingly,Hungry,Uplifted,Giggly","Sweet,Earthy,Nutty",,
 Avi,hybrid,3,"Relaxed,Focused,Uplifted,Creative,Happy","Earthy,Pungent","Canadian LP Peace Naturals Project, Inc",
 Avi-Dekel,hybrid,4.5,"Relaxed,Uplifted,Happy,Focused,Energetic","Earthy,Flowery,Sweet",Tikum Olam,Alaska
-Ayahuasca-Purple,indica,4.4,"Relaxed,Euphoric,Sleepy,Happy,Tingly","Spicy/Herbal,Pungent,Earthy",Barney's Farm,"Amsterdam, Westmont, Illinois"
+Ayahuasca-Purple,indica,4.4,"Relaxed,Euphoric,Sleepy,Happy,Tingly","Spicy_Herbal,Pungent,Earthy",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Az-Super-Sour-Og,hybrid,4.9,"Uplifted,Happy,Giggly,Energetic,Relaxed","Pungent,Sage,Woody",Valley of the Sun,
 Azure-Haze,hybrid,4.4,"Relaxed,Uplifted,Focused,Euphoric,Happy","Berry,Sweet,Blueberry",DJ Short,Oregon
 B-52,indica,4.1,"Relaxed,Happy,Giggly,Focused,Uplifted","Sweet,Woody,Earthy",,
 B-Witched,hybrid,5,"Euphoric,Relaxed,Happy,Hungry,Sleepy","Earthy,Sweet,Citrus",,
 B-Witched,hybrid,5,"Euphoric,Relaxed,Happy,Hungry,Sleepy","Earthy,Sweet,Citrus",,
-B4,hybrid,4.5,"Happy,Uplifted,Euphoric,Focused,Relaxed","Spicy/Herbal,Berry,Skunk",MTG Seeds,
+B4,hybrid,4.5,"Happy,Uplifted,Euphoric,Focused,Relaxed","Spicy_Herbal,Berry,Skunk",MTG Seeds,
 Bad-Azz-Kush,hybrid,5,None,,,
 Bakerstreet,indica,3.7,"Euphoric,Relaxed,Giggly,Happy,Sleepy","Earthy,Diesel,Sweet","Canadian LP Tweed, Inc",Canada
 Balmoral,hybrid,4.2,"Relaxed,Happy,Uplifted,Focused,Talkative","Earthy,Cheese,Pine","Canadian LP Tweed, Inc",Canada
@@ -161,7 +161,7 @@ Banana-Cream-Og,hybrid,4.8,"Relaxed,Creative,Tingly,Uplifted,Focused","Minty,Min
 Banana-Diesel,hybrid,4.4,"Happy,Uplifted,Euphoric,Relaxed,Giggly","Diesel,Earthy,Skunk",,
 Banana-Kush,hybrid,4.3,"Happy,Relaxed,Euphoric,Uplifted,Talkative","Sweet,Tropical,Tree,Fruit",,
 Banana-Og,hybrid,4.4,"Relaxed,Happy,Hungry,Euphoric,Sleepy","Tropical,Earthy,Sweet",,
-Banana-Peel,hybrid,4.7,"Relaxed,Euphoric,Uplifted,Happy,Sleepy","Spicy/Herbal,Tropical,Earthy",Illuminati Seeds ,
+Banana-Peel,hybrid,4.7,"Relaxed,Euphoric,Uplifted,Happy,Sleepy","Spicy_Herbal,Tropical,Earthy",Illuminati Seeds ,
 Bananas,hybrid,4.5,"Relaxed,Energetic,Happy,Uplifted,Focused","Tropical,Grape,Vanilla",Leaf by Snoop,
 Bandana,hybrid,4.2,"Euphoric,Happy,Relaxed,Talkative,Creative","Earthy,Pungent,Woody",AlphaKronic Genes,
 Bangi-Haze,sativa,0,"Aroused,Uplifted,Euphoric,Hungry","Berry,Tree,Fruit,Cheese",Ace Seeds,"Valencia, Spain"
@@ -194,9 +194,9 @@ Berry-White,indica,4.4,"Relaxed,Euphoric,Happy,Uplifted,Sleepy","Berry,Sweet,Blu
 Bertberry-Cheesecake,sativa,5,"Uplifted,Creative,Euphoric,Focused,Energetic","Cheese,Berry,Tree,Fruit",Bert Baccarat,
 Berts-Cookie-Dough,hybrid,5,"Uplifted,Energetic,Happy,Hungry",None,,
 Bettie-Page,hybrid,4.2,"Creative,Uplifted,Energetic,Euphoric,Relaxed","Earthy,Sweet,Blue,Cheese",Liberty Reach Farms,
-Bianca,hybrid,4.2,"Relaxed,Sleepy,Euphoric,Focused,Creative","Earthy,Woody,Spicy/Herbal",,
+Bianca,hybrid,4.2,"Relaxed,Sleepy,Euphoric,Focused,Creative","Earthy,Woody,Spicy_Herbal",,
 Biddy-Early,hybrid,4.2,"Creative,Euphoric,Focused,Uplifted,Energetic","Sweet,Flowery,Diesel",Magus Genetics,
-Big-Band,hybrid,4.6,"Relaxed,Happy,Euphoric,Hungry,Talkative","Sweet,Spicy/Herbal,Sage",,
+Big-Band,hybrid,4.6,"Relaxed,Happy,Euphoric,Hungry,Talkative","Sweet,Spicy_Herbal,Sage",,
 Big-Bang,indica,4.1,"Relaxed,Sleepy,Happy,Euphoric,Aroused","Sweet,Orange,Lemon",,
 Big-Bud,indica,3.9,"Relaxed,Euphoric,Sleepy,Happy,Tingly","Earthy,Skunk,Flowery",,
 Big-Budda-Cheese,hybrid,4.2,"Happy,Relaxed,Euphoric,Uplifted,Giggly","Cheese,Earthy,Flowery",Sensi Seeds,"Amsterdam, Netherlands"
@@ -205,14 +205,14 @@ Big-Kush,hybrid,4.7,"Uplifted,Relaxed,Euphoric,Creative,Focused","Citrus,Lemon,S
 Big-Mac,indica,5,"Relaxed,Aroused,Sleepy,Talkative,Tingly","Sweet,Berry,Blueberry",Federation Seeds ,
 Big-Skunk-Korean,hybrid,4,"Talkative,Uplifted,Creative,Energetic,Hungry","Flowery,Skunk",,
 Big-Sky-Og,hybrid,4.7,"Relaxed,Tingly,Uplifted,Hungry,Sleepy","Pungent,Skunk,Diesel",Elemental Seeds,California
-Big-Smooth,hybrid,5,"Happy,Relaxed,Giggly,Uplifted,Aroused","Blueberry,Spicy/Herbal,Nutty",,
+Big-Smooth,hybrid,5,"Happy,Relaxed,Giggly,Uplifted,Aroused","Blueberry,Spicy_Herbal,Nutty",,
 Big-Sur-Holy-Bud,sativa,4,"Relaxed,Uplifted,Focused,Euphoric,Energetic","Earthy,Menthol,Pine",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Big-White,indica,4.2,"Relaxed,Uplifted,Happy,Sleepy,Euphoric","Flowery,Diesel,Sweet",,
 Big-Wreck,indica,4.1,"Relaxed,Tingly,Euphoric,Happy,Uplifted","Earthy,Pungent,Nutty",,
-Biker-Leblanc,hybrid,4.5,"Relaxed,Focused,Energetic,Euphoric,Aroused","Spicy/Herbal,Sage,Earthy",,
+Biker-Leblanc,hybrid,4.5,"Relaxed,Focused,Energetic,Euphoric,Aroused","Spicy_Herbal,Sage,Earthy",,
 Bio-Diesel,hybrid,4.4,"Euphoric,Happy,Relaxed,Energetic,Uplifted","Diesel,Earthy,Pungent",,
 Bio-Jesus,hybrid,4.6,"Happy,Relaxed,Euphoric,Sleepy,Uplifted","Earthy,Chemical,Diesel",,
-Biochem,indica,4.4,"Relaxed,Euphoric,Tingly,Sleepy,Happy","Spicy/Herbal,Earthy,Cheese",,
+Biochem,indica,4.4,"Relaxed,Euphoric,Tingly,Sleepy,Happy","Spicy_Herbal,Earthy,Cheese",,
 Birds-Eye,sativa,5,"Happy,Uplifted,Energetic,Euphoric,Relaxed",,"Canadian LP Tweed, Inc",Canada
 Birthday-Cake-Kush,hybrid,4.5,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Sweet,Vanilla,Lemon",,
 Black-84,indica,4.5,"Relaxed,Sleepy,Happy,Hungry,Euphoric","Pungent,Earthy,Grape",Afghani Genetics,
@@ -223,7 +223,7 @@ Black-Cherry-Cheesecake,hybrid,4.5,"Creative,Relaxed,Euphoric,Hungry,Uplifted","
 Black-Cherry-Og,indica,4.4,"Relaxed,Uplifted,Happy,Giggly,Euphoric","Berry,Sweet,Earthy",Grand Daady Purp,
 Black-Cherry-Pie,hybrid,5,"Relaxed,Uplifted,Creative,Euphoric,Happy","Earthy,Berry,Sweet",,
 Black-Cherry-Soda,hybrid,4.3,"Relaxed,Happy,Euphoric,Hungry,Uplifted","Sweet,Berry,Earthy",,
-Black-Dhalia,hybrid,4,"Relaxed,Happy,Sleepy,Euphoric,Tingly","Sweet,Earthy,Spicy/Herbal",,
+Black-Dhalia,hybrid,4,"Relaxed,Happy,Sleepy,Euphoric,Tingly","Sweet,Earthy,Spicy_Herbal",,
 Black-Diamond,indica,4.4,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Earthy,Woody,Berry",,
 Black-Diesel,sativa,4.1,"Relaxed,Happy,Hungry,Talkative,Euphoric","Diesel,Pungent,Earthy",Advanced Seeds,
 Black-Domina,indica,4.2,"Relaxed,Euphoric,Happy,Sleepy,Uplifted","Pepper,Pine,Woody",,
@@ -245,15 +245,15 @@ Blackberry,hybrid,4.2,"Relaxed,Euphoric,Happy,Uplifted,Sleepy","Berry,Sweet,Eart
 Blackberry-Bubble,indica,4.7,"Relaxed,Happy,Euphoric,Uplifted,Creative","Berry,Blueberry,Skunk",Arizona Natural Selections,
 Blackberry-Chem-Og,hybrid,4.3,"Talkative,Creative,Focused,Relaxed,Euphoric","Berry,Chemical",,
 Blackberry-Cream,indica,4.8,"Relaxed,Happy,Uplifted,Sleepy,Euphoric","Berry,Sweet,Vanilla",Exotic Genetix,"Tacoma, Washington"
-Blackberry-Diesel,sativa,4.1,"Happy,Energetic,Relaxed,Euphoric,Talkative","Diesel,Spicy/Herbal,Pungent",,
-Blackberry-Dream,hybrid,4.2,"Happy,Energetic,Uplifted,Relaxed,Talkative","Spicy/Herbal,Sweet,Grapefruit",,
+Blackberry-Diesel,sativa,4.1,"Happy,Energetic,Relaxed,Euphoric,Talkative","Diesel,Spicy_Herbal,Pungent",,
+Blackberry-Dream,hybrid,4.2,"Happy,Energetic,Uplifted,Relaxed,Talkative","Spicy_Herbal,Sweet,Grapefruit",,
 Blackberry-Fire,hybrid,5,"Creative,Happy","Sweet,Berry,Blueberry",,
 Blackberry-Hashplant,indica,3.7,"Euphoric,Sleepy,Uplifted,Energetic,Happy","Berry,Sweet,Earthy",,
-Blackberry-Haze,sativa,4.5,"Happy,Relaxed,Uplifted,Hungry,Focused","Berry,Sweet,Spicy/Herbal",Nebu Hybridz,
+Blackberry-Haze,sativa,4.5,"Happy,Relaxed,Uplifted,Hungry,Focused","Berry,Sweet,Spicy_Herbal",Nebu Hybridz,
 Blackberry-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Berry,Sweet,Earthy",,
 Blackberry-Lime-Haze,sativa,4.7,"Happy,Uplifted,Euphoric,Talkative,Focused","Berry,Sweet,Lime",,
 Blackberry-Pie,hybrid,4.7,"Euphoric,Creative,Hungry,Relaxed,Happy","Sweet,Blueberry,Berry",,
-Blackberry-Rhino,indica,4.3,"Relaxed,Happy,Creative,Hungry,Sleepy","Berry,Sweet,Spicy/Herbal",,
+Blackberry-Rhino,indica,4.3,"Relaxed,Happy,Creative,Hungry,Sleepy","Berry,Sweet,Spicy_Herbal",,
 Blackberry-Trainwreck,hybrid,4.3,"Relaxed,Euphoric,Happy,Uplifted,Energetic","Berry,Sweet,Pungent",,
 Blackberry-X-Blueberry,indica,4.3,"Relaxed,Happy,Uplifted,Euphoric,Creative","Berry,Earthy,Blueberry",LivWell,
 Blackwater,indica,4.6,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Earthy,Berry,Grape",,
@@ -263,10 +263,10 @@ Blizzard-Bush,hybrid,0,None,None,,
 Blob-Og,hybrid,4.7,"Euphoric,Talkative,Uplifted,Creative,Happy","Diesel,Lemon,Chemical",,
 Blockhead,hybrid,4.2,"Relaxed,Happy,Hungry,Uplifted,Euphoric","Pungent,Woody,Flowery",,
 Blood-Orange-Kush,indica,5,"Sleepy,Uplifted,Euphoric,Happy,Creative","Diesel,Citrus,Orange",,
-Bloodhound,hybrid,4.2,"Happy,Relaxed,Focused,Talkative,Euphoric","Earthy,Sage,Spicy/Herbal",RedEyed Genetics,
+Bloodhound,hybrid,4.2,"Happy,Relaxed,Focused,Talkative,Euphoric","Earthy,Sage,Spicy_Herbal",RedEyed Genetics,
 Bloos-Kloos,indica,4.6,"Creative,Relaxed,Happy,Euphoric,Focused","Flowery,Earthy,Berry",,
-Blowfish,hybrid,4.2,"Relaxed,Uplifted,Happy,Euphoric,Tingly","Spicy/Herbal,Pepper,Sage",Dutch Flowers,
-Blucifer,sativa,4.3,"Happy,Uplifted,Relaxed,Talkative,Focused","Blueberry,Spicy/Herbal,Berry",Terraform Genetics,
+Blowfish,hybrid,4.2,"Relaxed,Uplifted,Happy,Euphoric,Tingly","Spicy_Herbal,Pepper,Sage",Dutch Flowers,
+Blucifer,sativa,4.3,"Happy,Uplifted,Relaxed,Talkative,Focused","Blueberry,Spicy_Herbal,Berry",Terraform Genetics,
 Blue-Afghani,indica,4.4,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Blueberry,Woody,Pungent",Jordan of the Islands,Canada
 Blue-Alien,indica,4.5,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Blueberry,Berry,Citrus",,
 Blue-Bastard,indica,3.8,"Euphoric,Happy,Sleepy,Uplifted,Creative","Berry,Pine",,
@@ -284,7 +284,7 @@ Blue-Diesel,hybrid,4.4,"Relaxed,Euphoric,Uplifted,Happy,Creative","Blueberry,Die
 Blue-Dot,sativa,4.7,"Energetic,Happy,Relaxed,Focused,Uplifted","Earthy,Pungent,Berry",,"Sonoma, California"
 Blue-Dragon,hybrid,4.4,"Euphoric,Uplifted,Relaxed,Happy,Giggly","Blueberry,Berry,Sweet",,
 Blue-Dream,hybrid,4.4,"Relaxed,Happy,Uplifted,Euphoric,Creative","Blueberry,Berry,Sweet",,
-Blue-Dynamite,indica,4.3,"Relaxed,Euphoric,Focused,Creative,Sleepy","Berry,Spicy/Herbal,Pine",Next Generation Seeds,
+Blue-Dynamite,indica,4.3,"Relaxed,Euphoric,Focused,Creative,Sleepy","Berry,Spicy_Herbal,Pine",Next Generation Seeds,
 Blue-Frost,hybrid,4.5,"Uplifted,Happy,Relaxed,Euphoric,Creative","Blueberry,Cheese,Menthol",,
 Blue-Galaxy,hybrid,4.7,"Relaxed,Happy,Talkative,Creative,Energetic","Berry,Earthy,Blueberry",,
 Blue-God,indica,4.7,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Berry,Sweet,Blueberry",Jordan of the Islands,Canada
@@ -292,7 +292,7 @@ Blue-Goo,hybrid,4.1,"Happy,Uplifted,Creative,Energetic,Talkative","Berry,Skunk,P
 Blue-Hash,hybrid,4.4,"Relaxed,Happy,Euphoric,Sleepy,Uplifted","Sweet,Blueberry,Earthy",,
 Blue-Hawaiian,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Citrus,Earthy,Sweet",,
 Blue-Haze,hybrid,4.3,"Uplifted,Euphoric,Relaxed,Happy,Energetic","Blueberry,Sweet,Flowery",,
-Blue-Heron,hybrid,4.7,"Relaxed,Sleepy,Talkative,Happy,Uplifted","Woody,Spicy/Herbal,Pine",Dynasty Seeds ,
+Blue-Heron,hybrid,4.7,"Relaxed,Sleepy,Talkative,Happy,Uplifted","Woody,Spicy_Herbal,Pine",Dynasty Seeds ,
 Blue-Ivy,hybrid,4.4,"Relaxed,Focused,Hungry,Happy,Talkative","Earthy,Pepper,Blueberry",,
 Blue-Jay-Way,hybrid,4.5,"Relaxed,Uplifted,Focused,Sleepy,Euphoric","Sweet,Citrus,Blueberry",Matrix NV,
 Blue-Kiss,hybrid,4.7,"Relaxed,Talkative,Creative,Euphoric,Focused","Sweet,Berry,Blueberry",,
@@ -374,7 +374,7 @@ Brainstorm-Haze,sativa,3.9,"Talkative,Happy,Uplifted,Focused,Energetic","Sweet,M
 Brainwreck,hybrid,4.7,"Creative,Focused,Uplifted,Happy,Euphoric","Citrus,Earthy,Sweet",,
 Brand-X,indica,5,"Sleepy,Relaxed,Hungry,Happy,Euphoric","Earthy,Pine,Tar",,Michigan
 Brandywine,indica,4.5,"Relaxed,Happy,Uplifted,Tingly,Euphoric","Grape,Rose,Honey",Dungeons Vault Genetics,
-Brazil-Amazonia,sativa,4.5,"Uplifted,Euphoric,Focused,Happy,Relaxed","Spicy/Herbal,Berry,Earthy",World of Seeds Bank,Brazil
+Brazil-Amazonia,sativa,4.5,"Uplifted,Euphoric,Focused,Happy,Relaxed","Spicy_Herbal,Berry,Earthy",World of Seeds Bank,Brazil
 Brian-Berry-Cough,hybrid,4.5,"Happy,Uplifted,Relaxed,Energetic,Hungry","Berry,Tropical,Sweet",TGA Genetics,"Seattle, Washington"
 Bright-Fire,indica,5,"Hungry,Relaxed,Uplifted,Creative,Euphoric","Pungent,Earthy,Citrus",Palomar Craft Cannabis,
 Bright-Moments,hybrid,0,None,None,,
@@ -448,7 +448,7 @@ Caramel-Candy-Kush,hybrid,4.6,"Relaxed,Happy,Focused,Creative,Talkative","Vanill
 Caramel-Kona-Coffee-Cookies,hybrid,0,None,None,,
 Caramel-Kona-Coffee-Kush,indica,4.5,"Relaxed,Uplifted,Tingly,Hungry,Happy","Coffee,Vanilla,Woody",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
 Caramelicious,hybrid,4.2,"Focused,Happy,Relaxed,Euphoric,Creative","Vanilla,Sweet,Coffee",,
-Caramella,indica,4.8,"Aroused,Euphoric,Relaxed","Menthol,Spicy/Herbal,Sweet",,
+Caramella,indica,4.8,"Aroused,Euphoric,Relaxed","Menthol,Spicy_Herbal,Sweet",,
 Caramelo,sativa,4.1,"Energetic,Happy,Uplifted,Relaxed,Talkative","Sweet,Coffee,Vanilla",Delicious Seeds,"Valencia, Spain"
 Carl-Sagan,hybrid,4.4,"Happy,Relaxed,Uplifted,Focused,Aroused","Sweet,Earthy,Pine",,
 Carnival,sativa,4.3,"Talkative,Uplifted,Happy,Energetic,Relaxed","Earthy,Pine",Ministry of Cannabis,
@@ -462,13 +462,13 @@ Catfish,sativa,4.8,"Uplifted,Creative,Energetic,Euphoric,Happy","Earthy,Ammonia,
 Cbd-Blue-Shark,hybrid,4.3,"Relaxed,Happy,Uplifted,Focused,Euphoric","Blueberry,Flowery,Earthy",,
 Cbd-Critical-Cure,indica,4.6,"Relaxed,Sleepy,Happy,Focused,Euphoric","Sweet,Earthy,Berry",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Cbd-Critical-Mass,indica,4.6,"Relaxed,Happy,Sleepy,Hungry,Uplifted","Earthy,Pungent,Menthol",Dinafem Seeds,"Barcelona, Spain"
-Cbd-Kush,hybrid,4.5,"Relaxed,Happy,Focused,Uplifted,Euphoric","Earthy,Woody,Spicy/Herbal",,
+Cbd-Kush,hybrid,4.5,"Relaxed,Happy,Focused,Uplifted,Euphoric","Earthy,Woody,Spicy_Herbal",,
 Cbd-Lilly,sativa,4.5,"Focused,Happy,Sleepy,Energetic,Euphoric",Citrus,,
 Cbd-Mango-Haze,sativa,4.4,"Focused,Relaxed,Uplifted,Energetic,Euphoric","Mango,Tropical,Flowery",CBD Crew,
 Cbd-Ox,indica,5,"Aroused,Sleepy,Happy,Euphoric,Hungry","Sweet,Berry,Flowery",Rare Dankness Seeds,Colorado
 Cbd-Rich-Blessing,sativa,0,None,None,Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Cbd-Shark,indica,4.5,"Relaxed,Tingly,Happy,Sleepy,Euphoric","Pungent,Nutty,Earthy",,
-Cello-Sweet-Og,hybrid,4,"Sleepy,Relaxed,Uplifted,Creative,Euphoric","Sweet,Spicy/Herbal,Pineapple",,
+Cello-Sweet-Og,hybrid,4,"Sleepy,Relaxed,Uplifted,Creative,Euphoric","Sweet,Spicy_Herbal,Pineapple",,
 Central-American,sativa,4,"Relaxed,Euphoric,Happy,Hungry","Earthy,Diesel,Sweet",Unknown,Central America
 Cerebro-Haze,sativa,4.2,"Uplifted,Happy,Relaxed,Creative,Energetic","Pepper,Citrus,Vanilla",,
 Chairman-Chem-Sou,hybrid,4.4,"Energetic,Happy,Uplifted,Creative,Euphoric","Diesel,Pepper,Citrus",Royal Choice Farms,
@@ -512,7 +512,7 @@ Cherry-Limeade,hybrid,4.3,"Relaxed,Euphoric,Happy,Tingly,Uplifted","Sweet,Lime,C
 Cherry-Og,hybrid,4.2,"Euphoric,Relaxed,Happy,Uplifted,Hungry","Berry,Diesel,Sweet",Emerald Triangle Seeds,
 Cherry-Pie,hybrid,4.4,"Happy,Relaxed,Euphoric,Uplifted,Focused","Sweet,Berry,Earthy",,
 Cherry-Pie-Kush,hybrid,4.2,"Happy,Relaxed,Euphoric,Giggly,Sleepy","Lavender,Berry,Sweet",,
-Cherry-Sauce,hybrid,5,"Talkative,Tingly,Uplifted,Creative,Energetic","Spicy/Herbal,Sweet,Flowery",Andromeda Strains,
+Cherry-Sauce,hybrid,5,"Talkative,Tingly,Uplifted,Creative,Energetic","Spicy_Herbal,Sweet,Flowery",Andromeda Strains,
 Cherry-Sherbet,hybrid,4.3,"Sleepy,Giggly,Aroused,Talkative,Tingly","Berry,Sweet,Diesel",,
 Cherry-Skunk,hybrid,4.4,"Relaxed,Happy,Uplifted,Aroused,Hungry","Earthy,Sweet,Skunk",,
 Cherry-Slyder,hybrid,4.7,"Focused,Uplifted,Happy,Relaxed","Sweet,Earthy,Pine",,
@@ -522,7 +522,7 @@ Chicle,hybrid,5,"Aroused,Euphoric,Focused,Happy,Hungry","Ammonia,Diesel,Mint",TH
 Chiesel,hybrid,4.4,"Happy,Euphoric,Relaxed,Uplifted,Focused","Diesel,Pungent,Cheese",,
 China-Yunnan,indica,4.3,"Uplifted,Happy,Relaxed,Euphoric,Sleepy","Sweet,Earthy,Cheese",,
 Chiquita-Banana,hybrid,4.9,"Happy,Euphoric,Uplifted,Relaxed,Creative","Sweet,Orange,Lemon",Utopia Farms,
-Chloe,hybrid,4.9,"Creative,Euphoric,Uplifted,Talkative,Focused","Earthy,Spicy/Herbal,Sweet",,
+Chloe,hybrid,4.9,"Creative,Euphoric,Uplifted,Talkative,Focused","Earthy,Spicy_Herbal,Sweet",,
 Chocoholic,hybrid,0,None,None,,
 Chocolate-Chunk,indica,4.2,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Sweet,Woody,Earthy",THSeeds,"Amsterdam, Netherlands"
 Chocolate-Diesel,sativa,4.6,"Euphoric,Energetic,Happy,Creative,Uplifted","Diesel,Woody,Nutty",,
@@ -534,14 +534,14 @@ Chocolate-Meringue,indica,0,None,None,THClones,
 Chocolate-Og,indica,4.8,"Relaxed,Uplifted,Euphoric,Aroused,Tingly","Sweet,Earthy,Pungent",THClones,
 Chocolate-Rain,hybrid,5,"Creative,Happy,Talkative,Uplifted,Energetic","Sweet,Vanilla,Coffee",Eskobar Seeds,
 Chocolate-Sap,hybrid,4.5,"Talkative,Uplifted,Energetic,Happy,Euphoric","Citrus,Skunk,Chemical",,
-Chocolate-Thai,sativa,4.2,"Uplifted,Happy,Energetic,Focused,Creative","Spicy/Herbal,Coffee,Woody",,Thailand
-Chocolate-Thunder,sativa,4.1,"Uplifted,Creative,Happy,Energetic,Focused","Honey,Nutty,Spicy/Herbal",Unknown,
+Chocolate-Thai,sativa,4.2,"Uplifted,Happy,Energetic,Focused,Creative","Spicy_Herbal,Coffee,Woody",,Thailand
+Chocolate-Thunder,sativa,4.1,"Uplifted,Creative,Happy,Energetic,Focused","Honey,Nutty,Spicy_Herbal",Unknown,
 Chocolate-Tonic,hybrid,0,None,None,,
 Chocolope,sativa,4.3,"Happy,Uplifted,Energetic,Focused,Euphoric","Coffee,Earthy,Sweet",DNA Genetics,"Amsterdam,Canada, California"
 Chocolope-Kush,hybrid,4,"Happy,Creative,Focused,Uplifted,Euphoric","Earthy,Sweet,Vanilla",,
 Chong-Star,hybrid,4.5,"Relaxed,Happy,Uplifted,Creative,Euphoric","Honey,Earthy,Skunk",,
 Chr-Super-Og,indica,4.3,"Relaxed,Giggly,Sleepy,Happy,Talkative","Skunk,Diesel,Sweet",,
-Chronic,hybrid,4.4,"Relaxed,Happy,Giggly,Euphoric,Energetic","Woody,Spicy/Herbal,Sweet",Serious Seed,Africa
+Chronic,hybrid,4.4,"Relaxed,Happy,Giggly,Euphoric,Energetic","Woody,Spicy_Herbal,Sweet",Serious Seed,Africa
 Chronic-Thunder,indica,4.5,"Relaxed,Happy,Euphoric,Sleepy,Tingly","Pungent,Sweet,Diesel",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Chuckys-Bride,hybrid,4.6,"Giggly,Happy,Energetic,Euphoric,Talkative","Pungent,Lemon,Flowery",Eskobar Seeds,
 Chunky-Diesel,hybrid,4.6,"Energetic,Relaxed,Euphoric,Uplifted,Happy","Diesel,Pungent,Earthy",,
@@ -560,13 +560,13 @@ Citrus-Sunshine-Haze,hybrid,4.8,"Happy,Uplifted,Focused,Creative,Energetic","Cit
 Clementine,sativa,4.3,"Happy,Energetic,Focused,Uplifted,Euphoric","Citrus,Orange,Sweet",Crockett Family Farms,
 Clementine-Kush,hybrid,4.4,"Happy,Euphoric,Relaxed,Giggly,Tingly","Citrus,Orange,Flowery",Colorado Seed Inc.,"Boulder, Colorado"
 Clementines-Terpentine,hybrid,5,"Aroused,Uplifted,Creative,Focused,Happy","Sweet,Earthy,Pine",Taste Budz,
-Clockwork-Orange,hybrid,5,"Relaxed,Happy,Uplifted,Hungry,Aroused","Spicy/Herbal,Sweet,Citrus",Riot Seeds,
+Clockwork-Orange,hybrid,5,"Relaxed,Happy,Uplifted,Hungry,Aroused","Spicy_Herbal,Sweet,Citrus",Riot Seeds,
 Cloud-9,hybrid,4.3,"Euphoric,Energetic,Happy,Giggly,Relaxed","Tropical,Flowery,Rose",,
 Club-69,indica,5,"Sleepy,Relaxed","Diesel,Flowery,Earthy",Karma Genetics ,Arizona
 Cluster-Bomb,hybrid,4.3,"Euphoric,Focused,Relaxed,Sleepy,Uplifted",Sweet,Bomb Seeds,
 Coconut-Oil,hybrid,3,"Aroused,Happy,Relaxed,Uplifted,Creative","Tropical,Flowery,Pungent",Taste Budz,
 Cold-Creek-Kush,hybrid,4.3,"Relaxed,Happy,Hungry,Euphoric,Uplifted","Earthy,Pine,Woody",,
-Colombian-Gold,sativa,4.5,"Happy,Euphoric,Energetic,Uplifted,Talkative","Earthy,Pungent,Spicy/Herbal",Unknown,Colombia
+Colombian-Gold,sativa,4.5,"Happy,Euphoric,Energetic,Uplifted,Talkative","Earthy,Pungent,Spicy_Herbal",Unknown,Colombia
 Colombian-Mojito,sativa,5,"Aroused,Talkative,Tingly,Uplifted,Creative","Minty,Sweet,Citrus",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
 Colorado-Bubba,indica,4.6,"Relaxed,Happy,Sleepy,Uplifted,Creative","Pineapple,Mango,Pine",Vault Gentics,
 Colorado-Chem,hybrid,4.4,"Relaxed,Uplifted,Euphoric,Happy,Tingly","Earthy,Sweet,Skunk",,
@@ -577,7 +577,7 @@ Confidential-Cheese,indica,4.5,"Sleepy,Uplifted,Relaxed,Tingly,Happy","Cheese,Pi
 Confidential-Wreck,hybrid,4.2,"Hungry,Relaxed,Tingly,Uplifted,Creative",,,
 Congo,sativa,5,"Uplifted,Energetic,Euphoric,Happy,Talkative","Ammonia,Diesel,Sweet",Ace Seeds,"Valencia, Spain"
 Connie-Chung,hybrid,4.2,"Uplifted,Relaxed,Happy,Sleepy,Creative","Sweet,Earthy,Pine",DNA Genetics,"Amsterdam,Canada, California"
-Conspiracy-Kush,indica,4.6,"Relaxed,Happy,Sleepy,Uplifted,Giggly","Spicy/Herbal,Berry,Earthy",Heroes of the Farm Genetics ,
+Conspiracy-Kush,indica,4.6,"Relaxed,Happy,Sleepy,Uplifted,Giggly","Spicy_Herbal,Berry,Earthy",Heroes of the Farm Genetics ,
 Cookie-Breath,hybrid,5,"Happy,Relaxed,Uplifted,Giggly,Euphoric","Sweet,Pungent,Earthy",,
 Cookie-Dough,hybrid,4.5,"Relaxed,Happy,Euphoric,Giggly,Hungry","Sweet,Earthy,Vanilla",,
 Cookie-Jar,hybrid,4.6,"Relaxed,Sleepy,Euphoric,Hungry,Uplifted","Pungent,Sweet,Flowery",,
@@ -587,7 +587,7 @@ Cookies-And-Cream,hybrid,4.6,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Sweet,Van
 Cookies-And-Dream,hybrid,4.5,"Uplifted,Relaxed,Happy,Euphoric,Giggly","Sweet,Berry,Citrus",,
 Cookies-Kush,indica,4.5,"Relaxed,Happy,Euphoric,Hungry,Sleepy","Sweet,Earthy,Pungent",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Copper-Kush,indica,3.9,"Relaxed,Euphoric,Happy,Uplifted,Tingly","Earthy,Pungent,Woody",Nine Point Growth Industries,Washington
-Corleone-Kush,indica,4.6,"Relaxed,Euphoric,Happy,Hungry,Sleepy","Earthy,Spicy/Herbal,Flowery",,
+Corleone-Kush,indica,4.6,"Relaxed,Euphoric,Happy,Hungry,Sleepy","Earthy,Spicy_Herbal,Flowery",,
 Cornbread,indica,4.6,"Relaxed,Euphoric,Hungry,Happy,Sleepy","Lemon,Citrus,Woody",Rare Dankness Seeds,Colorado
 Cosmic-Collision,sativa,4.2,"Uplifted,Energetic,Talkative,Euphoric,Relaxed","Sweet,Earthy,Minty",MTG Seeds,
 Cotton-Candy-Kush,hybrid,4.3,"Relaxed,Happy,Euphoric,Uplifted,Energetic","Sweet,Berry,Flowery",,
@@ -607,7 +607,7 @@ Critical-Jack,hybrid,4.4,"Energetic,Creative,Happy,Focused,Uplifted","Pine,Citru
 Critical-Kali-Mist,sativa,4.6,"Creative,Focused,Uplifted,Happy,Euphoric","Pine,Sweet,Earthy",Delicious Seeds,"Valencia, Spain"
 Critical-Kush,indica,4.5,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Earthy,Pungent,Sweet",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Critical-Mass,indica,4.3,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Pungent,Sweet",Mr Nice Seeds ,
-Critical-Plus,hybrid,4.2,"Relaxed,Happy,Hungry,Sleepy,Creative","Woody,Spicy/Herbal,Pungent",,
+Critical-Plus,hybrid,4.2,"Relaxed,Happy,Hungry,Sleepy,Creative","Woody,Spicy_Herbal,Pungent",,
 Critical-Plus-20,indica,4.2,"Happy,Relaxed,Uplifted,Euphoric,Aroused","Lemon,Earthy,Pine",,
 Critical-Sensi-Star,indica,4.2,"Relaxed,Sleepy,Happy,Uplifted,Euphoric","Citrus,Sweet,Lemon",Delicious Seeds,"Valencia, Spain"
 Critical-Skunk,hybrid,4.5,"Happy,Relaxed,Creative,Hungry,Aroused","Earthy,Skunk",Mr Nice Seeds ,
@@ -615,7 +615,7 @@ Critical-Widow,hybrid,4.3,"Relaxed,Euphoric,Uplifted,Focused,Sleepy","Citrus,Pun
 Critters-Cookies,hybrid,3.5,"Uplifted,Tingly,Relaxed,Euphoric,Aroused","Lemon,Earthy,Pungent",,
 Cronuts,hybrid,4.7,None,None,,
 Crosswalker,indica,4.4,"Relaxed,Happy,Euphoric,Uplifted,Creative","Sweet,Blueberry,Pine",,
-Crouching-Tiger-Hidden-Alien,indica,4.8,"Relaxed,Happy,Euphoric,Tingly,Uplifted","Pine,Spicy/Herbal,Earthy",Exotic Genetix,"Tacoma, Washington"
+Crouching-Tiger-Hidden-Alien,indica,4.8,"Relaxed,Happy,Euphoric,Tingly,Uplifted","Pine,Spicy_Herbal,Earthy",Exotic Genetix,"Tacoma, Washington"
 Crown-Og,indica,4.7,"Relaxed,Happy,Sleepy,Uplifted,Euphoric","Diesel,Earthy,Pepper",,
 Crown-Royale,indica,4.7,"Relaxed,Happy,Euphoric,Sleepy,Aroused","Sweet,Flowery,Berry",,
 Crunch-Berry-Kush,hybrid,4.4,"Relaxed,Happy,Euphoric,Sleepy,Uplifted","Sweet,Berry,Honey",Encanto Green Cross,"Phoenix, Arizona"
@@ -625,19 +625,19 @@ Crystal-Gayle,hybrid,4.4,"Focused,Creative,Euphoric,Happy,Hungry","Diesel,Earthy
 Crystalberry,indica,4.5,"Aroused,Relaxed,Uplifted,Giggly,Happy","Berry,Blueberry,Grape",,
 Cuvee,indica,4.5,"Euphoric,Happy,Relaxed,Giggly,Tingly","Earthy,Grape,Berry",TGA Genetics,"Seattle, Washington"
 Dairy-Queen,hybrid,4.4,"Happy,Relaxed,Euphoric,Uplifted,Creative","Cheese,Sweet,Earthy",,
-Dakini-Kush,indica,4.5,"Relaxed,Sleepy,Happy,Euphoric,Giggly","Earthy,Coffee,Spicy/Herbal",,
+Dakini-Kush,indica,4.5,"Relaxed,Sleepy,Happy,Euphoric,Giggly","Earthy,Coffee,Spicy_Herbal",,
 Damn-Sour,sativa,4,"Hungry,Happy,Tingly,Uplifted,Creative","Sweet,Earthy,Ammonia",Green House Seeds,"Amsterdam, Netherlands"
-Damnesia,hybrid,4.2,"Relaxed,Happy,Euphoric,Uplifted,Energetic","Spicy/Herbal,Pepper,Earthy",,
-Dance-World,sativa,4.6,"Happy,Relaxed,Uplifted,Euphoric,Talkative","Earthy,Citrus,Spicy/Herbal",Royal Queen Seeds,Spain 
+Damnesia,hybrid,4.2,"Relaxed,Happy,Euphoric,Uplifted,Energetic","Spicy_Herbal,Pepper,Earthy",,
+Dance-World,sativa,4.6,"Happy,Relaxed,Uplifted,Euphoric,Talkative","Earthy,Citrus,Spicy_Herbal",Royal Queen Seeds,Spain 
 Dancehall,hybrid,4.6,"Happy,Relaxed,Uplifted,Energetic,Creative","Earthy,Citrus,Flowery",Reggae Seeds,
 Dank-Schrader,indica,4.9,"Relaxed,Happy,Uplifted,Euphoric,Hungry","Tropical,Pine,Earthy",,
 Dank-Sinatra,hybrid,5,"Happy,Uplifted,Relaxed,Sleepy,Euphoric","Diesel,Berry,Tropical",,
 Dark-Blue-Dream,hybrid,4.6,"Happy,Euphoric,Relaxed,Uplifted,Giggly","Sweet,Berry,Blueberry",Unknown,
-Dark-Side-Of-The-Moon,indica,4.6,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Berry,Earthy,Spicy/Herbal",Exotic Genetix,"Tacoma, Washington"
+Dark-Side-Of-The-Moon,indica,4.6,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Berry,Earthy,Spicy_Herbal",Exotic Genetix,"Tacoma, Washington"
 Dark-Star,indica,4.4,"Relaxed,Sleepy,Happy,Hungry,Euphoric","Earthy,Pungent,Skunk",,
 Darkside-Og,indica,4.6,"Sleepy,Relaxed,Euphoric,Hungry,Happy","Lemon,Citrus,Earthy",Colorado Seed Inc.,"Boulder, Colorado"
 Darth-Vader-Og,indica,4.4,"Relaxed,Sleepy,Euphoric,Hungry,Tingly","Earthy,Pine,Grape",,
-Dawgfather-Og,hybrid,4.1,"Sleepy,Relaxed","Spicy/Herbal,Pepper,Pungent",AlphaKronic Genes,
+Dawgfather-Og,hybrid,4.1,"Sleepy,Relaxed","Spicy_Herbal,Pepper,Pungent",AlphaKronic Genes,
 Dawgs-Waltz,hybrid,4.6,"Euphoric,Relaxed,Uplifted,Happy,Sleepy","Earthy,Skunk,Sweet",Unknown,
 Day-Tripper,hybrid,4,"Uplifted,Euphoric,Happy,Relaxed,Sleepy","Blueberry,Strawberry,Pineapple",,
 Deadhead-Og,hybrid,4.4,"Uplifted,Relaxed,Happy,Euphoric,Creative","Earthy,Pine,Diesel",,
@@ -653,21 +653,21 @@ Delahaze,sativa,4.5,"Uplifted,Happy,Energetic,Focused,Talkative","Citrus,Mango,S
 Denver-Maple,indica,4.4,"Relaxed,Sleepy,Giggly,Tingly,Uplifted","Sweet,Earthy,Pine",,
 Desert-Star,hybrid,4.8,"Hungry,Sleepy,Tingly,Uplifted,Creative",Earthy,,
 Destroyer,sativa,4.9,"Energetic,Uplifted,Euphoric,Giggly,Happy","Lavender,Ammonia,Sweet",CannaBiogen,
-Devil-Fruit,indica,4.4,"Relaxed,Happy,Euphoric,Focused,Hungry","Spicy/Herbal,Pepper,Sweet",Medical Seeds Co,Spain
-Devils-Tit,sativa,4.1,"Energetic,Focused,Relaxed,Talkative,Tingly","Spicy/Herbal,Pepper,Earthy",Snow High Seeds,Uzbekistan
-Diablo,indica,4.1,"Happy,Tingly,Euphoric,Creative,Uplifted","Sweet,Earthy,Spicy/Herbal",,
-Diamond-Og,indica,4.5,"Relaxed,Sleepy,Happy,Uplifted,Euphoric","Earthy,Spicy/Herbal,Pine",,
+Devil-Fruit,indica,4.4,"Relaxed,Happy,Euphoric,Focused,Hungry","Spicy_Herbal,Pepper,Sweet",Medical Seeds Co,Spain
+Devils-Tit,sativa,4.1,"Energetic,Focused,Relaxed,Talkative,Tingly","Spicy_Herbal,Pepper,Earthy",Snow High Seeds,Uzbekistan
+Diablo,indica,4.1,"Happy,Tingly,Euphoric,Creative,Uplifted","Sweet,Earthy,Spicy_Herbal",,
+Diamond-Og,indica,4.5,"Relaxed,Sleepy,Happy,Uplifted,Euphoric","Earthy,Spicy_Herbal,Pine",,
 Diamond-Socks,hybrid,4.3,"Happy,Relaxed",None,,
-Diamond-Valley-Kush,hybrid,5,"Happy,Relaxed,Sleepy,Creative,Energetic","Earthy,Spicy/Herbal,Pungent",,
+Diamond-Valley-Kush,hybrid,5,"Happy,Relaxed,Sleepy,Creative,Energetic","Earthy,Spicy_Herbal,Pungent",,
 Diesel-Duff,hybrid,3.8,"Euphoric,Happy,Talkative,Giggly,Uplifted","Sweet,Flowery,Honey",,
 Dieseltonic,hybrid,4.1,"Relaxed,Sleepy,Giggly,Focused,Uplifted","Diesel,Earthy,Woody",Resin Seeds,Spain
-Digweed,indica,3.9,"Happy,Uplifted,Relaxed,Sleepy,Giggly","Earthy,Skunk,Spicy/Herbal",,
+Digweed,indica,3.9,"Happy,Uplifted,Relaxed,Sleepy,Giggly","Earthy,Skunk,Spicy_Herbal",,
 Dinachem,hybrid,4.7,"Talkative,Relaxed,Happy,Energetic,Giggly","Tropical,Pungent,Earthy",Dinafem Seeds,"Barcelona, Spain"
 Dirty-Girl,sativa,4.5,"Uplifted,Happy,Focused,Euphoric,Energetic","Citrus,Sweet,Lemon",,
-Dirty-Old-Bastard,indica,5,None,"Spicy/Herbal,Flowery",,
+Dirty-Old-Bastard,indica,5,None,"Spicy_Herbal,Flowery",,
 Dirty-Widow,hybrid,4.2,"Uplifted,Energetic,Talkative,Tingly,Euphoric","Sweet,Earthy,Pungent",,
 Disney-Blue,hybrid,4.5,"Happy,Creative,Energetic,Focused,Giggly","Sweet,Lime,Apple",,
-Dizzy-Og,hybrid,5,"Giggly,Relaxed,Uplifted,Happy,Hungry","Sweet,Pungent,Spicy/Herbal",,
+Dizzy-Og,hybrid,5,"Giggly,Relaxed,Uplifted,Happy,Hungry","Sweet,Pungent,Spicy_Herbal",,
 Dj-Andy-Williams,sativa,5,"Creative,Energetic",None,,
 Dj-Short-Blueberry,indica,4.4,"Relaxed,Euphoric,Happy,Uplifted,Sleepy","Blueberry,Sweet,Berry",,
 Dj-Smoke,hybrid,4,"Euphoric,Relaxed,Aroused,Talkative,Uplifted","Sweet,Citrus,Lavender",Colorado Seed Inc.,"Boulder, Colorado"
@@ -685,7 +685,7 @@ Donna-Og,hybrid,4.6,"Creative,Euphoric,Relaxed,Happy,Hungry","Citrus,Pungent,Swe
 Doobiebird-Daydream,hybrid,4.6,"Euphoric,Tingly,Happy,Talkative,Relaxed","Blueberry,Earthy,Sweet",,
 Doox,sativa,4.4,"Uplifted,Energetic,Happy,Focused,Tingly","Sweet,Citrus,Lime",Purple Cow,
 Dopium,hybrid,4.5,"Relaxed,Euphoric,Focused,Energetic,Uplifted","Earthy,Pine,Pungent",,
-Dorit,indica,4.4,"Relaxed,Euphoric,Uplifted,Tingly,Sleepy","Ammonia,Spicy/Herbal,Minty",,
+Dorit,indica,4.4,"Relaxed,Euphoric,Uplifted,Tingly,Sleepy","Ammonia,Spicy_Herbal,Minty",,
 Double-Barrel-Og,hybrid,4.2,"Relaxed,Euphoric,Hungry,Sleepy,Uplifted","Earthy,Citrus",,
 Double-D,indica,4.3,"Euphoric,Happy,Uplifted,Aroused,Energetic","Sweet,Pungent,Skunk",KC Brains,Holland
 Double-Diesel,sativa,4.2,"Creative,Happy,Focused,Energetic,Euphoric","Diesel,Lime,Citrus",,
@@ -704,11 +704,11 @@ Dr-Grinspoon,sativa,4.8,"Happy,Energetic,Uplifted,Creative,Talkative","Earthy,Ci
 Dr-Quantum,hybrid,0,None,None,,
 Dr-Who,hybrid,4.5,"Relaxed,Happy,Euphoric,Uplifted,Creative","Sweet,Earthy,Berry",,
 Dragon-Og,hybrid,4.4,"Uplifted,Happy,Relaxed,Euphoric,Focused","Diesel,Berry,Tropical",,
-Dragons-Breath,hybrid,4.6,"Happy,Uplifted,Talkative,Relaxed,Creative","Spicy/Herbal,Earthy,Skunk",,
+Dragons-Breath,hybrid,4.6,"Happy,Uplifted,Talkative,Relaxed,Creative","Spicy_Herbal,Earthy,Skunk",,
 Dreadlock,hybrid,4,"Focused,Relaxed,Talkative,Tingly,Uplifted","Earthy,Diesel,Sage",Joint Doctor Seeds,Canada
-Dream-Beaver,sativa,4.7,"Happy,Uplifted,Energetic,Talkative,Creative","Pineapple,Woody,Spicy/Herbal",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
+Dream-Beaver,sativa,4.7,"Happy,Uplifted,Energetic,Talkative,Creative","Pineapple,Woody,Spicy_Herbal",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Dream-Berry,indica,4.5,"Relaxed,Sleepy,Euphoric,Happy,Giggly","Berry,Citrus,Diesel",,
-Dream-Lotus,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Spicy/Herbal,Woody,Tea",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
+Dream-Lotus,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Spicy_Herbal,Woody,Tea",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Dream-Police,hybrid,3.7,"Uplifted,Talkative,Energetic,Euphoric,Creative","Pepper,Blueberry,Citrus",,
 Dream-Queen,hybrid,4.3,"Happy,Uplifted,Euphoric,Relaxed,Energetic","Citrus,Sweet,Earthy",,
 Dream-Star,hybrid,4.8,"Euphoric,Creative,Uplifted,Talkative,Relaxed","Earthy,Woody,Sweet",Oaksterdam Seed Co,
@@ -720,7 +720,7 @@ Durban-Cheese,hybrid,4.2,"Hungry,Euphoric,Uplifted,Giggly,Relaxed","Blue,Cheese,
 Durban-Cookies,sativa,4.5,"Happy,Uplifted,Euphoric,Relaxed,Hungry","Sweet,Earthy,Woody",Unknown,
 Durban-Poison,sativa,4.4,"Energetic,Happy,Uplifted,Euphoric,Focused","Earthy,Sweet,Pine",,South Africa
 Durga-Mata,indica,4.9,"Relaxed,Happy,Giggly,Uplifted,Creative","Minty,Earthy,Citrus",Paradise Seeds,"Amsterdam, Netherlands"
-Dutch-Crunch,hybrid,4.2,"Tingly,Focused,Hungry,Relaxed,Aroused","Spicy/Herbal,Pepper,Citrus",,
+Dutch-Crunch,hybrid,4.2,"Tingly,Focused,Hungry,Relaxed,Aroused","Spicy_Herbal,Pepper,Citrus",,
 Dutch-Dragon,sativa,4.5,"Euphoric,Relaxed,Happy,Creative,Focused","Citrus,Sweet,Mint",Paradise Seeds,"Amsterdam, Netherlands"
 Dutch-Hawaiian,sativa,4.3,"Happy,Relaxed,Uplifted,Euphoric,Energetic","Citrus,Sweet,Tropical",,
 Dutch-Haze,sativa,4,"Relaxed,Energetic,Creative,Happy,Aroused","Citrus,Earthy",Dutch Passion Seed Company,Amsterdam
@@ -732,25 +732,25 @@ Dutch-Treat-Haze,hybrid,4.5,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Earthy,
 Dutchberry,hybrid,4.5,"Happy,Uplifted,Energetic,Relaxed,Creative","Berry,Sweet,Orange",Artizen Cannabis,"Lacey, Washington"
 Dynamite,indica,4.4,"Relaxed,Euphoric,Happy,Hungry,Sleepy","Citrus,Grapefruit,Earthy",,
 Early-Girl,indica,3.8,"Relaxed,Happy,Hungry,Uplifted,Talkative","Citrus,Earthy,Pine",,
-Early-Miss,hybrid,3.9,"Creative,Euphoric,Relaxed,Aroused,Talkative","Pepper,Ammonia,Spicy/Herbal",Crop King Seeds,
+Early-Miss,hybrid,3.9,"Creative,Euphoric,Relaxed,Aroused,Talkative","Pepper,Ammonia,Spicy_Herbal",Crop King Seeds,
 Early-Pearl,sativa,3.9,"Relaxed,Hungry,Euphoric,Focused,Talkative","Sweet,Earthy,Tea",Sensi Seeds,"Amsterdam, Netherlands"
 Early-Skunk,hybrid,4.1,"Relaxed,Uplifted,Hungry,Happy,Energetic","Flowery,Skunk,Earthy",,
-Earth-Og,hybrid,4.2,"Relaxed,Sleepy,Hungry,Happy,Creative","Earthy,Spicy/Herbal,Pine",,
+Earth-Og,hybrid,4.2,"Relaxed,Sleepy,Hungry,Happy,Creative","Earthy,Spicy_Herbal,Pine",,
 Earthquake,hybrid,4.5,"Creative,Euphoric,Uplifted,Happy,Energetic","Woody,Pine,Earthy",,
 Earthshaker-Og,hybrid,4.4,"Happy,Euphoric,Aroused,Creative,Energetic",Earthy,,
-East-Coast-Alien,sativa,4.4,"Happy,Euphoric,Hungry,Relaxed,Focused","Diesel,Earthy,Spicy/Herbal",Unknown,
+East-Coast-Alien,sativa,4.4,"Happy,Euphoric,Hungry,Relaxed,Focused","Diesel,Earthy,Spicy_Herbal",Unknown,
 East-Coast-Sour-Diesel,sativa,4.3,"Happy,Euphoric,Relaxed,Energetic,Uplifted","Diesel,Pungent,Lemon",,
 Eastern-European,indica,5,"Sleepy,Happy,Relaxed","Earthy,Woody,Pine",,
-Easy-Bud,hybrid,4.7,"Euphoric,Relaxed,Uplifted,Creative,Happy","Lemon,Skunk,Spicy/Herbal",Royal Queen Seeds,Spain 
-Easy-Peezy,hybrid,4.5,"Relaxed,Sleepy,Uplifted,Creative,Euphoric","Lemon,Spicy/Herbal,Earthy",,
-Ebola-7,hybrid,4.5,"Talkative,Creative,Relaxed,Uplifted,Energetic","Sweet,Spicy/Herbal,Pine",,
+Easy-Bud,hybrid,4.7,"Euphoric,Relaxed,Uplifted,Creative,Happy","Lemon,Skunk,Spicy_Herbal",Royal Queen Seeds,Spain 
+Easy-Peezy,hybrid,4.5,"Relaxed,Sleepy,Uplifted,Creative,Euphoric","Lemon,Spicy_Herbal,Earthy",,
+Ebola-7,hybrid,4.5,"Talkative,Creative,Relaxed,Uplifted,Energetic","Sweet,Spicy_Herbal,Pine",,
 Ecto-Cooler,hybrid,4.4,"Happy,Euphoric,Uplifted,Creative,Focused","Citrus,Earthy,Chemical",,
 Ed-Rosenthal-Super-Bud,hybrid,4.3,"Uplifted,Relaxed,Focused,Creative,Euphoric","Earthy,Pine,Citrus",Sensi Seeds,"Amsterdam, Netherlands"
 Edelweiss,indica,4.1,"Happy,Relaxed,Hungry,Sleepy,Creative","Sweet,Lime,Earthy",,
 El-Chapo-Og,indica,4.7,"Relaxed,Happy,Uplifted,Sleepy,Euphoric","Earthy,Flowery,Pungent",,
 El-Jeffe,indica,4.7,"Euphoric,Relaxed,Happy,Tingly,Uplifted","Earthy,Pungent,Pine",Rare Dankness Seeds,Colorado
 El-Na,hybrid,5,"Aroused,Tingly,Happy,Relaxed","Earthy,Pungent,Pine",Tikum Olam,Alaska
-El-Nino,hybrid,3.8,"Happy,Sleepy,Relaxed,Uplifted,Talkative","Earthy,Woody,Spicy/Herbal",,
+El-Nino,hybrid,3.8,"Happy,Sleepy,Relaxed,Uplifted,Talkative","Earthy,Woody,Spicy_Herbal",,
 El-Perro,hybrid,4.9,"Happy,Relaxed,Uplifted,Euphoric,Sleepy","Pine,Earthy,Pungent",,
 Elderberry-Kush,hybrid,4.1,"Relaxed,Happy,Hungry,Sleepy,Euphoric","Berry,Woody,Earthy",Green Devil Genetics,Spain
 Electric-Black-Mamba,indica,5,"Relaxed,Uplifted,Creative,Sleepy,Euphoric","Earthy,Pine",,
@@ -765,7 +765,7 @@ Emerald-Jack,sativa,4.4,"Happy,Uplifted,Euphoric,Energetic,Creative","Earthy,Gra
 Emerald-Og,indica,4.7,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Citrus,Woody",California Breeders Association,
 Emperor-Cookie-Dough,hybrid,4.9,"Uplifted,Relaxed,Euphoric,Giggly,Happy","Sweet,Citrus,Diesel",,
 Endless-Sky,indica,4.5,"Euphoric,Relaxed,Happy,Sleepy,Hungry","Berry,Sweet,Butter",Greenthumb Seeds,
-Enemy-Of-The-State,indica,4.1,"Euphoric,Aroused,Focused,Tingly,Giggly","Spicy/Herbal,Tree,Fruit,Earthy",Super Strains,
+Enemy-Of-The-State,indica,4.1,"Euphoric,Aroused,Focused,Tingly,Giggly","Spicy_Herbal,Tree,Fruit,Earthy",Super Strains,
 Enigma,indica,4.6,"Relaxed,Happy,Sleepy,Giggly,Euphoric","Citrus,Pungent,Flowery",,
 Eran-Almog,indica,4.3,"Relaxed,Euphoric,Happy,Sleepy,Uplifted","Earthy,Citrus,Woody",Tikum Olam,Alaska
 Erdpurt,indica,0,None,None,Ace Seeds,"Valencia, Spain"
@@ -787,15 +787,15 @@ Fast-Eddy,hybrid,4.2,"Sleepy,Happy,Relaxed,Creative,Euphoric","Citrus,Pungent,Sk
 Fat-Axl,hybrid,4.3,"Talkative,Uplifted,Creative,Happy,Energetic","Diesel,Earthy,Skunk",,
 Fat-Nelson,hybrid,4.6,"Euphoric,Happy,Uplifted,Creative,Energetic","Citrus,Pungent,Sage",,
 Fat-Purple,indica,4.7,"Aroused,Euphoric,Relaxed,Giggly,Happy","Berry,Grape,Sweet",Hazeman,
-Faygo-Red-Pop,indica,4.8,"Relaxed,Happy,Creative,Euphoric,Giggly","Strawberry,Spicy/Herbal,Sage",710 Savant,
+Faygo-Red-Pop,indica,4.8,"Relaxed,Happy,Creative,Euphoric,Giggly","Strawberry,Spicy_Herbal,Sage",710 Savant,
 Fighting-Buddha,sativa,5,None,None,Chimera Seeds,
-Fire-Alien-Kush,hybrid,4.5,"Uplifted,Happy,Euphoric,Aroused,Giggly","Earthy,Woody,Spicy/Herbal",OG Raskal Genetics,
-Fire-Alien-Strawberry,hybrid,4,"Talkative,Happy,Hungry,Relaxed,Energetic","Spicy/Herbal,Strawberry,Earthy",OG Raskal Genetics,
+Fire-Alien-Kush,hybrid,4.5,"Uplifted,Happy,Euphoric,Aroused,Giggly","Earthy,Woody,Spicy_Herbal",OG Raskal Genetics,
+Fire-Alien-Strawberry,hybrid,4,"Talkative,Happy,Hungry,Relaxed,Energetic","Spicy_Herbal,Strawberry,Earthy",OG Raskal Genetics,
 Fire-Haze,sativa,4.2,"Euphoric,Focused,Happy,Relaxed,Uplifted","Sweet,Berry,Earthy",,
 Fire-Og,hybrid,4.4,"Relaxed,Happy,Euphoric,Uplifted,Energetic","Earthy,Citrus,Lemon",,
 Firewalker-Og,sativa,4.3,"Uplifted,Happy,Relaxed,Euphoric,Creative","Pine,Woody,Citrus",,
 First-48,hybrid,4,"Uplifted,Focused,Hungry,Relaxed",None,,
-Flaming-Cookies,indica,4.2,"Happy,Relaxed,Euphoric,Tingly,Sleepy","Spicy/Herbal,Sweet,Diesel",,
+Flaming-Cookies,indica,4.2,"Happy,Relaxed,Euphoric,Tingly,Sleepy","Spicy_Herbal,Sweet,Diesel",,
 Flo,hybrid,4.2,"Happy,Uplifted,Relaxed,Creative,Focused","Sweet,Earthy,Flowery",Dutch Passion Seed Company,Amsterdam
 Flo-Limone,sativa,4.8,"Euphoric,Relaxed,Uplifted,Happy,Tingly","Lemon,Sweet,Tropical",,
 Flo-Og,indica,4.6,"Happy,Relaxed,Euphoric,Uplifted,Creative","Flowery,Earthy,Pungent",,
@@ -805,12 +805,12 @@ Flowers-For-Algernon,hybrid,5,"Uplifted,Creative,Aroused,Talkative,Energetic","D
 Fn-Louzer,indica,0,"Sleepy,Relaxed,Aroused,Tingly,Focused","Diesel,Earthy,Pungent",Mr Mack’s Snacks,
 Forbidden-Fruit,indica,4.6,"Relaxed,Happy,Euphoric,Sleepy,Creative","Citrus,Grapefruit,Tropical",,
 Fortune-Cookies,hybrid,4.6,"Relaxed,Happy,Focused,Euphoric,Creative","Earthy,Honey,Sweet",,
-Four-Cups,hybrid,5,"Aroused,Talkative,Tingly,Uplifted,Energetic","Earthy,Diesel,Spicy/Herbal",,
+Four-Cups,hybrid,5,"Aroused,Talkative,Tingly,Uplifted,Energetic","Earthy,Diesel,Spicy_Herbal",,
 Four-Star-General,hybrid,4.8,"Euphoric,Hungry,Sleepy,Relaxed,Happy","Diesel,Flowery,Earthy",Fire Bros,Washington State
 Four-Way,indica,5,"Sleepy,Euphoric,Relaxed,Focused","Pepper,Sweet,Honey",,
 Frankenstein,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Tingly","Lavender,Tobacco,Earthy",,
 Franks-Gift,hybrid,3.9,"Relaxed,Happy,Focused,Giggly,Uplifted","Skunk,Woody,Tobacco",,
-Fred-Flipn-Stoned,indica,5,"Happy,Relaxed,Sleepy,Tingly,Euphoric","Spicy/Herbal,Sage,Tree,Fruit",Shaman Stinky Steve and Cereal Killer Genetics,
+Fred-Flipn-Stoned,indica,5,"Happy,Relaxed,Sleepy,Tingly,Euphoric","Spicy_Herbal,Sage,Tree,Fruit",Shaman Stinky Steve and Cereal Killer Genetics,
 Freezeland,indica,3.6,"Relaxed,Sleepy,Focused,Talkative,Happy","Pine,Woody,Earthy",,
 Frida,indica,4.9,"Relaxed,Happy,Creative,Sleepy,Aroused","Lemon,Earthy,Pine",Raven Grass,
 Frisian-Dew,hybrid,4.2,"Euphoric,Relaxed,Happy,Uplifted,Tingly","Sweet,Citrus,Pungent",,
@@ -827,7 +827,7 @@ Fruity-Pebbles,hybrid,4.4,"Happy,Relaxed,Uplifted,Euphoric,Giggly","Sweet,Tropic
 Fruity-Widow,hybrid,4.9,"Relaxed,Sleepy,Happy,Hungry,Talkative","Sweet,Blueberry",710 Genetics,
 Fruitylicious,indica,4,"Relaxed,Happy,Euphoric,Uplifted,Aroused","Sweet,Blueberry,Minty",Mandala Seeds,
 Fucking-Incredible,indica,4.3,"Relaxed,Happy,Euphoric,Hungry,Giggly","Earthy,Pungent,Woody",,
-Full-Moon,sativa,4.9,"Aroused,Creative,Euphoric,Happy,Uplifted","Spicy/Herbal,Citrus,Earthy",,
+Full-Moon,sativa,4.9,"Aroused,Creative,Euphoric,Happy,Uplifted","Spicy_Herbal,Citrus,Earthy",,
 Funfetti,hybrid,4.8,"Happy,Relaxed,Euphoric,Energetic,Uplifted","Berry,Woody,Earthy",,
 Funky-Monkey,indica,4.4,"Relaxed,Tingly,Happy,Giggly,Uplifted","Grape,Earthy,Berry",,
 Future,hybrid,4.8,"Relaxed,Euphoric,Uplifted,Sleepy,Happy","Diesel,Earthy,Citrus",Exotic Genetix,"Tacoma, Washington"
@@ -838,7 +838,7 @@ G13-Haze,hybrid,4.4,"Happy,Relaxed,Euphoric,Creative,Focused","Pine,Sweet,Earthy
 G13-Widow,hybrid,4.8,"Creative,Euphoric,Focused,Tingly,Sleepy","Flowery,Earthy,Lime",,
 Gabriel-Sherbet,hybrid,5,"Euphoric,Relaxed,Uplifted,Happy,Focused","Berry,Minty,Sweet",Gabriel Cannabis,
 Galactic-Jack,sativa,4.6,"Energetic,Uplifted,Focused,Euphoric,Relaxed","Citrus,Sweet,Flowery",,
-Galactica-Og,indica,5,"Euphoric,Focused,Relaxed","Spicy/Herbal,Earthy,Pungent",Palomar Craft Cannabis,
+Galactica-Og,indica,5,"Euphoric,Focused,Relaxed","Spicy_Herbal,Earthy,Pungent",Palomar Craft Cannabis,
 Game-Changer,hybrid,4.5,"Relaxed,Happy,Uplifted,Euphoric,Sleepy","Earthy,Grape,Apple",,
 Gandalf-Og,indica,4.9,"Sleepy,Relaxed,Happy,Euphoric,Tingly","Pine,Sweet,Grape",,
 Ganesh-Berry,hybrid,4.6,"Euphoric,Relaxed,Uplifted,Creative,Focused","Flowery,Sweet,Berry",Zion Botanicals,"Portland, Oregon"
@@ -858,7 +858,7 @@ Ghost-Og-Moonshine,indica,4.8,"Happy,Uplifted,Euphoric,Hungry,Relaxed","Pungent,
 Ghost-Ship,indica,4,"Relaxed,Happy,Sleepy,Euphoric,Tingly","Earthy,Pungent,Skunk",Colorado Seed Inc.,"Boulder, Colorado"
 Ghost-Train-Haze,sativa,4.6,"Uplifted,Happy,Energetic,Euphoric,Focused","Earthy,Citrus,Pine",Rare Dankness Seeds,Colorado
 Gi-001,hybrid,5,"Creative,Focused,Energetic,Uplifted,Euphoric","Citrus,Lime,Lemon",,
-Gigabud,indica,4.4,"Relaxed,Uplifted,Happy,Tingly,Energetic","Sweet,Spicy/Herbal,Tropical",G-13 Labs,
+Gigabud,indica,4.4,"Relaxed,Uplifted,Happy,Tingly,Energetic","Sweet,Spicy_Herbal,Tropical",G-13 Labs,
 Ginger-Ale,hybrid,4.9,"Euphoric,Happy,Relaxed,Creative,Giggly","Berry,Earthy,Diesel",,
 Glad-Max,hybrid,4.3,"Euphoric,Relaxed,Uplifted,Happy,Creative","Earthy,Sweet,Flowery",,
 Glass-Apple,hybrid,4.8,"Uplifted,Energetic,Focused,Euphoric,Happy","Apple,Sweet,Minty",The Dandelion Co,"Boulder, Colorado"
@@ -867,25 +867,25 @@ Glue-Tech,hybrid,4.6,"Happy,Relaxed,Hungry,Uplifted,Euphoric","Earthy,Sweet,Berr
 Go-Time,hybrid,4.3,"Focused,Uplifted,Energetic,Euphoric,Relaxed","Earthy,Woody,Tea",JinxProof Genetics,
 Goat,hybrid,4.4,"Euphoric,Relaxed,Sleepy,Energetic,Happy","Earthy,Sage,Lemon",,
 Gobbilygoo,indica,4.5,"Hungry,Euphoric,Relaxed,Happy,Sleepy","Berry,Grape,Lavender",AlphaKronic Genes,
-Gobbstopper,indica,4.5,"Happy,Relaxed,Sleepy,Creative,Euphoric","Spicy/Herbal,Sweet,Berry",,
+Gobbstopper,indica,4.5,"Happy,Relaxed,Sleepy,Creative,Euphoric","Spicy_Herbal,Sweet,Berry",,
 God-Bud,indica,4.3,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Pungent,Earthy,Sweet",Jordan of the Islands,Canada
 Godberry,indica,4.6,"Relaxed,Happy,Hungry,Sleepy,Euphoric","Earthy,Berry,Blueberry",,
-Godfather-Og,indica,4.6,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Pine,Spicy/Herbal",,
-Godfather-Purple-Kush,indica,4.3,"Euphoric,Relaxed,Happy,Sleepy,Tingly","Berry,Spicy/Herbal,Pungent",MTG Seeds,
+Godfather-Og,indica,4.6,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Pine,Spicy_Herbal",,
+Godfather-Purple-Kush,indica,4.3,"Euphoric,Relaxed,Happy,Sleepy,Tingly","Berry,Spicy_Herbal,Pungent",MTG Seeds,
 Gods-Bubba,indica,4.7,"Relaxed,Happy,Sleepy,Tingly,Uplifted","Earthy,Pungent,Woody",Jordan of the Islands,Canada
 Gods-Gift,indica,4.5,"Relaxed,Happy,Euphoric,Sleepy,Hungry","Grape,Earthy,Sweet",,
 Gods-Green-Crack,hybrid,4.5,"Relaxed,Happy,Euphoric,Uplifted,Energetic","Earthy,Woody,Sweet",Jordan of the Islands,Canada
 Gods-Treat,indica,4.7,"Uplifted,Euphoric,Happy,Focused,Energetic","Blueberry,Berry,Flowery",Jordan of the Islands,Canada
 Godzilla,indica,4.3,"Relaxed,Euphoric,Happy,Hungry,Tingly","Earthy,Flowery,Woody",God Bud,
 Godzilla-Blood,hybrid,0,None,None,,
-Godzilla-Glue,hybrid,4.7,"Uplifted,Focused,Happy,Relaxed,Euphoric","Tropical,Spicy/Herbal,Sweet",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
-Gog-Magog,indica,4.5,"Sleepy,Hungry,Uplifted,Euphoric,Happy","Earthy,Pungent,Spicy/Herbal",Tikum Olam,Alaska
+Godzilla-Glue,hybrid,4.7,"Uplifted,Focused,Happy,Relaxed,Euphoric","Tropical,Spicy_Herbal,Sweet",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
+Gog-Magog,indica,4.5,"Sleepy,Hungry,Uplifted,Euphoric,Happy","Earthy,Pungent,Spicy_Herbal",Tikum Olam,Alaska
 Goji-Diesel,hybrid,4.8,"Euphoric,Focused,Uplifted,Creative,Happy",Diesel,,
 Goji-Og,hybrid,4.5,"Happy,Relaxed,Uplifted,Euphoric,Creative","Sweet,Berry,Citrus",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Gold-Kings-Thai,sativa,4.5,"Energetic,Happy,Aroused,Uplifted,Creative","Earthy,Citrus,Lime",Gold King,
 Goldberry,indica,4.5,"Euphoric,Tingly,Creative,Happy,Focused","Mint,Earthy,Woody",,
 Golden-Calyx,sativa,5,"Relaxed,Uplifted,Energetic,Happy,Aroused","Sweet,Citrus,Tropical",Calyx Garden,"Humboldt, California"
-Golden-Gage,hybrid,4.4,"Happy,Energetic,Talkative,Giggly,Uplifted","Pepper,Spicy/Herbal,Citrus",,
+Golden-Gage,hybrid,4.4,"Happy,Energetic,Talkative,Giggly,Uplifted","Pepper,Spicy_Herbal,Citrus",,
 Golden-Goat,hybrid,4.5,"Uplifted,Happy,Euphoric,Relaxed,Energetic","Sweet,Citrus,Tropical",,
 Golden-Lemon,hybrid,4.7,"Uplifted,Relaxed,Euphoric,Tingly,Happy","Lemon,Citrus,Sweet",DNA Genetics,"Amsterdam,Canada, California"
 Golden-Nugget,hybrid,4.8,"Uplifted,Creative,Focused,Happy,Aroused","Sweet,Lime,Skunk",Greenpoint Seeds,
@@ -899,7 +899,7 @@ Golden-Tiger,sativa,5,"Talkative,Uplifted,Energetic,Euphoric,Happy","Minty,Lemon
 Goldwing,sativa,4.7,"Uplifted,Happy,Euphoric,Creative,Energetic",,,
 Goo,indica,4.3,"Relaxed,Sleepy,Hungry,Euphoric,Happy","Berry,Blueberry,Sweet",,
 Gooberry,indica,4.3,"Sleepy,Aroused,Hungry,Relaxed,Happy","Blueberry,Berry,Sweet",,
-Good-Medicine,hybrid,4.3,"Uplifted,Energetic,Happy,Focused,Talkative","Earthy,Spicy/Herbal,Citrus",,
+Good-Medicine,hybrid,4.3,"Uplifted,Energetic,Happy,Focused,Talkative","Earthy,Spicy_Herbal,Citrus",,
 Gorilla-Biscuit,indica,4.7,"Relaxed,Euphoric,Creative,Sleepy,Happy","Coffee,Pine,Cheese",Seeds of Compassion,
 Gorilla-Cookies,hybrid,4.8,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Sweet,Earthy,Minty",Elev8 Seeds,
 Gorilla-Grips,indica,5,"Sleepy,Uplifted,Euphoric,Happy,Relaxed","Blueberry,Grape,Berry",SinCity Seeds ,"Las Vegas, Nevada"
@@ -937,8 +937,8 @@ Green-Avenger,hybrid,5,"Energetic,Happy,Uplifted,Creative,Euphoric","Sweet,Minty
 Green-Candy,sativa,4.3,"Uplifted,Happy,Relaxed,Focused,Giggly","Earthy,Sweet,Tobacco",,
 Green-Cheese,hybrid,4.1,"Euphoric,Relaxed,Energetic,Focused,Creative","Pungent,Cheese,Earthy",,
 Green-Crack,sativa,4.3,"Energetic,Happy,Uplifted,Focused,Euphoric","Earthy,Citrus,Sweet",,
-Green-Crack-Extreme,sativa,4.6,"Energetic,Creative,Focused,Euphoric,Uplifted","Sweet,Earthy,Spicy/Herbal",,
-Green-Door-Kush,hybrid,4.5,"Happy,Relaxed,Euphoric,Creative,Hungry","Spicy/Herbal,Citrus,Woody",,
+Green-Crack-Extreme,sativa,4.6,"Energetic,Creative,Focused,Euphoric,Uplifted","Sweet,Earthy,Spicy_Herbal",,
+Green-Door-Kush,hybrid,4.5,"Happy,Relaxed,Euphoric,Creative,Hungry","Spicy_Herbal,Citrus,Woody",,
 Green-Dragon,indica,4.2,"Uplifted,Happy,Focused,Energetic,Relaxed","Sweet,Earthy,Pungent",,
 Green-Dream,hybrid,4.4,"Happy,Uplifted,Creative,Euphoric,Hungry","Earthy,Citrus,Flowery",,
 Green-Goblin,sativa,4.3,"Uplifted,Euphoric,Happy,Focused,Creative","Sweet,Pine,Diesel",,
@@ -948,7 +948,7 @@ Green-Hornet,hybrid,4.2,"Euphoric,Uplifted,Relaxed,Giggly,Happy","Sweet,Woody,Pi
 Green-Kush,indica,3.8,"Euphoric,Hungry,Energetic,Relaxed,Focused","Citrus,Sweet,Earthy",,
 Green-Lantern,sativa,4.6,"Uplifted,Energetic,Talkative,Focused,Hungry","Earthy,Pine,Citrus",,
 Green-Line-Og,hybrid,5,"Happy,Relaxed,Sleepy,Hungry,Uplifted","Sweet,Lime,Skunk",Cresco Labs,"Chicago, Illinois"
-Green-Love-Potion,indica,4.1,"Creative,Hungry,Relaxed,Uplifted,Happy","Spicy/Herbal,Lavender,Sweet",,
+Green-Love-Potion,indica,4.1,"Creative,Hungry,Relaxed,Uplifted,Happy","Spicy_Herbal,Lavender,Sweet",,
 Green-Mango,indica,4.4,"Euphoric,Uplifted,Happy,Creative,Relaxed","Citrus,Earthy,Woody",Sumo Seeds,
 Green-Monster,hybrid,3.7,"Happy,Relaxed,Uplifted,Hungry,Giggly","Earthy,Chemical,Tar",,
 Green-Poison,indica,4.2,"Relaxed,Happy,Euphoric,Sleepy,Hungry","Sweet,Flowery,Earthy",Sweet Seeds,
@@ -958,7 +958,7 @@ Green-Ribbon,hybrid,4.2,"Energetic,Happy,Focused,Creative,Talkative","Sweet,Eart
 Gremlin,hybrid,4.4,"Euphoric,Relaxed,Uplifted,Aroused,Sleepy","Sweet,Pungent,Citrus",,
 Grilled-Cheese,hybrid,4.7,"Uplifted,Creative,Energetic,Euphoric,Focused","Cheese,Pepper,Pungent",,
 Grimace,indica,4.4,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Sweet,Pungent",,
-Grimace-Og,indica,4.3,"Sleepy,Euphoric,Relaxed,Aroused,Happy","Pungent,Diesel,Spicy/Herbal",Archive Seeds Bank,"Seattle, Washington"
+Grimace-Og,indica,4.3,"Sleepy,Euphoric,Relaxed,Aroused,Happy","Pungent,Diesel,Spicy_Herbal",Archive Seeds Bank,"Seattle, Washington"
 Grimmdica,indica,5,"Euphoric,Relaxed",,Brothers Grimm Seeds,
 Griz-Kush,hybrid,4.5,"Happy,Euphoric,Creative,Uplifted,Energetic","Pungent,Skunk,Lemon",Native Roots/RootSeller Genetics,
 Gsc,hybrid,4.5,"Relaxed,Happy,Euphoric,Uplifted,Creative","Earthy,Sweet,Pungent",,
@@ -984,15 +984,15 @@ Haole,hybrid,4.1,"Euphoric,Relaxed,Happy,Uplifted,Creative","Sweet,Pungent,Earth
 Haoma,indica,4.8,"Relaxed,Happy,Sleepy,Hungry,Uplifted","Citrus,Flowery,Earthy",,
 Haoma-Mist,hybrid,5,"Tingly,Happy,Relaxed,Uplifted,Euphoric","Sweet,Flowery,Citrus",,
 Hardcore-Og,indica,4.6,"Relaxed,Happy,Uplifted,Sleepy,Tingly","Earthy,Sweet,Berry",,
-Harle-Tsu,hybrid,4.4,"Relaxed,Happy,Uplifted,Focused,Euphoric","Earthy,Woody,Spicy/Herbal",Southern Humboldt Seed Collective,
+Harle-Tsu,hybrid,4.4,"Relaxed,Happy,Uplifted,Focused,Euphoric","Earthy,Woody,Spicy_Herbal",Southern Humboldt Seed Collective,
 Harlequin,sativa,4.3,"Relaxed,Focused,Happy,Uplifted,Energetic","Earthy,Sweet,Woody",,
 Harlequin-Gdp,hybrid,4.2,"Relaxed,Talkative,Tingly,Energetic,Euphoric","Mint,Earthy",,
-Harley-Storm,sativa,4.8,"Relaxed,Uplifted,Creative,Euphoric,Happy","Spicy/Herbal,Sweet,Tropical",Cannavative ,
+Harley-Storm,sativa,4.8,"Relaxed,Uplifted,Creative,Euphoric,Happy","Spicy_Herbal,Sweet,Tropical",Cannavative ,
 Harley-Twin,sativa,5,"Uplifted,Creative,Energetic,Euphoric,Relaxed",Sweet,,
 Harmonia,indica,4.3,"Relaxed,Happy,Uplifted,Focused,Sleepy","Earthy,Sweet,Tropical",,
 Harmony,hybrid,4.4,"Relaxed,Euphoric,Focused,Creative,Happy","Woody,Citrus,Lemon",,
 Harry-Potter,hybrid,4.8,"Relaxed,Happy,Uplifted,Creative,Giggly","Sweet,Citrus,Lemon",,
-Hash-Plant,indica,4.2,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Spicy/Herbal,Diesel",,
+Hash-Plant,indica,4.2,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Spicy_Herbal,Diesel",,
 Hashbar-Og,indica,4.5,"Euphoric,Happy,Relaxed,Creative,Focused","Skunk,Sweet,Earthy",,
 Hashberry,indica,4.3,"Relaxed,Euphoric,Hungry,Happy,Focused","Berry,Sweet,Mint",High Times,
 Hashplant-Haze,sativa,4.4,"Happy,Uplifted,Relaxed,Euphoric,Sleepy","Blueberry,Sweet,Orange",,
@@ -1010,13 +1010,13 @@ Hawaiian-Purple-Kush,indica,4.5,"Relaxed,Happy,Giggly,Creative,Talkative","Tropi
 Hawaiian-Sativa,sativa,4.2,"Uplifted,Euphoric,Happy,Relaxed,Creative","Citrus,Sweet,Tropical",,
 Hawaiian-Skunk,hybrid,4.2,"Sleepy,Happy,Euphoric,Uplifted,Energetic","Sweet,Earthy,Skunk",,
 Hawaiian-Snow,sativa,4.5,"Happy,Creative,Euphoric,Uplifted,Energetic","Tropical,Earthy,Woody",,
-Hawaiian-Sunrise,hybrid,4.1,"Uplifted,Happy,Relaxed,Tingly,Energetic","Citrus,Lemon,Spicy/Herbal",Colorado Seed Inc.,"Boulder, Colorado"
+Hawaiian-Sunrise,hybrid,4.1,"Uplifted,Happy,Relaxed,Tingly,Energetic","Citrus,Lemon,Spicy_Herbal",Colorado Seed Inc.,"Boulder, Colorado"
 Hawaiian-Thunder-Fuck,hybrid,4,"Uplifted,Creative,Euphoric,Energetic,Hungry","Earthy,Sweet,Citrus",,
 Hawaiian-Trinity,hybrid,5,"Talkative,Uplifted,Creative,Euphoric,Focused","Sweet,Tropical,Flowery",,
 Hayleys-Haze,sativa,0,"Sleepy,Uplifted,Focused",Apple,Cresco Labs,"Chicago, Illinois"
 Haze,sativa,4.2,"Uplifted,Happy,Creative,Tingly,Relaxed","Earthy,Pungent,Sweet",,
 Haze-Berry,sativa,4.2,"Talkative,Aroused,Giggly,Happy,Energetic","Sweet,Berry,Blueberry",,
-Haze-Heaven,hybrid,4.5,"Happy,Talkative,Uplifted,Energetic,Creative","Pungent,Spicy/Herbal,Sweet",Soma Sacred Seeds,"Amsterdam, Netherlands"
+Haze-Heaven,hybrid,4.5,"Happy,Talkative,Uplifted,Energetic,Creative","Pungent,Spicy_Herbal,Sweet",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Haze-Mist,sativa,4,"Energetic,Focused,Happy,Hungry",None,Flying Dutchman,"Castle Rock, Washington"
 Haze-Wreck,sativa,4.6,"Uplifted,Happy,Euphoric,Talkative,Creative","Citrus,Pine,Woody",,
 Head-Cheese,hybrid,4.6,"Euphoric,Happy,Uplifted,Creative,Relaxed","Cheese,Pungent,Earthy",,
@@ -1026,23 +1026,23 @@ Headbanger,hybrid,4.4,"Happy,Uplifted,Euphoric,Relaxed,Hungry","Citrus,Skunk,Swe
 Heaven-Scent,hybrid,4.8,"Creative,Energetic,Euphoric,Focused,Happy","Minty,Sweet,Tropical",MTG Seeds,
 Heavy-Duty-Fruity,hybrid,4.1,"Relaxed,Happy,Sleepy,Hungry,Giggly","Sweet,Citrus,Earthy",,
 Heisenberg-Kush,sativa,4.4,"Talkative,Relaxed,Focused,Hungry,Happy","Berry,Sweet,Strawberry",AlphaKronic Genes,
-Hell-Raiser-Og,hybrid,4.8,"Relaxed,Euphoric,Uplifted,Talkative,Happy","Pine,Citrus,Spicy/Herbal",Archive Seeds Bank,"Seattle, Washington"
+Hell-Raiser-Og,hybrid,4.8,"Relaxed,Euphoric,Uplifted,Talkative,Happy","Pine,Citrus,Spicy_Herbal",Archive Seeds Bank,"Seattle, Washington"
 Hellfire-Og,hybrid,4.5,"Euphoric,Relaxed,Happy,Energetic,Sleepy","Earthy,Citrus,Diesel",,
 Hells-Angel-Og,hybrid,4.5,"Relaxed,Euphoric,Sleepy,Happy,Hungry","Earthy,Pungent,Woody",Biker Ruffians ,
 Hemlock,hybrid,4.5,"Happy,Uplifted,Relaxed,Giggly,Talkative","Sweet,Citrus,Pine",,
 Hempstar,sativa,4.3,"Happy,Euphoric,Creative,Uplifted,Energetic","Woody,Pungent,Earthy",Dutch Passion Seed Company,Amsterdam
 Hercules,hybrid,4.8,"Happy,Uplifted,Energetic,Giggly,Creative","Earthy,Sweet,Tropical",Colorado Seed Inc.,"Boulder, Colorado"
-Herojuana,indica,4.4,"Relaxed,Sleepy,Happy,Hungry,Euphoric","Earthy,Spicy/Herbal,Woody",Woodhorse Seeds,Kentucky
+Herojuana,indica,4.4,"Relaxed,Sleepy,Happy,Hungry,Euphoric","Earthy,Spicy_Herbal,Woody",Woodhorse Seeds,Kentucky
 Hibiscus-Sunrise,hybrid,4.5,"Euphoric,Uplifted,Relaxed,Energetic,Happy","Flowery,Lavender,Sweet",,
 Higher-Power,sativa,4.8,"Creative,Uplifted,Energetic,Focused,Happy","Grape,Flowery,Tree,Fruit",Wild Oregon Weed,
-Highwayman,hybrid,3.8,"Focused,Happy,Relaxed,Sleepy,Euphoric","Spicy/Herbal,Flowery,Earthy",Tierra Rojo,Colorado
+Highwayman,hybrid,3.8,"Focused,Happy,Relaxed,Sleepy,Euphoric","Spicy_Herbal,Flowery,Earthy",Tierra Rojo,Colorado
 Himalayan-Blackberry,indica,4.9,"Sleepy,Relaxed,Euphoric,Happy,Uplifted","Earthy,Berry,Pine",Soulshine Cannabis,
-Himalayan-Gold,hybrid,4.2,"Happy,Euphoric,Creative,Aroused,Sleepy","Spicy/Herbal,Earthy,Citrus",,
+Himalayan-Gold,hybrid,4.2,"Happy,Euphoric,Creative,Aroused,Sleepy","Spicy_Herbal,Earthy,Citrus",,
 Hindu-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Woody,Sweet",,
 Hindu-Skunk,indica,4.2,"Relaxed,Euphoric,Happy,Aroused,Uplifted","Earthy,Woody,Sweet",,
 Hippie-Chicken,sativa,4.3,"Euphoric,Happy,Uplifted,Relaxed,Talkative","Sweet,Tree,Fruit,Berry",,
 Hippie-Crippler,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Pungent,Earthy,Sweet",,
-Hoarfrost,hybrid,4.8,"Creative,Euphoric,Focused,Happy,Hungry","Spicy/Herbal,Woody,Vanilla",Cabin Fever Seed Breeders,
+Hoarfrost,hybrid,4.8,"Creative,Euphoric,Focused,Happy,Hungry","Spicy_Herbal,Woody,Vanilla",Cabin Fever Seed Breeders,
 Hobbit,hybrid,4.3,"Tingly,Uplifted,Happy,Focused,Hungry","Flowery,Tea,Vanilla",Kannabia Seeds,
 Hog,indica,4,"Giggly,Sleepy,Relaxed,Euphoric,Happy","Woody,Sweet,Earthy",THSeeds,"Amsterdam, Netherlands"
 Hogs-Breath,indica,4.2,"Relaxed,Happy,Sleepy,Hungry,Tingly","Earthy,Pungent,Cheese",,Tennessee
@@ -1063,7 +1063,7 @@ Humboldt,hybrid,4.3,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Flowery,Sweet,Citr
 Humboldt-Dream,indica,4.8,"Relaxed,Creative,Euphoric,Uplifted,Happy","Sweet,Berry,Earthy",,
 Humboldt-Headband,indica,4.8,"Euphoric,Sleepy,Happy,Relaxed,Focused","Sweet,Grape,Diesel",,
 Hurkle,hybrid,4.7,"Relaxed,Happy,Hungry,Focused,Sleepy","Sweet,Earthy,Berry",TGA Genetics,"Seattle, Washington"
-Hurricane,sativa,4.3,"Uplifted,Relaxed,Energetic,Happy,Focused","Spicy/Herbal,Grape,Berry",Reserva Privada,Colorado
+Hurricane,sativa,4.3,"Uplifted,Relaxed,Energetic,Happy,Focused","Spicy_Herbal,Grape,Berry",Reserva Privada,Colorado
 Hustler-Kush,hybrid,4.7,"Happy,Energetic,Euphoric,Uplifted,Talkative","Earthy,Woody,Sweet",Greenworks,"Seattle, WA"
 I-95,hybrid,4,"Creative,Energetic,Euphoric,Focused,Happy",,Top Dawg Genetics,
 Ice,hybrid,4.1,"Euphoric,Uplifted,Relaxed,Happy,Tingly","Diesel,Flowery,Earthy",Nirvana Seeds,"Amsterdam, Netherlands"
@@ -1078,25 +1078,25 @@ Ig-Kush,hybrid,4.5,"Sleepy,Happy,Relaxed,Tingly,Hungry","Sweet,Orange,Earthy",Un
 Ill-Og,indica,3.7,"Euphoric,Giggly,Happy,Relaxed,Uplifted","Earthy,Pungent,Pine",Los Angeles Kush,Southern California
 Illuminati-Og,indica,4.7,"Relaxed,Sleepy,Focused,Talkative,Euphoric","Earthy,Sweet,Pungent",,
 In-The-Pines,sativa,4.4,"Happy,Uplifted,Focused,Relaxed,Euphoric","Pine,Sweet,Pineapple",Aficionado Seeds,
-Incredible-Bulk,indica,4.5,"Relaxed,Happy,Hungry,Sleepy,Euphoric","Earthy,Skunk,Spicy/Herbal",,
+Incredible-Bulk,indica,4.5,"Relaxed,Happy,Hungry,Sleepy,Euphoric","Earthy,Skunk,Spicy_Herbal",,
 Incredible-Hulk,sativa,4.5,"Happy,Euphoric,Focused,Relaxed,Uplifted","Sweet,Earthy,Citrus",,
-Industrial-Plant,hybrid,4.1,"Energetic,Uplifted,Euphoric,Happy,Relaxed","Citrus,Spicy/Herbal,Sweet",Dinafem Seeds,"Barcelona, Spain"
+Industrial-Plant,hybrid,4.1,"Energetic,Uplifted,Euphoric,Happy,Relaxed","Citrus,Spicy_Herbal,Sweet",Dinafem Seeds,"Barcelona, Spain"
 Ingrid,indica,4.3,"Relaxed,Euphoric,Creative,Sleepy,Happy","Cheese,Pungent,Skunk",,
 Intergalactic,hybrid,0,"Creative,Giggly,Happy,Relaxed",None,,
 Irene-Kush,hybrid,4.6,"Relaxed,Happy,Creative,Euphoric,Focused","Earthy,Citrus,Pine",,
 Irish-Cream,indica,4,"Uplifted,Euphoric,Relaxed,Sleepy,Giggly",None,Mighty Irish Seeds,
-Iron-Triangle,hybrid,4.2,"Happy,Giggly,Tingly,Uplifted,Focused","Diesel,Spicy/Herbal,Sweet",Colorado Seed Inc.,"Boulder, Colorado"
+Iron-Triangle,hybrid,4.2,"Happy,Giggly,Tingly,Uplifted,Focused","Diesel,Spicy_Herbal,Sweet",Colorado Seed Inc.,"Boulder, Colorado"
 Island-Haze,sativa,4.8,"Creative,Uplifted,Relaxed,Sleepy,Talkative","Sweet,Berry,Blueberry",,
 Island-Maui-Haze,sativa,4.5,"Euphoric,Tingly,Creative,Happy,Relaxed","Tropical,Mango,Ammonia",,
 Island-Sweet-Skunk,sativa,4.3,"Happy,Relaxed,Uplifted,Energetic,Focused","Skunk,Sweet,Tropical",,
 J-27,sativa,4.2,"Euphoric,Energetic,Focused,Uplifted,Creative","Diesel,Earthy,Woody",,
 J1,hybrid,4.5,"Euphoric,Happy,Creative,Uplifted,Energetic","Citrus,Pine,Sweet",,
-Jack-47,hybrid,4.7,"Happy,Euphoric,Relaxed,Giggly,Energetic","Earthy,Lemon,Spicy/Herbal",,
+Jack-47,hybrid,4.7,"Happy,Euphoric,Relaxed,Giggly,Energetic","Earthy,Lemon,Spicy_Herbal",,
 Jack-Burton,indica,4.5,"Aroused,Sleepy,Uplifted,Creative,Euphoric","Sweet,Flowery,Rose",THClones ,
 Jack-Diesel,sativa,4.2,"Euphoric,Happy,Energetic,Giggly,Creative","Diesel,Earthy,Sweet",,
 Jack-Flash,hybrid,4.2,"Uplifted,Euphoric,Happy,Relaxed,Energetic","Citrus,Sweet,Earthy",Sensi Seeds,"Amsterdam, Netherlands"
 Jack-Frost,hybrid,4.4,"Happy,Euphoric,Relaxed,Energetic,Uplifted","Pine,Citrus,Earthy",Goldenseed,
-Jack-Haze,hybrid,4.1,"Happy,Energetic,Euphoric,Uplifted,Giggly","Earthy,Woody,Spicy/Herbal",,
+Jack-Haze,hybrid,4.1,"Happy,Energetic,Euphoric,Uplifted,Giggly","Earthy,Woody,Spicy_Herbal",,
 Jack-Herer,sativa,4.4,"Happy,Uplifted,Energetic,Focused,Euphoric","Earthy,Pine,Woody",,
 Jack-Kush,hybrid,4.1,"Happy,Energetic,Giggly,Euphoric,Relaxed","Sweet,Citrus,Pungent",,
 Jack-Skellington,sativa,4.7,"Euphoric,Relaxed,Happy,Creative,Focused","Diesel,Pungent,Earthy",TGA Genetics,"Seattle, Washington"
@@ -1127,7 +1127,7 @@ Jelly-Roll,indica,4.8,"Relaxed,Happy,Tingly","Sweet,Pungent",Colorado Seed Inc.,
 Jenni,sativa,4.8,"Euphoric,Happy,Relaxed,Uplifted,Creative","Sweet,Berry,Tree,Fruit",Peace Natural Project Inc.,Canada
 Jenny-Kush,hybrid,4.6,"Happy,Energetic,Talkative,Euphoric,Hungry","Citrus,Earthy,Lemon",Rare Dankness Seeds,Colorado
 Jericho-Haze,sativa,5,"Tingly,Uplifted,Creative,Energetic,Focused","Strawberry,Apple,Earthy",Vidl of Oregon,
-Jesses-Girl,indica,4.8,"Euphoric,Aroused,Uplifted,Relaxed,Happy","Earthy,Spicy/Herbal,Woody",Peak Organics ,
+Jesses-Girl,indica,4.8,"Euphoric,Aroused,Uplifted,Relaxed,Happy","Earthy,Spicy_Herbal,Woody",Peak Organics ,
 Jesus,hybrid,4.5,"Happy,Relaxed,Euphoric,Giggly,Tingly","Earthy,Citrus,Lemon",Solstice,
 Jesus-Og,sativa,4.6,"Uplifted,Happy,Euphoric,Energetic,Relaxed","Lemon,Citrus,Earthy",TGA Subcool Genetics,
 Jet-Fuel,hybrid,4.6,"Happy,Uplifted,Relaxed,Euphoric,Focused","Diesel,Pungent,Earthy",303 Seeds,
@@ -1158,10 +1158,10 @@ Kalalau-Kush,hybrid,5,"Tingly,Uplifted,Euphoric,Happy,Creative","Sweet,Tropical,
 Kalashnikova,hybrid,4.3,"Relaxed,Happy,Energetic,Hungry,Sleepy","Sweet,Citrus,Earthy",,
 Kaleidos-Dope,hybrid,4,None,None,Snow High Seeds,Uzbekistan
 Kali-47,sativa,5,"Uplifted,Creative,Energetic,Euphoric,Happy","Sweet,Vanilla",,
-Kali-China,indica,4.2,"Creative,Relaxed,Euphoric,Sleepy,Talkative","Spicy/Herbal,Minty,Pepper",Ace Seeds,"Valencia, Spain"
+Kali-China,indica,4.2,"Creative,Relaxed,Euphoric,Sleepy,Talkative","Spicy_Herbal,Minty,Pepper",Ace Seeds,"Valencia, Spain"
 Kali-Dog,hybrid,4.8,"Relaxed,Uplifted,Happy,Focused,Energetic","Citrus,Lemon,Diesel",Royal Queen Seeds,Spain 
 Kali-Mist,sativa,4.1,"Energetic,Focused,Uplifted,Euphoric,Creative","Woody,Earthy,Citrus",,
-Kandahar,indica,4.7,"Relaxed,Sleepy,Euphoric,Uplifted,Giggly","Apricot,Earthy,Spicy/Herbal",Ministry of Cannabis,
+Kandahar,indica,4.7,"Relaxed,Sleepy,Euphoric,Uplifted,Giggly","Apricot,Earthy,Spicy_Herbal",Ministry of Cannabis,
 Kandy-Kush,hybrid,4.3,"Happy,Relaxed,Uplifted,Euphoric,Hungry","Sweet,Citrus,Lemon",,
 Kaptns-Grand-Dream,hybrid,4,"Uplifted,Euphoric,Giggly,Happy,Relaxed","Ammonia,Blueberry,Grape",,
 Karma-Bitch,hybrid,4.4,"Uplifted,Creative,Happy,Focused,Relaxed","Earthy,Coffee,Tea",Rare Dankness Seeds,Colorado
@@ -1171,7 +1171,7 @@ Kauai-Electric,sativa,4.8,"Creative,Energetic,Happy,Focused,Uplifted","Orange,Tr
 Kc-33,hybrid,4.4,"Relaxed,Tingly,Euphoric,Happy,Hungry","Citrus,Lemon,Sweet",KC Brains,Holland
 Kc-36,indica,4.2,"Sleepy,Relaxed,Uplifted,Euphoric,Hungry","Sweet,Blueberry,Grape",KC Brains,Holland
 Kelly-Hill-Gold,indica,5,"Happy,Energetic,Euphoric,Talkative,Aroused","Pepper,Earthy,Coffee",Joseph Arthur Botanicals,Colorado
-Kens-Kush,hybrid,4.2,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Earthy,Skunk,Spicy/Herbal",Ken Estes,
+Kens-Kush,hybrid,4.2,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Earthy,Skunk,Spicy_Herbal",Ken Estes,
 Kerala-Krush,sativa,4.6,"Energetic,Happy,Hungry,Focused,Relaxed","Mango,Sweet,Orange",Flying Dutchman,"Castle Rock, Washington"
 Key-Lime-Haze,sativa,4.2,"Happy,Uplifted,Euphoric,Energetic,Relaxed","Lime,Citrus,Sweet",,
 Key-Lime-Pie,hybrid,4.5,"Happy,Relaxed,Uplifted,Sleepy,Creative","Lime,Sweet,Citrus",Burning Bush Nurseries,
@@ -1179,7 +1179,7 @@ Khalifa-Kush,hybrid,4.7,"Happy,Relaxed,Uplifted,Euphoric,Creative","Earthy,Pine,
 Khola,hybrid,4.2,"Giggly,Hungry,Aroused,Euphoric,Uplifted",,Dutch Passion Seed Company,Amsterdam
 Khufu,indica,4.2,"Relaxed,Euphoric,Happy,Focused,Sleepy","Pungent,Sweet,Woody",The Devil’s Harvest Seed Company,
 Kid-N-Cookies,hybrid,4.6,"Happy,Relaxed,Tingly,Giggly,Hungry","Earthy,Pine,Skunk",Loud Seeds,California
-Kilimanjaro,sativa,4.5,"Happy,Focused,Uplifted,Creative,Energetic","Lemon,Earthy,Spicy/Herbal",Unknown,Tanzania
+Kilimanjaro,sativa,4.5,"Happy,Focused,Uplifted,Creative,Energetic","Lemon,Earthy,Spicy_Herbal",Unknown,Tanzania
 Kill-Bill,hybrid,4.4,"Relaxed,Sleepy,Euphoric,Hungry,Tingly","Pine,Diesel,Sage",Reservoir Seeds,
 Killer-Grape,hybrid,4.6,"Euphoric,Uplifted,Happy,Sleepy,Tingly","Sweet,Grape,Tropical",,
 Killer-Queen,hybrid,4.3,"Happy,Energetic,Creative,Uplifted,Talkative","Citrus,Sweet,Tropical",,
@@ -1191,7 +1191,7 @@ King-Kush,indica,4.3,"Relaxed,Happy,Hungry,Euphoric,Sleepy","Diesel,Sweet,Earthy
 King-Louis,indica,4.6,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Woody,Pine",,
 Kings-Bread,sativa,4.2,"Focused,Relaxed,Creative,Uplifted,Euphoric","Earthy,Citrus,Lemon",,Jamaica
 Kiss,hybrid,4,None,None,Reservoir Seeds,
-Kiwiskunk,indica,3.9,"Happy,Hungry,Sleepy,Aroused,Tingly","Spicy/Herbal,Pungent,Woody",,
+Kiwiskunk,indica,3.9,"Happy,Hungry,Sleepy,Aroused,Tingly","Spicy_Herbal,Pungent,Woody",,
 Kobain-Kush,indica,4.3,"Hungry,Aroused,Relaxed,Happy,Euphoric","Earthy,Ammonia,Chestnut",,
 Kona-Gold,sativa,4.4,"Happy,Uplifted,Energetic,Euphoric,Giggly","Tropical,Pineapple,Orange",,Hawaii
 Kong,hybrid,4.7,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Woody,Skunk",Holy Smoke Seeds,
@@ -1211,7 +1211,7 @@ Kush-Cleaner,hybrid,4.6,"Relaxed,Euphoric,Aroused,Creative,Energetic","Woody,Pin
 Kush-N-Cheese,hybrid,4,"Relaxed,Focused,Uplifted,Sleepy,Happy","Sweet,Lemon,Cheese",Dinafem Seeds,"Barcelona, Spain"
 Kush-Rise,hybrid,3.5,"Relaxed,Creative,Euphoric",None,Colorado Seed Inc.,"Boulder, Colorado"
 Kushadelic,indica,4.5,"Relaxed,Sleepy,Euphoric,Uplifted,Focused","Pungent,Pine,Earthy",Soma Sacred Seeds,"Amsterdam, Netherlands"
-Kushage,hybrid,4.4,"Relaxed,Happy,Euphoric,Hungry,Tingly","Earthy,Sage,Spicy/Herbal",THSeeds,"Amsterdam, Netherlands"
+Kushage,hybrid,4.4,"Relaxed,Happy,Euphoric,Hungry,Tingly","Earthy,Sage,Spicy_Herbal",THSeeds,"Amsterdam, Netherlands"
 Kushashima,hybrid,4,"Relaxed,Sleepy,Uplifted,Creative,Energetic","Pungent,Pine,Sweet",,
 Kushberry,indica,4.3,"Relaxed,Sleepy,Happy,Uplifted,Creative","Berry,Earthy,Lemon",DNA Genetics,"Amsterdam,Canada, California"
 La-Chocolat,hybrid,4.5,"Relaxed,Happy,Euphoric,Sleepy,Hungry","Earthy,Coffee,Sweet",DNA Genetics,"Amsterdam,Canada, California"
@@ -1221,7 +1221,7 @@ La-Kookies,hybrid,4.7,"Hungry,Relaxed,Happy,Creative,Talkative","Earthy,Coffee,B
 La-Kush,hybrid,4.5,"Relaxed,Happy,Creative,Uplifted,Euphoric","Menthol,Pungent,Pine",,
 La-Nina,sativa,4.7,"Uplifted,Creative,Energetic,Talkative,Euphoric","Sweet,Earthy",,
 La-Og,indica,4.4,"Relaxed,Euphoric,Sleepy,Happy,Tingly","Earthy,Berry,Flowery",,
-La-Sunshine,hybrid,4.7,"Uplifted,Energetic,Happy,Euphoric,Creative","Citrus,Earthy,Spicy/Herbal",,
+La-Sunshine,hybrid,4.7,"Uplifted,Energetic,Happy,Euphoric,Creative","Citrus,Earthy,Spicy_Herbal",,
 La-Ultra,indica,4.7,"Relaxed,Euphoric,Happy,Sleepy,Tingly","Lemon,Chemical,Diesel",Resin Seeds,Spain
 La-Woman,hybrid,4.2,"Relaxed,Euphoric,Tingly,Happy,Sleepy","Earthy,Pungent,Pine",DNA Genetics,"Amsterdam,Canada, California"
 Lady-Liberty,hybrid,4.2,"Sleepy,Hungry,Relaxed",Sweet,,
@@ -1236,7 +1236,7 @@ Larry-Bird-Kush,hybrid,4.9,"Relaxed,Euphoric,Energetic,Happy,Uplifted","Sweet,Or
 Larry-Og,hybrid,4.3,"Relaxed,Happy,Uplifted,Euphoric,Sleepy","Lemon,Pine,Citrus",,
 Las-Vegas-Purple-Kush-Bx,indica,5,"Sleepy,Happy,Relaxed,Aroused,Creative",None,,
 Lashkar-Gah,indica,4.7,"Relaxed,Euphoric,Sleepy,Hungry,Happy","Earthy,Pungent,Sweet",,
-Laughing-Buddha,sativa,4.4,"Happy,Euphoric,Uplifted,Energetic,Giggly","Tropical,Sweet,Spicy/Herbal",Barney's Farm,"Amsterdam, Westmont, Illinois"
+Laughing-Buddha,sativa,4.4,"Happy,Euphoric,Uplifted,Energetic,Giggly","Tropical,Sweet,Spicy_Herbal",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Laughing-Gas,hybrid,0,"Energetic,Giggly,Happy,Talkative,Tingly",None,TKO Reserve,
 Lavender,indica,4.1,"Relaxed,Happy,Sleepy,Uplifted,Euphoric","Lavender,Flowery,Sweet",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Lavender-Haze,sativa,4.1,"Euphoric,Uplifted,Energetic,Happy,Relaxed","Lavender,Flowery,Earthy",,
@@ -1246,13 +1246,13 @@ Le-Silver-Royale,hybrid,4.5,"Uplifted,Talkative,Euphoric,Happy,Energetic","Skunk
 Leagle-Eagle,hybrid,4.7,"Energetic,Creative,Talkative,Focused,Uplifted","Sweet,Diesel,Skunk",L'Eagle Services,
 Leda-Uno,sativa,5,"Tingly,Focused,Hungry",None,,
 Lee-Roy,indica,4.7,"Relaxed,Euphoric,Sleepy,Uplifted,Tingly","Lime,Lemon,Citrus",Rare Dankness Seeds,Colorado
-Legalized-Og,hybrid,4.8,"Hungry,Sleepy,Relaxed,Happy,Focused","Pungent,Chemical,Spicy/Herbal",,
+Legalized-Og,hybrid,4.8,"Hungry,Sleepy,Relaxed,Happy,Focused","Pungent,Chemical,Spicy_Herbal",,
 Legend-Of-Nigeria,sativa,0,None,None,Swamp Boys Seeds,
 Legend-Og,indica,4.6,"Relaxed,Sleepy,Happy,Creative,Focused","Pungent,Earthy,Pine",,
 Legendary-Lemon,sativa,4,"Aroused,Euphoric,Relaxed,Creative,Sleepy","Apricot,Chemical,Blueberry",,
 Lem-Chem,hybrid,4,"Energetic,Focused,Hungry",,,
 Lemon-Alien-Dawg,hybrid,4.5,"Relaxed,Creative,Focused,Aroused,Sleepy","Pungent,Pine,Earthy",Alien Genetics,"Humboldt, California"
-Lemon-Bananas,hybrid,5,"Talkative,Tingly,Uplifted,Creative,Energetic","Spicy/Herbal,Lime,Lemon",,
+Lemon-Bananas,hybrid,5,"Talkative,Tingly,Uplifted,Creative,Energetic","Spicy_Herbal,Lime,Lemon",,
 Lemon-Bubble,sativa,4.6,"Happy,Energetic,Talkative,Euphoric,Uplifted","Lemon,Citrus,Sweet",Pheno Finder Seeds,
 Lemon-Cake,sativa,4.3,"Relaxed,Uplifted,Happy,Energetic,Euphoric","Lemon,Cheese,Sweet",Heavyweight Seeds,
 Lemon-Crme,sativa,0,None,None,Love Genetics,
@@ -1285,7 +1285,7 @@ Leonidas,sativa,4,"Focused,Aroused,Uplifted,Creative,Energetic","Grape,Lavender,
 Lethal-Purple,hybrid,3.3,"Talkative,Creative,Euphoric,Happy,Hungry","Sweet,Grape,Flowery",Great White North Seeds,Canada
 Liberty-Haze,hybrid,4.5,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Citrus,Lime,Sweet",,
 Lifesaver,hybrid,4.5,"Relaxed,Euphoric,Energetic,Uplifted,Tingly","Citrus,Sweet,Berry",,
-Light-Of-Jah,sativa,4.6,"Happy,Uplifted,Energetic,Euphoric,Relaxed","Spicy/Herbal,Tropical,Pungent",,
+Light-Of-Jah,sativa,4.6,"Happy,Uplifted,Energetic,Euphoric,Relaxed","Spicy_Herbal,Tropical,Pungent",,
 Lime-Green-Skunk,hybrid,4.5,"Happy,Euphoric,Uplifted,Relaxed,Focused","Lime,Citrus,Tropical",,
 Lime-Purple-Mist,indica,4.3,"Happy,Relaxed,Tingly,Sleepy,Uplifted","Berry,Lime,Sweet",,
 Lime-Skunk,sativa,4.8,"Uplifted,Creative,Happy,Euphoric,Energetic","Lime,Citrus,Pungent",Exotic Genetix,"Tacoma, Washington"
@@ -1299,10 +1299,10 @@ Locktite,hybrid,4.3,"Relaxed,Happy,Uplifted,Tingly,Euphoric","Diesel,Citrus,Wood
 Locomotion,indica,4.6,"Euphoric,Happy,Relaxed,Uplifted,Aroused","Earthy,Sweet,Pungent",Heroes of the Farm Genetics ,
 Lodi-Dodi,hybrid,4.5,"Happy,Giggly,Energetic,Euphoric,Uplifted","Sweet,Flowery,Tropical",The Clone Zone,
 Logic-Diesel,hybrid,4.8,"Talkative,Energetic,Happy,Uplifted,Euphoric","Diesel,Skunk,Minty",GroundSwell Cannabis Boutique,
-Longbottom-Leaf,hybrid,4.8,"Euphoric,Happy,Uplifted,Energetic,Hungry","Pepper,Sweet,Spicy/Herbal",,
+Longbottom-Leaf,hybrid,4.8,"Euphoric,Happy,Uplifted,Energetic,Hungry","Pepper,Sweet,Spicy_Herbal",,
 Lost-Coast-Og,hybrid,4.5,"Relaxed,Euphoric,Uplifted,Happy,Creative","Earthy,Lemon,Citrus",,
 Lost-Sierra-Night-Nurse,hybrid,0,None,None,"Red Dirt Ridge Genetics of Paradise, CA for Lost Sierra Cannabis Company",
-Loud-Dream,hybrid,4.1,"Happy,Focused,Euphoric,Creative,Uplifted","Pine,Earthy,Spicy/Herbal",Loud Seeds,California
+Loud-Dream,hybrid,4.1,"Happy,Focused,Euphoric,Creative,Uplifted","Pine,Earthy,Spicy_Herbal",Loud Seeds,California
 Loud-Scout,hybrid,4.4,"Relaxed,Happy,Focused,Uplifted,Energetic","Grape,Sweet,Tropical",Loud Seeds,California
 Love-Potion,sativa,4.4,"Happy,Talkative,Euphoric,Relaxed,Energetic","Skunk,Citrus,Grapefruit",Reeferman Seeds,Mexico
 Love-Potion-9,indica,4.2,"Euphoric,Happy,Talkative,Focused,Energetic","Sweet,Flowery,Honey",,
@@ -1328,7 +1328,7 @@ Magic-Beans-Og,indica,4.2,"Happy,Sleepy,Euphoric,Relaxed,Tingly","Lemon,Woody,Pi
 Magic-Jordan,hybrid,4,"Euphoric,Focused,Tingly,Uplifted,Creative","Minty,Orange,Lemon",Colorado Seed Inc.,"Boulder, Colorado"
 Magnum,hybrid,3.9,"Energetic,Happy,Creative,Uplifted,Euphoric","Earthy,Citrus,Lemon",Buddha Seeds,Spain
 Magnum-Pi,sativa,4.3,"Uplifted,Focused,Energetic,Euphoric,Creative","Tropical,Citrus,Orange",,
-Mai-Tai-Cookies,hybrid,4.9,"Happy,Relaxed,Euphoric,Creative,Uplifted","Orange,Tree,Fruit,Spicy/Herbal",Terraform Genetics,
+Mai-Tai-Cookies,hybrid,4.9,"Happy,Relaxed,Euphoric,Creative,Uplifted","Orange,Tree,Fruit,Spicy_Herbal",Terraform Genetics,
 Majestic-12,hybrid,4.8,"Relaxed,Tingly,Happy,Euphoric,Creative","Earthy,Sweet,Berry",,
 Mako-Haze,sativa,4.2,"Euphoric,Happy,Relaxed,Hungry,Uplifted","Pine,Citrus,Earthy",,
 Malakoff,sativa,3.7,"Focused,Talkative,Creative,Energetic,Happy","Sweet,Earthy,Woody",Medical Seeds Co,Spain
@@ -1337,12 +1337,12 @@ Mammoth,hybrid,4.5,"Happy,Relaxed,Focused,Uplifted,Creative","Honey,Earthy,Woody
 Mandala-1,hybrid,4.3,"Euphoric,Creative,Energetic,Uplifted,Focused","Apple,Minty,Berry",Mandala Seeds,
 Mango,indica,4.1,"Relaxed,Sleepy,Happy,Euphoric,Focused","Mango,Earthy,Sweet",,
 Mango-Dream,sativa,3.9,"Talkative,Happy,Euphoric,Relaxed,Creative","Mango,Tropical,Earthy",,
-Mango-Habanero,hybrid,3.5,"Focused,Uplifted,Creative,Energetic,Euphoric","Pepper,Spicy/Herbal,Sweet",Taste Budz,
+Mango-Habanero,hybrid,3.5,"Focused,Uplifted,Creative,Energetic,Euphoric","Pepper,Spicy_Herbal,Sweet",Taste Budz,
 Mango-Haze,sativa,4.6,"Happy,Relaxed,Euphoric,Focused,Uplifted","Mango,Sweet,Tropical",Mr Nice Seeds ,
 Mango-Kush,hybrid,4.3,"Happy,Relaxed,Uplifted,Euphoric,Giggly","Mango,Sweet,Citrus",,
 Mango-Tango,hybrid,4.6,"Relaxed,Happy,Euphoric,Giggly,Sleepy","Mango,Tropical,Citrus",Elemental Seeds,California
 Mangolicious,indica,5,"Uplifted,Focused,Relaxed,Giggly,Happy","Sweet,Tropical,Pineapple",Big Bud Genetics,
-Manitoba-Poison,hybrid,4.5,"Relaxed,Happy,Sleepy,Focused,Uplifted","Spicy/Herbal,Earthy,Cheese",,
+Manitoba-Poison,hybrid,4.5,"Relaxed,Happy,Sleepy,Focused,Uplifted","Spicy_Herbal,Earthy,Cheese",,
 Maple-Leaf-Indica,indica,4.3,"Relaxed,Sleepy,Tingly,Euphoric,Happy","Sweet,Butter,Woody",,
 Maramota-10,hybrid,5,"Talkative,Energetic,Giggly,Relaxed","Sweet,Berry,Earthy",Irie Vibe Seeds,
 Marcosus-Marshmellow,hybrid,3.9,"Euphoric,Uplifted,Happy,Creative,Energetic","Minty,Sweet,Berry",Remedy Cultivation,
@@ -1354,7 +1354,7 @@ Martian-Candy,hybrid,4.7,"Relaxed,Happy,Uplifted,Euphoric,Talkative","Sweet,Wood
 Martian-Mean-Green,hybrid,4.2,"Euphoric,Happy,Hungry,Uplifted,Focused","Sweet,Citrus,Grapefruit",DNA Genetics,"Amsterdam,Canada, California"
 Martian-Muffins,indica,0,None,None,Jahnetics ,
 Master-Bubba,indica,4.3,"Relaxed,Euphoric,Happy,Uplifted,Sleepy","Earthy,Pungent,Skunk",,
-Master-Jedi,indica,4.4,"Relaxed,Euphoric,Creative,Focused,Uplifted","Skunk,Spicy/Herbal,Diesel",,
+Master-Jedi,indica,4.4,"Relaxed,Euphoric,Creative,Focused,Uplifted","Skunk,Spicy_Herbal,Diesel",,
 Master-Kush,indica,4.3,"Relaxed,Happy,Euphoric,Sleepy,Uplifted","Earthy,Pungent,Woody",Dutch White Label Seed Company,Amsterdam
 Master-Og,indica,4.4,"Relaxed,Sleepy,Happy,Hungry,Uplifted","Earthy,Pine,Pungent",Cabin Fever Seed Breeders,
 Master-Skunk,hybrid,4.6,"Relaxed,Uplifted,Euphoric,Happy,Creative","Skunk,Lemon,Honey",Mr Nice Seeds ,
@@ -1371,14 +1371,14 @@ Maui-Haole,hybrid,4.6,"Happy,Creative,Euphoric,Aroused,Sleepy","Pungent,Tropical
 Maui-Mango-Diesel,hybrid,4.3,"Euphoric,Relaxed,Uplifted,Happy,Creative","Mango,Sweet,Diesel",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
 Maui-Pineapple-Chunk,hybrid,4.7,"Creative,Euphoric,Uplifted,Aroused,Energetic","Tropical,Flowery,Menthol",Pua Mana 1st Hawaiian Pakal_l_ Seed Bank,Hawaii
 Maui-Wowie,sativa,4.4,"Happy,Uplifted,Energetic,Relaxed,Creative","Tropical,Pineapple,Citrus",,
-Mazar-I-Sharif,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Earthy,Spicy/Herbal,Pine",,
-Mazar-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Giggly,Hungry","Pungent,Earthy,Spicy/Herbal",,Afghanistan-Pakistan
-Mc1,hybrid,0,"Hungry,Aroused,Tingly,Uplifted,Creative","Diesel,Spicy/Herbal,Sweet",TGA Subcool Genetics,"Seattle, Washington"
+Mazar-I-Sharif,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Earthy,Spicy_Herbal,Pine",,
+Mazar-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Giggly,Hungry","Pungent,Earthy,Spicy_Herbal",,Afghanistan-Pakistan
+Mc1,hybrid,0,"Hungry,Aroused,Tingly,Uplifted,Creative","Diesel,Spicy_Herbal,Sweet",TGA Subcool Genetics,"Seattle, Washington"
 Mean-Misty,hybrid,4.2,"Relaxed,Uplifted,Talkative,Tingly,Energetic","Flowery,Sweet",,
 Medibud,hybrid,4.5,"Uplifted,Relaxed,Euphoric,Happy,Focused","Sweet,Earthy,Skunk",,
 Medicine-Man,hybrid,4.4,"Relaxed,Uplifted,Sleepy,Happy,Euphoric","Berry,Woody,Earthy",Unknown,
 Medicine-Woman,hybrid,4.6,"Uplifted,Happy,Relaxed,Euphoric,Creative","Earthy,Citrus,Diesel",David Verstoppen,Oregon
-Medihaze,sativa,4.6,"Relaxed,Happy,Focused,Uplifted,Energetic","Earthy,Sweet,Spicy/Herbal",CBD Crew,
+Medihaze,sativa,4.6,"Relaxed,Happy,Focused,Uplifted,Energetic","Earthy,Sweet,Spicy_Herbal",CBD Crew,
 Medusa,hybrid,4.1,"Relaxed,Happy,Euphoric,Creative,Uplifted","Earthy,Blueberry,Pungent",Nirvana Seeds,"Amsterdam, Netherlands"
 Mega-Jackpot,hybrid,4,"Relaxed,Happy,Uplifted,Euphoric,Hungry","Berry,Strawberry,Grape",Unknown,
 Megalodon,sativa,4.4,"Uplifted,Happy,Hungry,Creative,Euphoric","Skunk,Pungent,Earthy",,
@@ -1404,7 +1404,7 @@ Millennium,hybrid,4.4,"Creative,Relaxed,Uplifted,Happy,Energetic","Blueberry,Ear
 Mint-Chocolate-Chip,hybrid,4.6,"Relaxed,Happy,Tingly,Uplifted,Talkative","Minty,Earthy,Mint",,
 Mission-Kush,hybrid,4,"Creative,Uplifted,Energetic,Euphoric,Happy",Pine,View Askew Farms,
 Misty-Kush,indica,4.4,"Happy,Euphoric,Relaxed,Uplifted,Talkative","Sweet,Mango,Lemon",,
-Misty-Morning,hybrid,4,"Sleepy,Euphoric,Relaxed","Spicy/Herbal,Pine",Colorado Seed Inc.,"Boulder, Colorado"
+Misty-Morning,hybrid,4,"Sleepy,Euphoric,Relaxed","Spicy_Herbal,Pine",Colorado Seed Inc.,"Boulder, Colorado"
 Mk-Ultra,indica,4.5,"Relaxed,Euphoric,Sleepy,Happy,Hungry","Earthy,Pungent,Woody",THSeeds,"Amsterdam, Netherlands"
 Mob-Boss,hybrid,4.5,"Energetic,Happy,Euphoric,Uplifted,Relaxed","Earthy,Pine,Citrus",Grindhouse Madical Seeds,
 Moby-Dick,sativa,4.3,"Uplifted,Euphoric,Happy,Relaxed,Energetic","Sweet,Citrus,Earthy",Dinafem Seeds,"Barcelona, Spain"
@@ -1412,12 +1412,12 @@ Mochi,hybrid,5,"Sleepy,Happy,Hungry,Relaxed,Tingly","Pungent,Minty,Flowery",Sher
 Molokai-Frost,indica,4.8,"Relaxed,Euphoric,Happy,Creative,Uplifted","Pungent,Woody,Chestnut",,
 Molokai-Purpz,indica,5,"Aroused,Creative,Euphoric,Relaxed,Sleepy","Berry,Grape,Sweet",,Hawaaii
 Money-Maker,indica,4.6,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Berry,Skunk",,
-Monkey-Paw,hybrid,4.5,"Relaxed,Happy,Hungry,Uplifted,Euphoric","Grape,Berry,Spicy/Herbal",,Michigan
+Monkey-Paw,hybrid,4.5,"Relaxed,Happy,Hungry,Uplifted,Euphoric","Grape,Berry,Spicy_Herbal",,Michigan
 Monolith,indica,5,"Relaxed,Sleepy,Tingly,Euphoric,Focused","Pungent,Earthy,Pine",,
 Monster-Cookies,indica,4.6,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Grape,Pine",,
-Monster-Og,hybrid,4.9,"Hungry,Relaxed,Happy,Tingly,Sleepy","Woody,Spicy/Herbal,Earthy",The Green Element,
-Montana-Silvertip,hybrid,4.6,"Relaxed,Happy,Euphoric,Uplifted,Giggly","Earthy,Spicy/Herbal,Sweet",,
-Moon-Cookies,hybrid,4.8,"Hungry,Focused,Euphoric,Happy,Relaxed","Spicy/Herbal,Minty,Flowery",,
+Monster-Og,hybrid,4.9,"Hungry,Relaxed,Happy,Tingly,Sleepy","Woody,Spicy_Herbal,Earthy",The Green Element,
+Montana-Silvertip,hybrid,4.6,"Relaxed,Happy,Euphoric,Uplifted,Giggly","Earthy,Spicy_Herbal,Sweet",,
+Moon-Cookies,hybrid,4.8,"Hungry,Focused,Euphoric,Happy,Relaxed","Spicy_Herbal,Minty,Flowery",,
 Moondance,sativa,5,"Creative,Euphoric,Happy,Relaxed","Lavender,Pine",,
 Moonshine-Haze,sativa,4.3,"Uplifted,Euphoric,Happy,Relaxed,Creative","Earthy,Citrus,Pine",Rare Dankness Seeds,Colorado
 Moonwalker-Kush,hybrid,4.9,"Relaxed,Euphoric,Happy,Focused,Giggly","Earthy,Pine,Minty",,
@@ -1432,18 +1432,18 @@ Mother-Tongue,sativa,4.4,"Happy,Creative,Euphoric,Giggly,Energetic","Earthy,Lemo
 Mothers-Finest,sativa,4.4,"Aroused,Happy,Uplifted,Creative,Energetic","Lemon,Sweet,Pine",Sensi Seeds,"Amsterdam, Netherlands"
 Mothers-Helper,hybrid,4.6,"Energetic,Uplifted,Happy,Focused,Creative","Earthy,Sweet,Citrus",,
 Mothers-Milk,hybrid,4.4,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Earthy,Vanilla,Sweet",,
-Mountain-Girl,hybrid,4.2,"Happy,Uplifted,Relaxed,Talkative,Creative","Earthy,Spicy/Herbal,Sage",Pilot Farm,Oregon
+Mountain-Girl,hybrid,4.2,"Happy,Uplifted,Relaxed,Talkative,Creative","Earthy,Spicy_Herbal,Sage",Pilot Farm,Oregon
 Mr-Nice,indica,4.2,"Relaxed,Happy,Hungry,Sleepy,Uplifted","Earthy,Sweet,Woody",,
 Mr-Tusk,hybrid,4.3,"Happy,Talkative,Tingly,Euphoric,Relaxed","Citrus,Sweet,Berry",Kushman Veganics,
 Ms-Universe,hybrid,4,"Euphoric,Happy,Talkative,Uplifted,Giggly","Sweet,Berry,Pineapple",Dynasty Seeds,
-Mt-Cook,indica,5,"Euphoric,Focused,Happy,Relaxed,Aroused","Ammonia,Diesel,Spicy/Herbal",KiwiSeeds,
+Mt-Cook,indica,5,"Euphoric,Focused,Happy,Relaxed,Aroused","Ammonia,Diesel,Spicy_Herbal",KiwiSeeds,
 Mt-Hood-Magic,hybrid,4.7,"Euphoric,Happy,Creative,Focused,Uplifted","Earthy,Sweet,Citrus",,
 Mt-Rainier,hybrid,4.8,"Happy,Uplifted,Relaxed,Aroused,Tingly","Earthy,Woody,Sweet",RedEyed Genetics,
 Mud-Bite,indica,5,"Euphoric,Relaxed,Sleepy,Uplifted,Giggly",,,
 Murkle,indica,2,Giggly,None,OBCoul,
-Narnia,sativa,4.8,"Happy,Creative,Euphoric,Uplifted,Energetic","Sweet,Citrus,Spicy/Herbal",Soulshine Cannabis,
+Narnia,sativa,4.8,"Happy,Creative,Euphoric,Uplifted,Energetic","Sweet,Citrus,Spicy_Herbal",Soulshine Cannabis,
 Nebula,hybrid,4.4,"Uplifted,Happy,Euphoric,Energetic,Creative","Earthy,Honey,Pungent",Paradise Seeds,"Amsterdam, Netherlands"
-Nebula-Ii-Cbd,hybrid,4.4,"Focused,Uplifted,Talkative,Creative,Euphoric","Earthy,Spicy/Herbal,Woody",Paradise Seeds,"Amsterdam, Netherlands"
+Nebula-Ii-Cbd,hybrid,4.4,"Focused,Uplifted,Talkative,Creative,Euphoric","Earthy,Spicy_Herbal,Woody",Paradise Seeds,"Amsterdam, Netherlands"
 Negra-44,indica,5,"Creative,Energetic,Relaxed,Hungry,Talkative","Sweet,Earthy,Citrus",R-Kiem Seeds,Spain
 Nepalese,sativa,4.4,"Happy,Uplifted,Hungry,Euphoric,Creative","Earthy,Grapefruit,Sweet",,
 Nepalese-Jam,hybrid,4,None,None,Ace Seeds,"Valencia, Spain"
@@ -1463,7 +1463,7 @@ Nina-Limone,sativa,5,"Euphoric,Happy,Energetic,Talkative,Uplifted","Lemon,Sweet,
 Ninja-Fruit,hybrid,4.5,"Happy,Relaxed,Sleepy,Uplifted,Aroused","Grape,Citrus,Sweet",Ocean Grown Seeds,
 Nl5-Haze-Mist,sativa,4.3,"Happy,Euphoric,Relaxed,Uplifted,Creative","Earthy,Sweet,Tropical",Green House Seeds,"Amsterdam, Netherlands"
 Nordle,indica,4.4,"Relaxed,Happy,Creative,Uplifted,Focused","Sweet,Citrus,Pungent",,
-North-American,indica,4.7,"Relaxed,Focused,Sleepy,Uplifted,Giggly","Earthy,Woody,Spicy/Herbal",,
+North-American,indica,4.7,"Relaxed,Focused,Sleepy,Uplifted,Giggly","Earthy,Woody,Spicy_Herbal",,
 North-American-Sativa,sativa,4.8,"Uplifted,Euphoric,Focused,Happy,Relaxed","Earthy,Pungent,Skunk",,
 North-Indian,indica,4,"Uplifted,Happy,Hungry,Aroused,Sleepy","Tropical,Earthy,Woody",,
 Northern-Cross,hybrid,4,"Uplifted,Creative,Energetic,Euphoric,Focused","Sweet,Flowery,Tea",,
@@ -1484,7 +1484,7 @@ Ny-Cheese,hybrid,4.3,"Hungry,Happy,Creative,Uplifted,Energetic","Earthy,Woody,Ch
 Nyc-Diesel,hybrid,4.2,"Happy,Uplifted,Relaxed,Energetic,Euphoric","Diesel,Earthy,Pungent",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Nypd,sativa,4.2,"Uplifted,Happy,Relaxed,Giggly,Focused","Flowery,Pine,Earthy",Nirvana Seeds,"Amsterdam, Netherlands"
 Obama-Kush,indica,4.4,"Relaxed,Happy,Euphoric,Uplifted,Creative","Earthy,Sweet,Pungent",,
-Oca-Gold,indica,4.8,"Sleepy,Relaxed,Tingly,Euphoric,Happy","Spicy/Herbal,Sweet,Flowery",Oregon Cannabis Authority,
+Oca-Gold,indica,4.8,"Sleepy,Relaxed,Tingly,Euphoric,Happy","Spicy_Herbal,Sweet,Flowery",Oregon Cannabis Authority,
 Ocas-Cloud-9,hybrid,4.8,"Energetic,Happy,Uplifted,Euphoric,Talkative","Citrus,Flowery,Tea",,
 Ocd,sativa,4.5,"Energetic,Creative,Aroused,Uplifted,Euphoric",Tar,,"Seattle, Washington"
 Odyssey,hybrid,4.3,"Focused,Relaxed,Happy,Uplifted,Tingly","Sweet,Skunk,Flowery",,
@@ -1514,9 +1514,9 @@ Ogs-Pearl,indica,4.2,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Pungent,Swee
 Old-Lyme-Connecticut-Og,hybrid,4.5,"Energetic,Happy,Talkative,Uplifted,Euphoric","Tree,Fruit,Pungent,Pine",,
 Old-Mother-Sativa,sativa,4,None,,,
 Old-School-Og,hybrid,3.8,"Sleepy,Relaxed,Tingly,Happy,Euphoric","Pungent,Skunk,Earthy",,
-Old-Toby,hybrid,4.2,"Creative,Energetic,Happy,Euphoric,Relaxed","Lime,Pine,Spicy/Herbal",Matthew Gordon,
+Old-Toby,hybrid,4.2,"Creative,Energetic,Happy,Euphoric,Relaxed","Lime,Pine,Spicy_Herbal",Matthew Gordon,
 Oldtimers-Haze,sativa,5,"Tingly,Uplifted,Energetic","Citrus,Pine",Ace Seeds,"Valencia, Spain"
-Omega,hybrid,4.8,"Euphoric,Happy,Tingly,Relaxed,Uplifted","Menthol,Spicy/Herbal,Sweet",Rogue Buds,
+Omega,hybrid,4.8,"Euphoric,Happy,Tingly,Relaxed,Uplifted","Menthol,Spicy_Herbal,Sweet",Rogue Buds,
 Omega-Dawg,hybrid,4.4,"Uplifted,Euphoric,Relaxed,Happy,Tingly","Diesel,Sweet,Earthy",AlphaKronic Genes,
 One-To-One,hybrid,4.7,"Focused,Hungry,Relaxed,Creative,Energetic","Earthy,Woody,Pepper",CBD Seeds,
 Opal-Og-Kush,indica,4.5,"Relaxed,Euphoric,Aroused,Sleepy,Tingly","Strawberry,Earthy,Lavender",Nine Point Growth Industries,Washington
@@ -1546,11 +1546,11 @@ Oregon-Pineapple,hybrid,4.2,"Happy,Giggly,Uplifted,Relaxed,Creative","Pineapple,
 Oregon-Pinot-Noir,sativa,4.6,"Relaxed,Euphoric,Sleepy,Focused,Tingly","Grape,Sweet,Diesel",,
 Organic-Diesel,hybrid,4.5,"Uplifted,Happy,Talkative,Energetic,Focused","Diesel,Pungent,Tobacco",,
 Orient-Express,hybrid,4.5,"Uplifted,Euphoric,Happy,Hungry,Relaxed",,Ace Seeds,"Valencia, Spain"
-Ortega,indica,4.8,"Relaxed,Giggly,Uplifted,Euphoric,Sleepy","Spicy/Herbal,Pepper,Earthy",Mr Nice Seeds ,
+Ortega,indica,4.8,"Relaxed,Giggly,Uplifted,Euphoric,Sleepy","Spicy_Herbal,Pepper,Earthy",Mr Nice Seeds ,
 Oteils-Egyptian-Kush,hybrid,4.8,"Happy,Hungry,Relaxed,Focused,Creative","Earthy,Pungent,Woody","T-Dogg Gardens, and Oteil Burbridge",
 Outer-Space,sativa,4.7,"Uplifted,Creative,Euphoric,Energetic,Happy","Sweet,Citrus,Berry",,
-Outlaw,sativa,4.5,"Euphoric,Uplifted,Creative,Energetic,Focused","Earthy,Woody,Spicy/Herbal",Dutch Passion Seed Company,Amsterdam
-P-51,indica,4.4,"Happy,Giggly,Tingly,Uplifted,Relaxed","Earthy,Spicy/Herbal,Sweet",Clint Pipkin,
+Outlaw,sativa,4.5,"Euphoric,Uplifted,Creative,Energetic,Focused","Earthy,Woody,Spicy_Herbal",Dutch Passion Seed Company,Amsterdam
+P-51,indica,4.4,"Happy,Giggly,Tingly,Uplifted,Relaxed","Earthy,Spicy_Herbal,Sweet",Clint Pipkin,
 P-91,hybrid,4.5,"Euphoric,Happy,Relaxed,Creative,Energetic","Sweet,Chemical,Citrus",,
 Pacific-Blue,indica,5,"Tingly,Relaxed,Sleepy,Uplifted,Creative","Flowery,Earthy,Sweet",Falcanna,
 Pagoda,sativa,5,"Uplifted,Happy,Relaxed,Talkative,Energetic","Citrus,Grapefruit,Tropical",,
@@ -1558,9 +1558,9 @@ Pakistan-Valley-Kush,indica,5,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Pine,Swe
 Pakistani-Chitral-Kush,indica,4.7,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Earthy,Sweet,Berry",,
 Pamelina,indica,4.8,"Euphoric,Relaxed,Happy,Sleepy,Uplifted","Chemical,Sage,Flowery",Rare Dankness Seeds,Colorado
 Panama-Punch,sativa,4.9,"Happy,Energetic,Uplifted,Focused,Tingly","Orange,Tropical,Berry",,
-Panama-Red,sativa,4.3,"Happy,Hungry,Uplifted,Energetic,Focused","Earthy,Spicy/Herbal,Skunk",,
+Panama-Red,sativa,4.3,"Happy,Hungry,Uplifted,Energetic,Focused","Earthy,Spicy_Herbal,Skunk",,
 Panda-Og,hybrid,4.4,"Relaxed,Euphoric,Happy,Focused,Uplifted","Earthy,Berry,Chemical",Grow Op Farms’,
-Pandoras-Box,sativa,4.3,"Euphoric,Energetic,Uplifted,Happy,Focused","Spicy/Herbal,Citrus,Flowery",,
+Pandoras-Box,sativa,4.3,"Euphoric,Energetic,Uplifted,Happy,Focused","Spicy_Herbal,Citrus,Flowery",,
 Papas-Og,indica,4.7,"Relaxed,Focused,Happy,Giggly,Sleepy","Earthy,Pungent,Sweet",Arizona Organix,"Glendale, Arizona"
 Papaya,indica,4.2,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Tropical,Sweet,Tree,Fruit",Nirvana Seeds,"Amsterdam, Netherlands"
 Paris-Og,indica,4.6,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Earthy,Lemon,Pine",,
@@ -1580,7 +1580,7 @@ Pez,indica,4.3,"Euphoric,Sleepy,Giggly,Relaxed,Energetic","Pine,Sweet,Earthy",,
 Phantom-Arrow,indica,5,"Happy,Relaxed,Tingly,Euphoric,Focused","Tree,Fruit,Menthol,Flowery",Cereal Killer Genetics,
 Phantom-Cookies,hybrid,4.6,"Happy,Relaxed,Uplifted,Creative,Energetic","Berry,Grape,Mango",Unknown,California
 Phantom-Og,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Focused","Pungent,Earthy,Sweet",,
-Phatt-Frutty,indica,4.5,"Uplifted,Happy,Relaxed,Talkative,Creative","Lemon,Spicy/Herbal,Lime",Barney's Farm,"Amsterdam, Westmont, Illinois"
+Phatt-Frutty,indica,4.5,"Uplifted,Happy,Relaxed,Talkative,Creative","Lemon,Spicy_Herbal,Lime",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Phishhead-Kush,indica,5,"Giggly,Happy,Talkative,Tingly,Uplifted","Sweet,Berry",The Clinic In Colorado,
 Pia-Collision,sativa,0,None,None,,
 Pie-Face-Og,hybrid,4.5,"Relaxed,Euphoric,Giggly,Happy,Tingly","Earthy,Sweet,Tropical",Archive Seeds Bank,"Seattle, Washington"
@@ -1612,7 +1612,7 @@ Pink-Berry,indica,4,"Sleepy,Uplifted,Aroused,Tingly,Euphoric","Sweet,Flowery,But
 Pink-Bubba,indica,4.4,"Relaxed,Euphoric,Sleepy,Hungry,Happy","Sweet,Earthy,Pungent",,
 Pink-Champagne,indica,4.8,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Berry,Sweet,Rose",Ken Estes,
 Pink-Cookies,hybrid,4.5,"Relaxed,Aroused,Creative,Giggly,Happy","Sweet,Earthy,Pungent",,
-Pink-Death-Star,indica,4.7,"Relaxed,Sleepy,Euphoric,Happy,Tingly","Earthy,Spicy/Herbal,Flowery",Riot Seeds,
+Pink-Death-Star,indica,4.7,"Relaxed,Sleepy,Euphoric,Happy,Tingly","Earthy,Spicy_Herbal,Flowery",Riot Seeds,
 Pink-Hawaiian,hybrid,4.8,"Uplifted,Creative,Happy,Aroused,Energetic","Sweet,Tropical,Strawberry",,
 Pink-Kush,hybrid,4.5,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Sweet,Earthy,Flowery",,
 Pink-Lemonade,hybrid,4.5,"Happy,Uplifted,Energetic,Relaxed,Focused","Lemon,Sweet,Citrus",,
@@ -1626,7 +1626,7 @@ Pitbull,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Focused","Sweet,Earthy,Tropica
 Platinum-Bubba-Kush,indica,4.5,"Euphoric,Relaxed,Happy,Sleepy,Uplifted","Earthy,Flowery,Woody",,
 Platinum-Calyx,hybrid,5,"Euphoric,Uplifted,Creative,Hungry,Relaxed","Berry,Grape,Lavender",Calyx Garden,"Humboldt, California"
 Platinum-Gsc,hybrid,4.6,"Relaxed,Happy,Euphoric,Uplifted,Hungry","Sweet,Earthy,Pungent",,
-Platinum-Huckleberry-Cookies,hybrid,4.8,"Euphoric,Relaxed,Happy,Tingly,Creative","Pine,Spicy/Herbal,Minty",Dynasty Seeds,
+Platinum-Huckleberry-Cookies,hybrid,4.8,"Euphoric,Relaxed,Happy,Tingly,Creative","Pine,Spicy_Herbal,Minty",Dynasty Seeds,
 Platinum-Kush,indica,4.4,"Relaxed,Happy,Euphoric,Sleepy,Uplifted","Sweet,Earthy,Pungent",,
 Platinum-Og,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Earthy,Pine,Pungent",,
 Platinum-Purple-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Chemical,Tea,Earthy",,
@@ -1634,7 +1634,7 @@ Platinum-Sour-Diesel,hybrid,5,"Giggly,Relaxed,Uplifted,Euphoric,Happy","Sweet,Le
 Platinum-Wreck,hybrid,4.1,"Happy,Uplifted,Euphoric,Relaxed,Creative","Earthy,Pine,Sweet",,
 Plushberry,indica,4.3,"Relaxed,Happy,Euphoric,Sleepy,Uplifted","Berry,Sweet,Earthy",TGA Genetics,"Seattle, Washington"
 Pluto-Kush,indica,3.9,"Euphoric,Sleepy,Relaxed,Creative,Hungry","Blueberry,Sweet,Skunk",,
-Poison-Haze,sativa,4.1,"Energetic,Happy,Relaxed,Uplifted,Giggly","Citrus,Orange,Spicy/Herbal",,
+Poison-Haze,sativa,4.1,"Energetic,Happy,Relaxed,Uplifted,Giggly","Citrus,Orange,Spicy_Herbal",,
 Pokie,indica,3.5,"Relaxed,Sleepy,Euphoric,Happy,Focused","Butter,Citrus,Cheese",,
 Poochie-Love,sativa,4,"Euphoric,Focused,Creative,Happy,Energetic","Earthy,Pungent,Skunk",Archive Seeds Bank,"Seattle, Washington"
 Pop-Rox,hybrid,4.3,"Euphoric,Creative,Uplifted,Happy,Aroused","Sweet,Grape,Citrus",,"Las Vegas, Nevada"
@@ -1662,7 +1662,7 @@ Pure-Og,indica,4.1,"Happy,Tingly,Uplifted,Creative,Relaxed","Earthy,Pine,Flowery
 Pure-Power-Plant,hybrid,4.4,"Energetic,Happy,Relaxed,Creative,Uplifted","Citrus,Earthy,Pine",,
 Purple-Afghani,indica,4.2,"Relaxed,Uplifted,Sleepy,Happy,Euphoric","Earthy,Sweet,Berry",,
 Purple-Ak-47,hybrid,4.3,"Relaxed,Euphoric,Focused,Aroused,Sleepy","Sweet,Pine,Flowery",,
-Purple-Alien-Og,hybrid,4.7,"Relaxed,Happy,Uplifted,Sleepy,Focused","Earthy,Spicy/Herbal,Grape",,
+Purple-Alien-Og,hybrid,4.7,"Relaxed,Happy,Uplifted,Sleepy,Focused","Earthy,Spicy_Herbal,Grape",,
 Purple-Animal-Cookies,hybrid,0,"Euphoric,Giggly,Happy,Relaxed",Grape,CannaVenture Seeds,
 Purple-Arrow,hybrid,4.2,"Happy,Uplifted,Focused,Energetic,Relaxed","Sweet,Citrus,Earthy",,
 Purple-Aurora,hybrid,5,"Focused,Relaxed","Berry,Blueberry,Grape",Alaska Built,
@@ -1702,12 +1702,12 @@ Purple-Martian-Kush,indica,4.5,"Relaxed,Happy,Tingly,Euphoric,Uplifted","Sweet,G
 Purple-Maui,hybrid,4.1,"Happy,Energetic,Uplifted,Relaxed,Focused","Grape,Pine,Earthy",Happy Harvest,
 Purple-Monkey-Balls,indica,4.6,"Happy,Relaxed,Euphoric,Sleepy,Giggly","Grape,Earthy,Sweet",,
 Purple-Mr-Nice,indica,4.2,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Pine,Earthy,Grape",,
-Purple-Nepal,indica,4.2,"Relaxed,Happy,Euphoric,Tingly,Sleepy","Berry,Flowery,Spicy/Herbal",,
+Purple-Nepal,indica,4.2,"Relaxed,Happy,Euphoric,Tingly,Sleepy","Berry,Flowery,Spicy_Herbal",,
 Purple-Og-Kush,indica,4.4,"Sleepy,Relaxed,Happy,Euphoric,Hungry","Earthy,Sweet,Pungent",,
 Purple-Pantera,hybrid,4.8,"Sleepy,Euphoric,Relaxed",,Snow High Seeds,Uzbekistan
-Purple-Panty-Dropper,indica,4.3,"Relaxed,Euphoric,Happy,Sleepy,Giggly","Grape,Earthy,Spicy/Herbal",,
+Purple-Panty-Dropper,indica,4.3,"Relaxed,Euphoric,Happy,Sleepy,Giggly","Grape,Earthy,Spicy_Herbal",,
 Purple-Paralysis,hybrid,4.6,"Sleepy,Relaxed,Euphoric,Happy,Hungry","Earthy,Lemon,Lavender",Cream of the Crop,
-Purple-Passion,indica,4.4,"Relaxed,Sleepy,Happy,Creative,Euphoric","Earthy,Flowery,Spicy/Herbal",,
+Purple-Passion,indica,4.4,"Relaxed,Sleepy,Happy,Creative,Euphoric","Earthy,Flowery,Spicy_Herbal",,
 Purple-People-Eater,indica,4.1,"Uplifted,Creative,Euphoric,Focused,Relaxed",Grape,,
 Purple-Pinecone,indica,4.6,"Focused,Happy,Euphoric,Relaxed,Sleepy",,Sagarmatha Seeds,
 Purple-Power,sativa,4.4,"Relaxed,Happy,Uplifted,Energetic,Creative","Skunk,Pungent,Earthy",,
@@ -1718,7 +1718,7 @@ Purple-Rhino,hybrid,4.8,"Happy,Relaxed,Euphoric,Hungry,Tingly","Sweet,Berry,Skun
 Purple-Sage,hybrid,3.6,"Euphoric,Uplifted,Creative,Happy,Aroused","Sage,Sweet,Earthy",,
 Purple-Skunk,hybrid,4.3,"Happy,Relaxed,Sleepy,Focused,Giggly","Earthy,Pungent,Skunk",,
 Purple-Sour-Diesel,hybrid,4.3,"Happy,Euphoric,Tingly,Uplifted,Relaxed","Diesel,Earthy,Pungent",,
-Purple-Star,indica,4.6,"Relaxed,Uplifted,Tingly,Sleepy,Euphoric","Berry,Spicy/Herbal,Grape",Dutch Passion Seed Company,Amsterdam
+Purple-Star,indica,4.6,"Relaxed,Uplifted,Tingly,Sleepy,Euphoric","Berry,Spicy_Herbal,Grape",Dutch Passion Seed Company,Amsterdam
 Purple-Swish,indica,5,"Happy,Energetic,Sleepy,Giggly,Hungry","Berry,Sweet,Grape",,
 Purple-Tangie,sativa,4.5,"Happy,Euphoric,Energetic,Relaxed,Creative","Citrus,Orange,Tropical",,
 Purple-Tears,hybrid,5,"Sleepy,Tingly,Happy,Hungry,Relaxed","Diesel,Sweet,Berry",Dirt Farmer Genetics ,
@@ -1741,7 +1741,7 @@ Querkle,indica,4.3,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Sweet,Earthy,Grape"
 Queso,hybrid,5,"Sleepy,Tingly,Hungry,Creative,Euphoric","Cheese,Earthy,Skunk",Kannabia Seeds,
 Quin-N-Tonic,indica,4.6,"Relaxed,Happy,Focused,Hungry,Sleepy","Sweet,Blueberry,Pungent",La Plata Labs,
 Qush,indica,4.5,"Relaxed,Sleepy,Uplifted,Happy,Euphoric","Flowery,Citrus,Pungent",TGA Genetics,"Seattle, Washington"
-R-4,hybrid,5,"Uplifted,Happy,Relaxed,Creative,Focused","Earthy,Nutty,Spicy/Herbal",,
+R-4,hybrid,5,"Uplifted,Happy,Relaxed,Creative,Focused","Earthy,Nutty,Spicy_Herbal",,
 Race-Fuel-Og,hybrid,4.5,"Relaxed,Hungry,Focused,Euphoric,Tingly","Pungent,Diesel,Pine",Archive Seeds Bank,"Seattle, Washington"
 Rafael,sativa,5,None,Peach,Tikum Olam,Alaska
 Rainbow,hybrid,4.5,"Euphoric,Relaxed,Happy,Talkative,Uplifted","Sweet,Citrus,Orange",Lifetime Seeds,
@@ -1758,15 +1758,15 @@ Rebel-Berry-Og,hybrid,5,"Euphoric,Happy,Uplifted,Relaxed,Creative","Blueberry,Ch
 Rebel-God-Smoke,sativa,5,"Uplifted,Euphoric,Energetic,Focused,Happy",,,
 Rebel-Tangie-Kandy,sativa,0,None,None,Rebel Spirit Cannabis,"Eugene, Oregon"
 Reclining-Buddha,indica,4.9,"Relaxed,Euphoric,Happy,Uplifted,Giggly","Flowery,Pungent,Citrus",Soma Sacred Seeds,"Amsterdam, Netherlands"
-Recon,indica,4.2,"Relaxed,Sleepy,Happy,Giggly,Talkative","Sweet,Spicy/Herbal,Berry",,
+Recon,indica,4.2,"Relaxed,Sleepy,Happy,Giggly,Talkative","Sweet,Spicy_Herbal,Berry",,
 Red-Cherry-Berry,hybrid,4,"Happy,Relaxed,Euphoric,Giggly,Focused","Berry,Sweet,Earthy",Barney's Farm,"Amsterdam, Westmont, Illinois"
-Red-Congolese,sativa,4.6,"Energetic,Uplifted,Happy,Focused,Euphoric","Earthy,Spicy/Herbal,Sweet",,
+Red-Congolese,sativa,4.6,"Energetic,Uplifted,Happy,Focused,Euphoric","Earthy,Spicy_Herbal,Sweet",,
 Red-Diesel,hybrid,4.2,"Euphoric,Hungry,Energetic,Happy,Relaxed","Diesel,Citrus,Woody",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Red-Dragon,hybrid,4.2,"Happy,Uplifted,Euphoric,Tingly,Relaxed","Woody,Earthy,Tropical",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Red-Dwarf,indica,4.3,"Sleepy,Euphoric,Happy,Relaxed,Hungry","Skunk,Flowery,Earthy",,
 Red-Eye-Og,indica,4.4,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Earthy,Pungent,Pine",,
 Red-Haze,sativa,4.3,"Energetic,Euphoric,Relaxed,Focused,Creative","Earthy,Woody,Pine",,
-Red-Headed-Stranger,sativa,4.5,"Happy,Energetic,Uplifted,Focused,Relaxed","Spicy/Herbal,Citrus,Sweet",Unknown,
+Red-Headed-Stranger,sativa,4.5,"Happy,Energetic,Uplifted,Focused,Relaxed","Spicy_Herbal,Citrus,Sweet",Unknown,
 Red-Poison,hybrid,4.7,"Uplifted,Euphoric,Happy,Relaxed,Talkative","Earthy,Citrus,Woody",Sweet Seeds,
 Red-Velvet-Pie,hybrid,0,Euphoric,None,TKO Reserve,
 Red-Widow,hybrid,3.2,"Happy,Uplifted,Focused,Energetic,Giggly","Tropical,Skunk,Butter",,
@@ -1774,7 +1774,7 @@ Redd-Cross,hybrid,5,"Sleepy,Relaxed,Tingly,Hungry",,Genetics Gone Mad,
 Redding-Og,hybrid,4.3,"Talkative,Euphoric,Giggly,Happy,Hungry",,,
 Redwood-Kush,indica,4.4,"Relaxed,Sleepy,Happy,Uplifted,Euphoric","Pine,Woody,Earthy",,
 Remedy,indica,4.6,"Relaxed,Uplifted,Happy,Sleepy,Euphoric","Woody,Earthy,Citrus",,
-Remo-Chemo,hybrid,5,"Talkative,Uplifted,Creative,Euphoric,Giggly","Spicy/Herbal,Pepper,Pungent",Urban Remo,
+Remo-Chemo,hybrid,5,"Talkative,Uplifted,Creative,Euphoric,Giggly","Spicy_Herbal,Pepper,Pungent",Urban Remo,
 Rene,hybrid,4.3,"Uplifted,Happy,Relaxed,Energetic,Creative","Earthy,Sweet,Pine",,
 Rene-Mist,hybrid,3.7,"Happy,Hungry,Relaxed,Uplifted,Aroused","Flowery,Earthy,Rose",,
 Richie-Rich,hybrid,4.3,"Happy,Euphoric,Relaxed,Hungry,Creative","Sweet,Lemon,Tropical",,
@@ -1784,7 +1784,7 @@ Rigger-Kush,indica,0,None,None,,
 Ringos-Gift,hybrid,4.7,"Relaxed,Uplifted,Happy,Focused,Energetic","Earthy,Pine,Citrus",,
 Rip-City-Purps,indica,4.2,"Euphoric,Relaxed,Uplifted,Happy,Hungry","Sage,Grape,Flowery",AlphaKronic Genes,
 Ripped-Bubba,hybrid,4.2,"Relaxed,Creative,Euphoric,Hungry,Happy","Sweet,Earthy,Citrus",TGA Genetics,"Seattle, Washington"
-Rob-Ford-Kush,hybrid,4.6,"Sleepy,Relaxed,Happy,Hungry,Tingly","Sweet,Lemon,Spicy/Herbal",,Canada
+Rob-Ford-Kush,hybrid,4.6,"Sleepy,Relaxed,Happy,Hungry,Tingly","Sweet,Lemon,Spicy_Herbal",,Canada
 Robert-Plant,sativa,4.5,"Uplifted,Energetic,Euphoric,Relaxed,Talkative","Sweet,Blueberry,Honey",Colorado Seed Inc.,"Boulder, Colorado"
 Rockbud,indica,4.2,"Euphoric,Happy,Relaxed,Sleepy,Uplifted","Skunk,Pungent,Flowery",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Rocklock,indica,4.6,"Relaxed,Happy,Euphoric,Focused,Energetic","Earthy,Sweet,Pungent",,
@@ -1810,12 +1810,12 @@ Royal-Kush,hybrid,4.2,"Relaxed,Sleepy,Happy,Euphoric,Hungry","Woody,Earthy,Skunk
 Royal-Tree-Sherbet,hybrid,5,Relaxed,"Tropical,Sweet,Berry",Royal Tree Gardens,
 Rubicon,hybrid,4.5,"Relaxed,Focused,Uplifted,Happy,Hungry","Earthy,Pungent,Grapefruit",,
 Rudeboi-Og,hybrid,4.8,"Relaxed,Uplifted,Euphoric,Hungry,Happy","Pine,Earthy,Flowery",Archive Seeds Bank,"Seattle, Washington"
-Rug-Burn-Og,hybrid,4.4,"Euphoric,Relaxed,Happy,Hungry,Sleepy","Citrus,Spicy/Herbal,Pungent",Rare Dankness Seeds,Colorado
+Rug-Burn-Og,hybrid,4.4,"Euphoric,Relaxed,Happy,Hungry,Sleepy","Citrus,Spicy_Herbal,Pungent",Rare Dankness Seeds,Colorado
 Russian-Assassin,indica,4.9,"Relaxed,Euphoric,Happy,Sleepy,Tingly","Diesel,Skunk,Ammonia",,
-Russian-Rocket-Fuel,hybrid,4.1,"Happy,Relaxed,Euphoric,Giggly,Uplifted","Spicy/Herbal,Menthol,Diesel",,
+Russian-Rocket-Fuel,hybrid,4.1,"Happy,Relaxed,Euphoric,Giggly,Uplifted","Spicy_Herbal,Menthol,Diesel",,
 Sage,hybrid,4.2,"Happy,Euphoric,Relaxed,Uplifted,Energetic","Sage,Pungent,Diesel",,
-Sage-N-Sour,sativa,4.2,"Energetic,Happy,Uplifted,Euphoric,Relaxed","Sage,Earthy,Spicy/Herbal",THSeeds,"Amsterdam, Netherlands"
-Salmon-River-Og,indica,4.4,"Relaxed,Happy,Uplifted,Aroused,Sleepy","Pungent,Spicy/Herbal,Woody",Dynasty Genetics,Oregon
+Sage-N-Sour,sativa,4.2,"Energetic,Happy,Uplifted,Euphoric,Relaxed","Sage,Earthy,Spicy_Herbal",THSeeds,"Amsterdam, Netherlands"
+Salmon-River-Og,indica,4.4,"Relaxed,Happy,Uplifted,Aroused,Sleepy","Pungent,Spicy_Herbal,Woody",Dynasty Genetics,Oregon
 Santa-Maria,sativa,4.4,"Relaxed,Happy,Uplifted,Euphoric,Sleepy","Earthy,Sweet,Woody",,Brazil
 Santa-Sativa,sativa,4.3,"Sleepy,Happy,Hungry,Relaxed,Aroused","Blueberry,Berry,Flowery",Dinafem Seeds,"Barcelona, Spain"
 Sapphire-Scout,hybrid,4.6,"Euphoric,Happy,Relaxed,Sleepy,Uplifted","Sweet,Berry,Blueberry",Vashon Velvet,Washington State
@@ -1839,8 +1839,8 @@ Secret-Recipe,hybrid,4.3,"Relaxed,Happy,Uplifted,Giggly,Euphoric","Sweet,Earthy,
 Sensi-Skunk,indica,4.4,"Relaxed,Happy,Hungry,Creative,Euphoric","Earthy,Skunk,Citrus",Sensi Seeds,"Amsterdam, Netherlands"
 Sensi-Star,indica,4.1,"Relaxed,Euphoric,Sleepy,Happy,Uplifted","Earthy,Pungent,Sweet",Paradise Seeds,"Amsterdam, Netherlands"
 Sequoia-Strawberry,sativa,4.4,"Uplifted,Relaxed,Energetic,Euphoric,Focused","Strawberry,Sweet,Pine",SinCity Seeds ,"Las Vegas, Nevada"
-Serious-6,sativa,3.8,"Relaxed,Sleepy,Hungry,Aroused,Uplifted","Spicy/Herbal,Citrus,Lemon",Serious Seed,Africa
-Serious-Happiness,hybrid,4.4,"Euphoric,Happy,Relaxed,Energetic,Talkative","Spicy/Herbal,Pepper,Sweet",Serious Seed,Africa
+Serious-6,sativa,3.8,"Relaxed,Sleepy,Hungry,Aroused,Uplifted","Spicy_Herbal,Citrus,Lemon",Serious Seed,Africa
+Serious-Happiness,hybrid,4.4,"Euphoric,Happy,Relaxed,Energetic,Talkative","Spicy_Herbal,Pepper,Sweet",Serious Seed,Africa
 Sexxpot,indica,4.1,"Uplifted,Happy,Aroused,Tingly,Creative","Pungent,Tropical,Flowery",Mr Nice Seeds ,
 Sfv-Dog,hybrid,4.5,"Relaxed,Happy,Uplifted,Euphoric,Focused","Pine,Citrus,Diesel",Royal Choice Farms,
 Sfv-Og,hybrid,4.4,"Happy,Relaxed,Uplifted,Euphoric,Focused","Earthy,Pine,Pungent",The Cali Connection,
@@ -1849,7 +1849,7 @@ Shaman,sativa,4.2,"Uplifted,Focused,Happy,Energetic,Euphoric","Sweet,Lemon,Flowe
 Shangri-La,hybrid,4.7,"Euphoric,Relaxed,Uplifted,Happy,Energetic","Earthy,Pungent,Lemon",JinxProof Genetics ,
 Shark-Attack,indica,4.2,"Relaxed,Tingly,Happy,Focused,Hungry","Earthy,Pungent,Skunk",Dinafem Seeds,"Barcelona, Spain"
 Shark-Bite,hybrid,4.1,"Uplifted,Energetic,Euphoric,Relaxed,Aroused","Tropical,Pungent,Sweet",Archive Seeds Bank,"Seattle, Washington"
-Shark-Shock,indica,4.2,"Relaxed,Euphoric,Focused,Happy,Tingly","Earthy,Woody,Spicy/Herbal",,
+Shark-Shock,indica,4.2,"Relaxed,Euphoric,Focused,Happy,Tingly","Earthy,Woody,Spicy_Herbal",,
 Sharks-Breath,hybrid,4.4,"Relaxed,Happy,Euphoric,Focused,Uplifted","Pungent,Sweet,Earthy",DNA Genetics,"Amsterdam,Canada, California"
 Shiatsu-Kush,hybrid,4.4,"Relaxed,Happy,Sleepy,Euphoric,Tingly","Sweet,Tropical,Mango",BC Bud Depot,British Columbia 
 Shining-Silver-Haze,sativa,4.8,"Talkative,Uplifted,Relaxed,Euphoric,Hungry",,,
@@ -1857,7 +1857,7 @@ Shipwreck,sativa,4.5,"Happy,Euphoric,Relaxed,Creative,Energetic","Sweet,Pine,Ear
 Shishkaberry,indica,4.3,"Happy,Relaxed,Uplifted,Euphoric,Talkative","Berry,Blueberry,Sweet",,
 Shiskaquine,hybrid,4.6,"Relaxed,Uplifted,Focused,Energetic,Euphoric","Sweet,Earthy,Berry",Matrix NV,
 Shiva-Skunk,indica,4.2,"Euphoric,Relaxed,Uplifted,Happy,Tingly","Skunk,Earthy,Pine",Sensi Seeds,"Amsterdam, Netherlands"
-Shoreline,hybrid,4.4,"Happy,Relaxed,Euphoric,Giggly,Hungry","Skunk,Spicy/Herbal,Sweet",,
+Shoreline,hybrid,4.4,"Happy,Relaxed,Euphoric,Giggly,Hungry","Skunk,Spicy_Herbal,Sweet",,
 Shurman-7,hybrid,4.7,"Relaxed,Sleepy,Euphoric","Earthy,Sweet,Pine",Solstice,
 Sierra-Mist,hybrid,4.7,"Euphoric,Happy,Relaxed,Creative,Giggly","Citrus,Sweet,Diesel",,
 Silver-Back,hybrid,4,"Euphoric,Aroused,Talkative,Uplifted,Happy","Citrus,Tropical,Earthy",Colorado Seed Inc.,"Boulder, Colorado"
@@ -1869,13 +1869,13 @@ Silver-Kush,sativa,4.4,"Happy,Relaxed,Giggly,Uplifted,Focused","Earthy,Chemical,
 Silver-Nina,hybrid,5,"Creative,Energetic,Focused,Happy,Aroused",None,Colorado Seed Inc.,"Boulder, Colorado"
 Silver-Pearl,hybrid,4.3,"Creative,Uplifted,Happy,Energetic,Euphoric","Skunk,Pine,Mango",,
 Silver-Surfer,hybrid,4.3,"Happy,Euphoric,Tingly,Relaxed,Giggly","Citrus,Lime,Lemon",,
-Silver-Train,sativa,4.7,"Focused,Euphoric,Energetic,Relaxed,Aroused","Pine,Lemon,Spicy/Herbal",,
+Silver-Train,sativa,4.7,"Focused,Euphoric,Energetic,Relaxed,Aroused","Pine,Lemon,Spicy_Herbal",,
 Silverback-Gorilla,indica,4.5,"Relaxed,Sleepy,Euphoric,Happy,Tingly","Earthy,Pine,Sweet",,
-Silverfalls-Kush,hybrid,4.8,"Relaxed,Euphoric,Giggly,Happy,Hungry","Sweet,Spicy/Herbal,Strawberry",,
+Silverfalls-Kush,hybrid,4.8,"Relaxed,Euphoric,Giggly,Happy,Hungry","Sweet,Spicy_Herbal,Strawberry",,
 Silverhawks-Og,sativa,5,"Euphoric,Relaxed,Uplifted,Creative,Happy","Lime,Citrus,Flowery",Unknown,
 Sin-City-Kush,indica,4.9,"Relaxed,Euphoric,Uplifted,Giggly,Happy","Grape,Pine,Nutty",AlphaKronic Genes,
 Sin-Valley-Og,hybrid,4.5,"Sleepy,Relaxed,Focused,Euphoric,Happy","Citrus,Earthy,Lemon",SinCity Seeds ,"Las Vegas, Nevada"
-Sinai,sativa,4.8,"Euphoric,Uplifted,Relaxed,Talkative,Happy","Menthol,Spicy/Herbal,Pepper",Indigenous Bedouin ,Sinai Peninsula
+Sinai,sativa,4.8,"Euphoric,Uplifted,Relaxed,Talkative,Happy","Menthol,Spicy_Herbal,Pepper",Indigenous Bedouin ,Sinai Peninsula
 Sinmint-Cookies,hybrid,4.6,"Relaxed,Happy,Sleepy,Euphoric,Uplifted","Minty,Menthol,Woody",,
 Sirius-Black,indica,4.6,"Happy,Euphoric,Relaxed,Creative,Uplifted","Grape,Sweet,Pepper",Oregon Breeders Group,
 Six-Shooter,hybrid,4.6,"Creative,Euphoric,Happy,Uplifted,Focused","Sweet,Skunk,Citrus",Royal Dutch Genetics,
@@ -1887,7 +1887,7 @@ Skunk-Haze,hybrid,4.1,"Relaxed,Happy,Focused,Giggly,Euphoric","Earthy,Woody,Skun
 Skunkberry,hybrid,4.5,"Relaxed,Happy,Euphoric,Uplifted,Creative","Skunk,Berry,Blueberry",,
 Skunky-Diesel,hybrid,4.2,"Happy,Uplifted,Energetic,Relaxed,Sleepy","Skunk,Diesel,Earthy",,
 Sky-Master,sativa,0,None,None,Washington Bud Company,
-Skydog,indica,4.5,"Focused,Happy,Relaxed,Uplifted,Euphoric","Pungent,Skunk,Spicy/Herbal",,
+Skydog,indica,4.5,"Focused,Happy,Relaxed,Uplifted,Euphoric","Pungent,Skunk,Spicy_Herbal",,
 Skywalker,indica,4.3,"Relaxed,Euphoric,Sleepy,Happy,Uplifted","Earthy,Sweet,Citrus",,
 Skywalker-Alien,hybrid,3.8,"Happy,Giggly,Relaxed,Euphoric,Hungry","Chemical,Sweet,Citrus",Unknown,
 Skywalker-Og,hybrid,4.5,"Relaxed,Euphoric,Happy,Uplifted,Sleepy","Earthy,Pungent,Sweet",,
@@ -1909,10 +1909,10 @@ Snow-Ryder,indica,4,"Aroused,Sleepy,Uplifted,Relaxed","Minty,Pepper,Earthy",Sens
 Snow-White,hybrid,4.3,"Relaxed,Euphoric,Hungry,Happy,Talkative","Citrus,Earthy,Woody",Nirvana Seeds,"Amsterdam, Netherlands"
 Snowcap,hybrid,4.1,"Happy,Euphoric,Uplifted,Focused,Creative","Lemon,Citrus,Pungent",,
 Snowland,hybrid,4.5,"Relaxed,Sleepy,Talkative,Creative,Focused","Earthy,Lemon,Flowery",DNA Genetics,"Amsterdam,Canada, California"
-Sojay-Haze,sativa,4.8,"Uplifted,Euphoric,Talkative,Relaxed,Hungry","Citrus,Spicy/Herbal,Sweet",Cresco Labs,"Chicago, Illinois"
+Sojay-Haze,sativa,4.8,"Uplifted,Euphoric,Talkative,Relaxed,Hungry","Citrus,Spicy_Herbal,Sweet",Cresco Labs,"Chicago, Illinois"
 Somango,indica,4.3,"Relaxed,Hungry,Focused,Sleepy,Euphoric","Mango,Sweet,Flowery",Soma Sacred Seeds,"Amsterdam, Netherlands"
 Sonic-Screwdriver,sativa,4.5,"Happy,Euphoric,Giggly,Uplifted,Energetic","Earthy,Citrus,Woody",TGA Subcool Genetics,"Seattle, Washington"
-Sonoma-Coma,sativa,4.5,"Euphoric,Uplifted,Happy,Focused,Talkative","Citrus,Tropical,Spicy/Herbal",,
+Sonoma-Coma,sativa,4.5,"Euphoric,Uplifted,Happy,Focused,Talkative","Citrus,Tropical,Spicy_Herbal",,
 Sorcerers-Apprentice,hybrid,5,"Tingly,Focused,Aroused,Uplifted,Energetic","Sweet,Tropical",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Soul-Assassin-Og,hybrid,4.5,"Relaxed,Euphoric,Happy,Focused,Sleepy","Diesel,Lemon,Pungent",Soul Assassins Crew,
 Soul-Shine,hybrid,4.1,"Euphoric,Happy,Creative,Hungry,Uplifted",,,
@@ -1953,7 +1953,7 @@ Sour-Pebbles,sativa,4.6,"Happy,Uplifted,Focused,Energetic,Euphoric","Sweet,Citru
 Sour-Poison,sativa,4.6,"Uplifted,Happy,Talkative,Giggly,Relaxed","Citrus,Earthy,Pine",,
 Sour-Power,hybrid,4.7,"Happy,Euphoric,Energetic,Talkative,Hungry","Diesel,Skunk,Pungent",HortiLab Seeds,
 Sour-Spyder,indica,5,"Aroused,Tingly,Energetic,Euphoric,Happy","Ammonia,Citrus,Coffee",,
-Sour-Star-Head,sativa,5,"Uplifted,Happy,Talkative,Energetic,Euphoric","Citrus,Sweet,Spicy/Herbal",Rebel Spirit Cannabis,"Eugene, Oregon"
+Sour-Star-Head,sativa,5,"Uplifted,Happy,Talkative,Energetic,Euphoric","Citrus,Sweet,Spicy_Herbal",Rebel Spirit Cannabis,"Eugene, Oregon"
 Sour-Strawberry-Diesel,hybrid,4.6,"Happy,Creative,Relaxed,Euphoric,Uplifted","Strawberry,Sweet,Diesel",MTG Seeds,
 Sour-Sunset,hybrid,4.7,"Relaxed,Euphoric,Happy,Uplifted,Creative","Sweet,Diesel,Citrus",Crockett Family Farms,
 Sour-Tangie,sativa,4.6,"Happy,Uplifted,Euphoric,Energetic,Focused","Citrus,Diesel,Orange",,
@@ -1973,7 +1973,7 @@ Space-Candy,hybrid,4.6,"Uplifted,Relaxed,Happy,Focused,Euphoric","Earthy,Sweet,P
 Space-Cream,hybrid,4.8,"Relaxed,Uplifted,Euphoric,Happy,Energetic","Sweet,Citrus,Pine",Hotsause Genetic,
 Space-Dawg,indica,4.2,"Relaxed,Uplifted,Euphoric,Talkative,Giggly","Sweet,Earthy,Berry",,
 Space-Jill,sativa,3.7,"Creative,Focused,Energetic,Uplifted,Euphoric",,TGA Genetics,"Seattle, Washington"
-Space-Monster,indica,4.3,"Relaxed,Tingly,Sleepy,Uplifted,Creative","Ammonia,Diesel,Spicy/Herbal",Unknown,
+Space-Monster,indica,4.3,"Relaxed,Tingly,Sleepy,Uplifted,Creative","Ammonia,Diesel,Spicy_Herbal",Unknown,
 Space-Needle,sativa,3.7,"Uplifted,Euphoric,Happy,Hungry,Relaxed","Pungent,Pine,Flowery",,Seattle
 Space-Queen,hybrid,4.4,"Euphoric,Uplifted,Relaxed,Happy,Focused","Earthy,Sweet,Flowery",Vic High of BC Growers Association,
 Special-K,hybrid,4.5,"Happy,Uplifted,Euphoric,Relaxed,Creative","Sweet,Citrus,Earthy",,
@@ -1983,7 +1983,7 @@ Spliffs-Strawberry,sativa,4.6,"Talkative,Creative,Energetic,Euphoric,Focused","S
 Spoetnik-1,indica,5,"Focused,Sleepy,Creative,Energetic,Euphoric","Flowery,Lavender,Rose",Paradise Seeds,"Amsterdam, Netherlands"
 Sputnik,sativa,4.5,"Happy,Relaxed,Energetic,Tingly,Euphoric","Sweet,Flowery,Tea",,
 Spyder-Mon,hybrid,5,"Uplifted,Creative,Focused,Happy,Relaxed","Citrus,Earthy,Sweet",,
-Star-47,hybrid,4.3,"Happy,Euphoric,Sleepy,Giggly,Relaxed","Earthy,Spicy/Herbal,Berry",World of Seeds Bank,Brazil
+Star-47,hybrid,4.3,"Happy,Euphoric,Sleepy,Giggly,Relaxed","Earthy,Spicy_Herbal,Berry",World of Seeds Bank,Brazil
 Star-Berry,indica,4.6,"Relaxed,Uplifted,Happy,Euphoric,Energetic","Berry,Citrus,Sweet",CannaVenture,
 Star-Killer,indica,4.5,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Lemon,Pungent",,
 Star-Master-Kush,indica,4.7,"Relaxed,Uplifted,Focused,Happy,Sleepy","Skunk,Pine,Earthy",Zion Botanicals,"Portland, Oregon"
@@ -1997,7 +1997,7 @@ Starry-Night,hybrid,4.6,"Euphoric,Happy,Focused,Tingly,Energetic","Berry,Earthy,
 Stella-Blue,sativa,4.6,"Energetic,Happy,Uplifted,Focused,Talkative","Sweet,Flowery,Berry",,California
 Stephen-Hawking-Kush,indica,4.6,"Relaxed,Happy,Euphoric,Focused,Tingly","Earthy,Woody,Berry",AlphaKronic Genes,
 Stevie-Wonder,hybrid,4.6,"Happy,Hungry,Uplifted,Focused,Tingly","Earthy,Pine,Orange",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
-Straight-As-Haze,sativa,5,"Energetic,Euphoric,Happy,Talkative,Giggly","Sweet,Citrus,Spicy/Herbal",Cereal Killer Genetics,
+Straight-As-Haze,sativa,5,"Energetic,Euphoric,Happy,Talkative,Giggly","Sweet,Citrus,Spicy_Herbal",Cereal Killer Genetics,
 Strawberry,sativa,4.4,"Happy,Relaxed,Uplifted,Euphoric,Talkative","Strawberry,Sweet,Flowery",,
 Strawberry-Alien-Kush,hybrid,4,Relaxed,Strawberry,,
 Strawberry-Amnesia,sativa,4.5,"Creative,Relaxed,Uplifted,Euphoric,Energetic","Strawberry,Sweet,Earthy",Dinafem Seeds,"Barcelona, Spain"
@@ -2016,7 +2016,7 @@ Strawberry-Kush,hybrid,4.2,"Relaxed,Happy,Sleepy,Uplifted,Euphoric","Strawberry,
 Strawberry-Lemonade,sativa,4.3,"Happy,Relaxed,Euphoric,Uplifted,Energetic","Strawberry,Lemon,Berry",,
 Strawberry-Mango-Haze,sativa,4.6,"Happy,Euphoric,Uplifted,Focused,Energetic","Strawberry,Sweet,Mango",,
 Strawberry-Milkshake,hybrid,4.4,"Happy,Relaxed,Uplifted,Tingly,Euphoric","Sweet,Strawberry,Berry",,
-Strawberry-Og,hybrid,4.2,"Happy,Relaxed,Euphoric,Hungry,Creative","Strawberry,Diesel,Spicy/Herbal",,
+Strawberry-Og,hybrid,4.2,"Happy,Relaxed,Euphoric,Hungry,Creative","Strawberry,Diesel,Spicy_Herbal",,
 Strawberry-Satori,sativa,4.5,"Uplifted,Creative,Relaxed,Happy,Energetic","Strawberry,Berry,Pungent",Strawberry Cough,
 Sublime,sativa,4.2,"Uplifted,Happy,Focused,Euphoric,Talkative","Flowery,Pine,Earthy",,
 Sugar-Black-Rose,indica,4.5,"Relaxed,Euphoric,Happy,Sleepy,Uplifted","Rose,Sweet,Flowery",Delicious Seeds,"Valencia, Spain"
@@ -2029,7 +2029,7 @@ Sugar-Plum,sativa,4.5,"Euphoric,Happy,Relaxed,Uplifted,Creative","Sweet,Plum,Tro
 Sugar-Punch,hybrid,4.8,"Hungry,Happy,Giggly,Aroused,Uplifted","Skunk,Sweet,Woody",Sannie Seeds,
 Sugar-Shack,hybrid,4.6,"Relaxed,Happy,Uplifted,Energetic,Talkative","Earthy,Pine,Sweet",,
 Suicide-Girl,hybrid,4.8,"Talkative,Euphoric,Uplifted,Relaxed,Tingly","Violet,Sweet,Citrus",Calyx Garden,"Humboldt, California"
-Summertime-Squeeze,sativa,4.9,"Creative,Happy,Talkative,Giggly,Aroused","Tea,Earthy,Spicy/Herbal",,
+Summertime-Squeeze,sativa,4.9,"Creative,Happy,Talkative,Giggly,Aroused","Tea,Earthy,Spicy_Herbal",,
 Sumo-Grande,sativa,4.5,"Focused,Hungry,Creative,Talkative,Uplifted","Citrus,Sweet,Pine",,
 Sumo-Og-Kush,indica,4.3,"Hungry,Relaxed,Talkative,Uplifted,Focused","Earthy,Pine,Diesel",Sumo Seeds,
 Sun-Ra,sativa,4.7,"Happy,Uplifted,Euphoric,Focused,Tingly","Citrus,Sweet,Earthy",Colorado Seed Inc.,"Boulder, Colorado"
@@ -2038,9 +2038,9 @@ Sunlight-Skunk,hybrid,0,None,None,Zion Botanicals,"Portland, Oregon"
 Sunset-Haze,hybrid,4.2,"Relaxed,Creative,Aroused,Sleepy,Uplifted","Sweet,Citrus,Flowery",,
 Sunset-Sherbert,hybrid,4.6,"Relaxed,Happy,Euphoric,Uplifted,Creative","Sweet,Citrus,Earthy",Unknown,
 Sunshine,sativa,4.7,"Happy,Uplifted,Energetic,Creative,Focused","Citrus,Sweet,Tea","Canadian LP Peace Naturals Project, Inc",
-Sunshine-4,hybrid,4.8,"Happy,Uplifted,Euphoric,Relaxed,Talkative","Spicy/Herbal,Citrus,Sweet",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
+Sunshine-4,hybrid,4.8,"Happy,Uplifted,Euphoric,Relaxed,Talkative","Spicy_Herbal,Citrus,Sweet",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Sunshine-Daydream,indica,4.4,"Relaxed,Happy,Euphoric,Uplifted,Tingly","Pungent,Diesel,Flowery",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
-Supa-Don,sativa,4.5,"Uplifted,Creative,Energetic,Focused,Happy","Spicy/Herbal,Sweet,Apricot",,
+Supa-Don,sativa,4.5,"Uplifted,Creative,Energetic,Focused,Happy","Spicy_Herbal,Sweet,Apricot",,
 Super-Blue-Dream,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Sweet,Blueberry,Tea",Unknown,
 Super-Bud,indica,4.1,"Relaxed,Giggly,Sleepy,Happy,Creative","Citrus,Mint,Flowery",Green House Seeds,"Amsterdam, Netherlands"
 Super-Cat-Piss,sativa,4,"Euphoric,Happy,Uplifted,Tingly,Creative","Coffee,Lemon",,
@@ -2059,16 +2059,16 @@ Super-Snow-Dog,sativa,4.5,"Uplifted,Happy,Euphoric,Relaxed,Focused","Citrus,Flow
 Super-Sour-Diesel,sativa,4.5,"Uplifted,Happy,Euphoric,Creative,Energetic","Diesel,Sweet,Earthy",,
 Super-Sour-Og,hybrid,4.6,"Relaxed,Uplifted,Happy,Focused,Giggly","Citrus,Sweet,Lemon",Emerald Triangle,
 Super-Sour-Skunk,hybrid,4.5,"Happy,Euphoric,Talkative,Sleepy,Uplifted","Citrus,Earthy,Diesel",HortiLab Seeds,
-Super-Sour-Widow,hybrid,4.7,"Euphoric,Energetic,Happy,Uplifted,Relaxed","Pungent,Spicy/Herbal,Earthy",Unknown,
+Super-Sour-Widow,hybrid,4.7,"Euphoric,Energetic,Happy,Uplifted,Relaxed","Pungent,Spicy_Herbal,Earthy",Unknown,
 Super-Sweet,hybrid,4.8,"Happy,Relaxed,Uplifted,Focused,Giggly","Sweet,Honey,Berry",Masterpiece Medical Group,"Flint, Michigan"
-Supergirl,indica,4.5,"Happy,Relaxed,Sleepy,Euphoric,Giggly","Earthy,Woody,Spicy/Herbal",Nirvana Seeds,"Amsterdam, Netherlands"
+Supergirl,indica,4.5,"Happy,Relaxed,Sleepy,Euphoric,Giggly","Earthy,Woody,Spicy_Herbal",Nirvana Seeds,"Amsterdam, Netherlands"
 Superglue,hybrid,4.7,"Relaxed,Happy,Euphoric,Uplifted,Giggly","Earthy,Woody,Pine",Seedism Seeds,
 Superman-Og,indica,4.3,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Earthy,Pine,Pungent",,
 Supermax-Og,hybrid,4.9,"Relaxed,Happy,Euphoric,Tingly,Uplifted","Pungent,Pine,Diesel",Unknown,
 Supernatural,sativa,4.4,"Euphoric,Relaxed,Happy,Creative,Energetic","Earthy,Citrus,Flowery",Exotic Genetix,"Tacoma, Washington"
 Supernova,hybrid,4.3,"Happy,Uplifted,Relaxed,Euphoric,Creative","Sweet,Pungent,Flowery",,Amsterdam
 Superstar,hybrid,4,"Relaxed,Focused,Euphoric,Uplifted,Happy","Citrus,Blueberry,Strawberry",Exotic Genetix,"Tacoma, Washington"
-Suzy-Q,hybrid,4.3,"Relaxed,Focused,Uplifted,Talkative,Happy","Pine,Earthy,Spicy/Herbal",,
+Suzy-Q,hybrid,4.3,"Relaxed,Focused,Uplifted,Talkative,Happy","Pine,Earthy,Spicy_Herbal",,
 Swazi-Gold,sativa,3.7,"Hungry,Relaxed,Focused,Creative,Giggly","Woody,Citrus,Earthy",,Africa
 Sweet-And-Sour-Widow,indica,4.5,"Relaxed,Uplifted,Happy,Focused,Sleepy","Earthy,Sweet,Woody",CBD Crew,
 Sweet-Baby-Jane,indica,4.3,"Relaxed,Tingly,Giggly,Happy,Hungry","Citrus,Sweet,Pungent",Vashon Island Organics ,
@@ -2086,7 +2086,7 @@ Sweet-Kush,hybrid,4.4,"Hungry,Happy,Relaxed,Euphoric,Sleepy","Citrus,Sweet,Flowe
 Sweet-Lafayette,indica,3.6,"Relaxed,Happy,Euphoric,Uplifted,Aroused","Citrus,Earthy,Pine",,
 Sweet-Nina,hybrid,3.9,"Happy,Relaxed,Euphoric,Focused,Uplifted","Diesel,Skunk,Tobacco",Colorado Seed Inc.,"Boulder, Colorado"
 Sweet-Pebbles,hybrid,4.8,"Euphoric,Creative,Happy,Focused,Relaxed","Sweet,Berry,Citrus",Fire Bros,Washington State
-Sweet-Skunk,hybrid,4.2,"Energetic,Euphoric,Creative,Happy,Aroused","Citrus,Spicy/Herbal,Minty",Unknown,
+Sweet-Skunk,hybrid,4.2,"Energetic,Euphoric,Creative,Happy,Aroused","Citrus,Spicy_Herbal,Minty",Unknown,
 Sweet-Tooth,indica,4.2,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Sweet,Flowery,Berry",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Swiss,indica,4.3,"Energetic,Creative,Relaxed,Happy,Uplifted","Pungent,Ammonia,Berry",,
 Swiss-Bliss,hybrid,4,"Euphoric,Happy,Talkative,Creative,Giggly","Sweet,Citrus,Earthy",Paradise Seeds,"Amsterdam, Netherlands"
@@ -2118,7 +2118,7 @@ Tangie-Sunrise,hybrid,0,"Tingly,Uplifted,Euphoric,Happy,Relaxed",,Palomar Craft 
 Tangier-Chilly,hybrid,5,"Talkative,Uplifted,Creative,Energetic,Giggly","Citrus,Orange,Pine",Mr Mack’s Snacks,
 Tangilope,sativa,4.6,"Happy,Uplifted,Energetic,Talkative,Creative","Citrus,Orange,Tropical",,
 Tango-Kush,hybrid,4.3,"Energetic,Focused,Uplifted,Euphoric,Happy","Mango,Sweet,Citrus",Potbox,
-Tardis,sativa,5,"Talkative,Creative,Euphoric,Focused,Aroused","Sweet,Diesel,Spicy/Herbal",,
+Tardis,sativa,5,"Talkative,Creative,Euphoric,Focused,Aroused","Sweet,Diesel,Spicy_Herbal",,
 Tembo-Kush,hybrid,4.5,"Happy,Euphoric,Creative,Relaxed,Focused","Sweet,Berry,Earthy",BUDS Pasco,
 Terminator-Og,indica,4.7,"Relaxed,Happy,Sleepy,Creative,Euphoric","Sweet,Pine,Rose",,
 Tesla,hybrid,4.7,"Uplifted,Relaxed,Happy,Euphoric,Giggly","Tropical,Pepper,Sweet",AlphaKronic Genes,
@@ -2126,7 +2126,7 @@ Tesla-Tower,sativa,4.8,"Tingly,Uplifted,Relaxed,Creative,Energetic","Pepper,Swee
 Thai,sativa,4.2,"Happy,Relaxed,Focused,Uplifted,Energetic","Earthy,Flowery,Sweet",,
 Thai-Girl,hybrid,4,"Euphoric,Relaxed,Energetic,Focused,Tingly","Tropical,Sweet,Citrus",Gold King,
 Thai-Haze,sativa,4.3,"Creative,Energetic,Happy,Aroused,Euphoric","Pine,Pepper,Sweet",,
-Thai-Lights,hybrid,4.7,"Uplifted,Happy,Euphoric,Relaxed,Energetic","Earthy,Spicy/Herbal,Pine",Dr. Atomic,
+Thai-Lights,hybrid,4.7,"Uplifted,Happy,Euphoric,Relaxed,Energetic","Earthy,Spicy_Herbal,Pine",Dr. Atomic,
 Thai-Tanic,sativa,4,"Energetic,Uplifted,Happy,Focused,Euphoric","Sweet,Earthy,Woody",,
 Thaidal-Wave,hybrid,3.8,"Uplifted,Euphoric,Creative,Energetic,Focused",,Unknown,
 Thc-Bomb,hybrid,4.2,"Relaxed,Happy,Giggly,Uplifted,Hungry","Earthy,Pungent,Sweet",Bomb Seeds,
@@ -2143,7 +2143,7 @@ The-Gift,hybrid,5,"Uplifted,Relaxed","Sweet,Earthy",Lawrence Ringo,
 The-Grunk,hybrid,4.6,"Euphoric,Happy,Uplifted,Relaxed,Tingly","Grape,Skunk,Sweet",Unknown,
 The-Loops,indica,5,"Euphoric,Giggly,Happy,Relaxed,Sleepy",None,Insanity Strains,
 The-One,hybrid,4.9,"Happy,Giggly,Euphoric,Relaxed,Tingly","Pungent,Pine,Diesel",Clackamas Coots,
-The-Ooze,indica,5,"Tingly,Uplifted,Creative,Euphoric,Focused","Spicy/Herbal,Sweet,Apple",Unknown,
+The-Ooze,indica,5,"Tingly,Uplifted,Creative,Euphoric,Focused","Spicy_Herbal,Sweet,Apple",Unknown,
 The-Ox,indica,4.8,"Relaxed,Hungry,Euphoric,Happy,Uplifted","Coffee,Berry,Sweet",Rare Dankness Seeds,Colorado
 The-Sauce,hybrid,4.8,"Happy,Uplifted,Relaxed,Euphoric,Creative","Earthy,Sweet,Citrus",Exotic Genetix,"Tacoma, Washington"
 The-Sheriff,hybrid,4,"Sleepy,Uplifted,Relaxed","Earthy,Woody",Unknown,
@@ -2155,24 +2155,24 @@ The-White,hybrid,4.6,"Relaxed,Euphoric,Happy,Creative,Uplifted","Earthy,Pine,Pun
 The-White-Angel,hybrid,4.2,"Aroused,Relaxed","Diesel,Pungent,Pine",Unknown,"Los angeles, California"
 The-Wife,hybrid,4.9,"Relaxed,Uplifted,Happy,Tingly,Euphoric","Lemon,Sweet,Tree,Fruit",Terrapin Care Station,
 The-Wills,hybrid,0,"Talkative,Tingly,Uplifted,Creative,Euphoric","Pungent,Woody,Pine",Unknown,Washington
-Thelonious-Skunk,hybrid,4.8,"Euphoric,Happy,Relaxed,Uplifted,Energetic","Skunk,Citrus,Spicy/Herbal",,
+Thelonious-Skunk,hybrid,4.8,"Euphoric,Happy,Relaxed,Uplifted,Energetic","Skunk,Citrus,Spicy_Herbal",,
 Thin-Mint,hybrid,4.6,"Relaxed,Euphoric,Happy,Uplifted,Hungry","Minty,Mint,Sweet",,
 Think-Different,hybrid,4.3,"Happy,Energetic,Creative,Focused,Uplifted","Flowery,Sweet,Lemon",Unknown,
 Thors-Hammer,sativa,4.3,"Euphoric,Creative,Energetic,Happy,Aroused","Sweet,Pungent,Menthol",Snow High Seeds,Uzbekistan
 Throwback-Kush,indica,4.3,"Hungry,Relaxed,Sleepy,Happy","Earthy,Woody",Exotic Genetix,"Tacoma, Washington"
 Thunderbird-Rose,sativa,4.8,"Euphoric,Uplifted,Relaxed,Focused,Happy","Rose,Sweet,Earthy",Rebel Spirit Cannabis,"Eugene, Oregon"
 Thunderstruck,sativa,4.9,"Relaxed,Uplifted,Creative,Focused,Talkative","Sweet,Earthy,Tropical",,
-Tickle-Kush,hybrid,4.3,"Happy,Uplifted,Creative,Euphoric,Sleepy","Berry,Apple,Spicy/Herbal",Greenwerkz,Colorado
+Tickle-Kush,hybrid,4.3,"Happy,Uplifted,Creative,Euphoric,Sleepy","Berry,Apple,Spicy_Herbal",Greenwerkz,Colorado
 Tiger-Woods,hybrid,4.1,"Relaxed,Giggly,Hungry,Creative,Energetic","Sweet,Flowery,Pungent",Unknown,
-Tigermelon,indica,3,"Happy,Creative,Relaxed","Spicy/Herbal,Citrus,Chestnut",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
+Tigermelon,indica,3,"Happy,Creative,Relaxed","Spicy_Herbal,Citrus,Chestnut",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Tigers-Milk,indica,4.6,"Relaxed,Euphoric,Happy,Sleepy,Uplifted","Earthy,Pungent,Flowery",Bodhi Seeds,"Afghanistan, Hawaii and Nepal"
 Tillamook-Strawberry,hybrid,4.7,"Happy,Relaxed,Focused,Euphoric,Energetic","Strawberry,Sweet,Berry",,
 Timewreck,sativa,4.4,"Euphoric,Happy,Uplifted,Talkative,Giggly","Citrus,Pepper,Grapefruit",TGA Genetics,"Seattle, Washington"
 Tina-Danza,hybrid,4.6,"Happy,Euphoric,Relaxed,Sleepy,Creative","Earthy,Pine,Lemon",Swamp Boys Seeds,
-Titans-Haze,sativa,4.3,"Happy,Tingly,Energetic,Euphoric,Talkative","Spicy/Herbal,Pungent,Skunk",Flying Dutchman,"Castle Rock, Washington"
+Titans-Haze,sativa,4.3,"Happy,Tingly,Energetic,Euphoric,Talkative","Spicy_Herbal,Pungent,Skunk",Flying Dutchman,"Castle Rock, Washington"
 Tjs-Cbd,hybrid,4.3,"Focused,Uplifted,Creative,Talkative,Energetic","Woody,Earthy,Pungent",TJ’s Organic Garden,Washington State
 Tokyo-Og,hybrid,4.6,"Euphoric,Relaxed,Happy,Uplifted,Sleepy","Pine,Lemon,Sweet",,California
-Tommys-Home-Grown,hybrid,4,"Energetic,Relaxed,Uplifted,Creative,Focused","Earthy,Spicy/Herbal,Tropical",Unknown,
+Tommys-Home-Grown,hybrid,4,"Energetic,Relaxed,Uplifted,Creative,Focused","Earthy,Spicy_Herbal,Tropical",Unknown,
 Tonics-Web,indica,0,None,None,THClones,
 Tora-Bora,indica,4.5,"Happy,Relaxed,Sleepy,Euphoric,Creative","Pine,Earthy,Berry",,
 Toxic,hybrid,4.5,"Sleepy,Focused,Happy,Relaxed,Energetic","Flowery,Earthy",Ripper Seeds,
@@ -2183,8 +2183,8 @@ Tranquil-Elephantizer-Remix,indica,4.3,"Relaxed,Sleepy,Euphoric,Happy,Hungry","S
 Transformer,hybrid,4,"Sleepy,Tingly,Uplifted,Creative,Energetic",,Gage Green Genetics,
 Trash,hybrid,4.7,"Relaxed,Happy,Uplifted,Euphoric,Focused","Pungent,Skunk,Diesel",Unknown,
 Travel-Joint,hybrid,4.5,"Relaxed,Focused,Aroused,Uplifted,Energetic","Lime,Lemon,Earthy",Green Life Productions,Nevada
-Treasure-Island,hybrid,4.7,"Focused,Relaxed,Uplifted,Energetic,Happy","Pepper,Spicy/Herbal,Flowery",SinCity Seeds ,"Las Vegas, Nevada"
-Tree-Of-Life,hybrid,4.9,"Happy,Creative,Relaxed,Uplifted,Euphoric","Earthy,Spicy/Herbal,Woody",Oregon OMMP,Oregon
+Treasure-Island,hybrid,4.7,"Focused,Relaxed,Uplifted,Energetic,Happy","Pepper,Spicy_Herbal,Flowery",SinCity Seeds ,"Las Vegas, Nevada"
+Tree-Of-Life,hybrid,4.9,"Happy,Creative,Relaxed,Uplifted,Euphoric","Earthy,Spicy_Herbal,Woody",Oregon OMMP,Oregon
 Tres-Dawg,hybrid,4.5,"Relaxed,Sleepy,Happy,Uplifted,Energetic","Citrus,Pungent,Diesel",Top Dawg Genetics,
 Triangle-Kush,indica,4.5,"Relaxed,Sleepy,Euphoric,Happy,Creative","Earthy,Pine,Sweet",,
 Trident,hybrid,4.3,"Relaxed,Happy,Uplifted,Focused,Tingly","Citrus,Sweet,Pungent",Unknown,
@@ -2199,10 +2199,10 @@ Tropicali,hybrid,4.4,"Euphoric,Uplifted,Relaxed,Energetic,Happy","Tropical,Orang
 True-Og,indica,4.4,"Relaxed,Euphoric,Happy,Sleepy,Creative","Earthy,Pine,Pungent",,
 True-X,indica,3,"Uplifted,Focused,Sleepy,Relaxed,Tingly","Earthy,Woody,Pine",Royal Choice Farms,
 Truffle-Butter,indica,4.5,"Aroused,Sleepy,Euphoric,Giggly,Happy","Sweet,Vanilla,Chestnut",THClones,
-Truth-Serum,hybrid,4.3,"Talkative,Energetic,Happy,Sleepy,Uplifted","Spicy/Herbal,Pepper,Citrus",,
+Truth-Serum,hybrid,4.3,"Talkative,Energetic,Happy,Sleepy,Uplifted","Spicy_Herbal,Pepper,Citrus",,
 Tuna-Kush,indica,4.5,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Skunk,Earthy,Pungent",,
 Tuna-Og,hybrid,2,None,None,Unknown,
-Turbo-Mind-Warp,hybrid,4.5,"Happy,Hungry,Uplifted,Euphoric,Focused","Spicy/Herbal,Flowery,Earthy",MTG Seeds,
+Turbo-Mind-Warp,hybrid,4.5,"Happy,Hungry,Uplifted,Euphoric,Focused","Spicy_Herbal,Flowery,Earthy",MTG Seeds,
 Tutankhamon,sativa,4.6,"Happy,Focused,Uplifted,Energetic,Euphoric","Pungent,Skunk,Flowery",Pyramid Seeds,
 Tutti-Frutti,hybrid,4.2,"Happy,Euphoric,Uplifted,Energetic,Relaxed","Berry,Sweet,Tropical",Flash Seeds,
 Twista,sativa,4.2,"Creative,Energetic,Happy,Talkative,Focused","Sweet,Citrus,Lime",Denver's Green Solution,
@@ -2210,7 +2210,7 @@ Twisted-Citrus,sativa,4.5,"Energetic,Uplifted,Relaxed,Creative,Happy","Citrus,Or
 Tyson,indica,4.8,"Relaxed,Sleepy,Uplifted,Hungry,Happy","Earthy,Pungent,Sweet",,
 U2-Kush,indica,4.1,"Relaxed,Happy,Uplifted,Hungry,Giggly","Sweet,Woody,Flowery",,
 Uk-Cheese,hybrid,4.2,"Happy,Relaxed,Uplifted,Euphoric,Energetic","Cheese,Pungent,Berry",Unknown,
-Ultimate-Trainwreck,sativa,4.4,"Euphoric,Energetic,Aroused,Focused,Happy","Tropical,Sweet,Spicy/Herbal",,
+Ultimate-Trainwreck,sativa,4.4,"Euphoric,Energetic,Aroused,Focused,Happy","Tropical,Sweet,Spicy_Herbal",,
 Ultra-Banana,indica,5,"Sleepy,Tingly,Giggly,Hungry,Relaxed","Ammonia,Lemon,Pineapple",,
 Ultra-Sonja,hybrid,4.6,"Relaxed,Giggly,Euphoric,Focused,Tingly","Pungent,Tree,Fruit,Sweet",Unknown,
 Ultra-Sour,sativa,4.8,"Uplifted,Creative,Energetic,Euphoric,Focused","Diesel,Skunk,Lime",THSeeds,"Amsterdam, Netherlands"
@@ -2224,7 +2224,7 @@ Valley-Girl,hybrid,4.7,"Happy,Relaxed,Euphoric,Energetic,Uplifted","Pine,Flowery
 Vanilla-Kush,indica,4.3,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Vanilla,Sweet,Flowery",Barney's Farm,"Amsterdam, Westmont, Illinois"
 Vanilluna,hybrid,4.8,"Sleepy,Happy,Relaxed",,DJ Short,Oregon
 Vcdc,hybrid,4.5,"Relaxed,Happy,Euphoric,Focused,Uplifted","Earthy,Berry,Citrus",Moxie Seeds,
-Velvet-Bud,sativa,3.9,"Uplifted,Energetic,Euphoric,Talkative,Aroused","Sweet,Citrus,Spicy/Herbal",,
+Velvet-Bud,sativa,3.9,"Uplifted,Energetic,Euphoric,Talkative,Aroused","Sweet,Citrus,Spicy_Herbal",,
 Velvet-Purps,hybrid,5,"Happy,Relaxed,Euphoric,Sleepy,Tingly",None,Sun Roots Farm,
 Venice-Og,sativa,4.3,"Uplifted,Happy,Energetic,Creative,Focused","Citrus,Pine,Pungent",,
 Venom-Og,hybrid,4.4,"Relaxed,Euphoric,Sleepy,Happy,Uplifted","Earthy,Pungent,Pine",Rare Dankness Seeds,Colorado
@@ -2233,15 +2233,15 @@ Verde-Electric,hybrid,4.2,"Happy,Euphoric,Creative,Relaxed,Hungry","Woody,Earthy
 Versace,hybrid,4.8,"Happy,Relaxed,Euphoric,Uplifted,Energetic","Pungent,Berry,Diesel",Unknown,
 Very-Berry-Haze,sativa,4,"Happy,Uplifted,Euphoric,Hungry,Relaxed","Berry,Pungent,Sweet",Apothecary Genetics,Netherlands
 Vietnamese-Bubba,hybrid,5,"Euphoric,Hungry,Relaxed,Uplifted,Happy",None,Khush Kush,
-Violator-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Spicy/Herbal,Woody",Barney's Farm,"Amsterdam, Westmont, Illinois"
-Violet-Delight,hybrid,4.4,"Happy,Relaxed,Uplifted,Focused,Sleepy","Violet,Spicy/Herbal,Lavender",Unknown,
+Violator-Kush,indica,4.3,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Spicy_Herbal,Woody",Barney's Farm,"Amsterdam, Westmont, Illinois"
+Violet-Delight,hybrid,4.4,"Happy,Relaxed,Uplifted,Focused,Sleepy","Violet,Spicy_Herbal,Lavender",Unknown,
 Violeta,hybrid,0,None,,Ace Seeds,"Valencia, Spain"
-Viper,sativa,4.5,"Energetic,Talkative,Happy,Giggly,Uplifted","Citrus,Pungent,Spicy/Herbal",Reeferman Seeds,Mexico
+Viper,sativa,4.5,"Energetic,Talkative,Happy,Giggly,Uplifted","Citrus,Pungent,Spicy_Herbal",Reeferman Seeds,Mexico
 Voodoo,sativa,4.2,"Happy,Relaxed,Uplifted,Euphoric,Tingly","Earthy,Pungent,Sweet",,Thailand
 Vortex,sativa,4.3,"Uplifted,Happy,Euphoric,Talkative,Energetic","Earthy,Lemon,Woody",TGA Genetics,"Seattle, Washington"
 Waipi-O-Hapa,sativa,4.4,"Energetic,Focused,Uplifted,Creative,Relaxed","Sweet,Tropical,Honey",,
-Waldo,hybrid,4,"Creative,Tingly,Euphoric,Hungry,Uplifted","Spicy/Herbal,Earthy,Pungent",Apothecary Genetics,Netherlands
-Walker-Kush,hybrid,4.8,"Relaxed,Uplifted,Happy,Focused,Euphoric","Woody,Spicy/Herbal,Flowery",Rare Dankness Seeds,Colorado
+Waldo,hybrid,4,"Creative,Tingly,Euphoric,Hungry,Uplifted","Spicy_Herbal,Earthy,Pungent",Apothecary Genetics,Netherlands
+Walker-Kush,hybrid,4.8,"Relaxed,Uplifted,Happy,Focused,Euphoric","Woody,Spicy_Herbal,Flowery",Rare Dankness Seeds,Colorado
 Wally-Og,hybrid,4.8,"Relaxed,Happy,Sleepy,Creative,Focused","Flowery,Earthy,Butter",Unknown,
 Walrus-Kush,hybrid,4.3,"Happy,Giggly,Uplifted,Creative,Hungry",,Unknown,
 Walter-White,hybrid,4.7,"Happy,Relaxed,Energetic,Uplifted,Euphoric","Earthy,Pungent,Lemon",Mephisto Genetics,
@@ -2249,13 +2249,13 @@ Wappa,hybrid,4.3,"Happy,Giggly,Relaxed,Hungry,Uplifted","Sweet,Flowery,Citrus",P
 Warlock,hybrid,3.9,"Relaxed,Hungry,Happy,Euphoric,Uplifted","Earthy,Sweet,Flowery",Magus Genetics,
 Washing-Machine,indica,5,"Creative,Relaxed,Sleepy,Talkative,Tingly","Earthy,Pungent,Cheese",Ripper Seeds,
 Watermelon,indica,4.5,"Relaxed,Happy,Hungry,Sleepy,Euphoric","Sweet,Berry,Tropical",,
-Webster,sativa,4.5,"Relaxed,Uplifted,Happy,Sleepy,Talkative","Citrus,Spicy/Herbal,Sweet",Unknown,
+Webster,sativa,4.5,"Relaxed,Uplifted,Happy,Sleepy,Talkative","Citrus,Spicy_Herbal,Sweet",Unknown,
 Wedding-Cake,hybrid,4.7,"Relaxed,Happy,Euphoric,Uplifted,Focused","Sweet,Vanilla,Earthy",Unknown,
 Wellness-Og,hybrid,4.9,"Relaxed,Happy,Euphoric,Uplifted,Creative","Pungent,Diesel,Pine",Unknown,
 Wembley,indica,4,None,,Pyramid Seeds,
 West-Coast-Dawg,indica,4.8,"Relaxed,Happy,Euphoric,Uplifted,Creative","Sweet,Woody,Nutty",,
-West-Og,indica,3.6,"Relaxed,Happy,Creative,Hungry,Sleepy","Woody,Lemon,Spicy/Herbal",,
-Wet-Dream,sativa,4.4,"Uplifted,Energetic,Happy,Euphoric,Creative","Earthy,Spicy/Herbal,Woody",,
+West-Og,indica,3.6,"Relaxed,Happy,Creative,Hungry,Sleepy","Woody,Lemon,Spicy_Herbal",,
+Wet-Dream,sativa,4.4,"Uplifted,Energetic,Happy,Euphoric,Creative","Earthy,Spicy_Herbal,Woody",,
 Whitaker-Blues,indica,4.2,"Relaxed,Sleepy,Happy,Uplifted,Euphoric","Sweet,Apple,Pear",DJ Short,Oregon
 White-99,hybrid,4.5,"Energetic,Uplifted,Euphoric,Happy,Relaxed","Sweet,Pine,Citrus",,
 White-Bastard,indica,4.4,"Relaxed,Euphoric,Sleepy,Focused,Happy","Sweet,Blueberry,Diesel",,
@@ -2266,7 +2266,7 @@ White-Caramel-Cookies,indica,5,"Euphoric,Relaxed,Aroused,Sleepy,Talkative","Swee
 White-Cheese,hybrid,4.2,"Relaxed,Creative,Talkative,Happy,Euphoric","Cheese,Pungent,Flowery",Zambeza Seeds,
 White-Chocolate,hybrid,3,None,None,SinCity Seeds ,"Las Vegas, Nevada"
 White-Cookies,hybrid,4.3,"Relaxed,Happy,Euphoric,Focused,Uplifted","Earthy,Sweet,Pungent",Crop King Seeds ,
-White-Dawg,hybrid,4.2,"Relaxed,Uplifted,Happy,Giggly,Hungry","Earthy,Woody,Spicy/Herbal",,
+White-Dawg,hybrid,4.2,"Relaxed,Uplifted,Happy,Giggly,Hungry","Earthy,Woody,Spicy_Herbal",,
 White-Diesel,hybrid,4.2,"Relaxed,Euphoric,Uplifted,Creative,Happy","Diesel,Pungent,Citrus",Unknown,
 White-Dragon,indica,4.2,"Relaxed,Happy,Hungry,Euphoric,Uplifted","Earthy,Woody,Sweet",Eva Seeds,
 White-Dream,hybrid,4.6,"Relaxed,Energetic,Uplifted,Happy,Euphoric","Earthy,Sweet,Citrus",Unknown,
@@ -2298,10 +2298,10 @@ White-Sangria,hybrid,4.7,"Relaxed,Euphoric,Happy,Uplifted,Hungry","Sweet,Lemon,C
 White-Shark,sativa,4.2,"Happy,Uplifted,Relaxed,Focused,Euphoric","Sweet,Citrus,Earthy",,
 White-Siberian,hybrid,4.5,"Uplifted,Focused,Energetic,Creative,Happy","Earthy,Sweet,Flowery",Dinafem Seeds,"Barcelona, Spain"
 White-Skunk,hybrid,4.4,"Relaxed,Happy,Tingly,Euphoric,Uplifted","Pungent,Skunk,Sweet",Sensi Seeds,"Amsterdam, Netherlands"
-White-Slipper,hybrid,4.7,"Uplifted,Happy,Talkative,Relaxed,Creative","Flowery,Spicy/Herbal,Sweet",Unknown,
+White-Slipper,hybrid,4.7,"Uplifted,Happy,Talkative,Relaxed,Creative","Flowery,Spicy_Herbal,Sweet",Unknown,
 White-Smurf,hybrid,4.4,"Talkative,Uplifted,Focused,Giggly,Happy","Minty,Menthol,Violet",Unknown,
 White-Strawberry,hybrid,3,Happy,"Citrus,Sweet",Unknown,
-White-Tahoe-Cookies,indica,4.7,"Aroused,Sleepy,Uplifted,Creative,Euphoric","Spicy/Herbal,Citrus,Tree,Fruit",Kush4Breakfast and Active Seed Bank,
+White-Tahoe-Cookies,indica,4.7,"Aroused,Sleepy,Uplifted,Creative,Euphoric","Spicy_Herbal,Citrus,Tree,Fruit",Kush4Breakfast and Active Seed Bank,
 White-Tygh-Dream,indica,5,"Sleepy,Relaxed,Happy,Focused,Uplifted","Citrus,Earthy,Flowery",,
 White-Urkle,hybrid,4.6,"Relaxed,Happy,Tingly,Euphoric,Uplifted","Sweet,Flowery,Earthy",OG Raskal Genetics,
 White-Walker-Kush,hybrid,4.2,"Happy,Energetic,Uplifted,Euphoric,Creative","Earthy,Sage,Citrus",DNA Genetics,"Amsterdam,Canada, California"
@@ -2310,7 +2310,7 @@ White-Widow,hybrid,4.3,"Happy,Relaxed,Euphoric,Uplifted,Energetic","Earthy,Woody
 White-Zombie,hybrid,4,"Happy,Creative,Relaxed,Euphoric,Uplifted","Pungent,Sage,Earthy",Unknown,
 Whiteout,hybrid,4.6,"Happy,Focused,Euphoric,Uplifted,Creative","Sweet,Citrus,Orange",,
 Whitewalker-Og,indica,4.7,"Relaxed,Sleepy,Happy,Euphoric,Uplifted","Earthy,Sweet,Flowery",Gold Coast Collection,
-Wild-Thailand,sativa,3.8,"Euphoric,Happy,Hungry,Talkative,Energetic","Citrus,Berry,Spicy/Herbal",World of Seeds Bank,Brazil
+Wild-Thailand,sativa,3.8,"Euphoric,Happy,Hungry,Talkative,Energetic","Citrus,Berry,Spicy_Herbal",World of Seeds Bank,Brazil
 Willie-Nelson,sativa,4.3,"Uplifted,Happy,Focused,Creative,Energetic","Earthy,Pungent,Woody",,
 Willy-Wonka,sativa,4.5,"Euphoric,Relaxed,Focused,Hungry,Talkative","Sweet,Tree,Fruit,Apricot",,
 Willys-Wonder,indica,4.2,"Relaxed,Happy,Sleepy,Uplifted,Tingly","Earthy,Pungent,Pine",,
@@ -2330,7 +2330,7 @@ X-File,hybrid,4.5,"Tingly,Euphoric,Relaxed",None,Unknown,
 X-Files,hybrid,4.6,"Relaxed,Euphoric,Uplifted,Happy,Aroused","Earthy,Citrus,Lavender",Pheno-Type Seeds,
 X-Tra-Chz,hybrid,4,"Sleepy,Uplifted,Euphoric,Happy,Hungry","Pungent,Skunk,Blue,Cheese",MTG Seeds,
 X-Wing,indica,4.3,"Relaxed,Sleepy,Focused,Creative,Happy","Earthy,Pungent,Flowery",,
-Xanadu,sativa,4.8,"Focused,Happy,Energetic,Talkative,Uplifted","Spicy/Herbal,Pepper,Sweet",,
+Xanadu,sativa,4.8,"Focused,Happy,Energetic,Talkative,Uplifted","Spicy_Herbal,Pepper,Sweet",,
 Xj-13,hybrid,4.3,"Happy,Euphoric,Relaxed,Uplifted,Creative","Citrus,Sweet,Pine",Unknown,
 Xxx-420,indica,4.3,"Relaxed,Focused,Tingly,Talkative,Happy","Sweet,Berry,Grapefruit",,Canada
 Xxx-Og,indica,4.5,"Relaxed,Sleepy,Euphoric,Happy,Uplifted","Pine,Woody,Earthy",,
@@ -2339,7 +2339,7 @@ Yeti-Og,indica,4.6,"Relaxed,Euphoric,Sleepy,Happy,Hungry","Earthy,Pungent,Diesel
 Yoda-Og,indica,4.5,"Relaxed,Uplifted,Sleepy,Happy,Euphoric","Earthy,Skunk,Woody",,
 Yodas-Brain,indica,4.8,"Sleepy,Happy,Aroused,Relaxed,Hungry","Pine,Sage,Flowery",,
 Yogi-Diesel,hybrid,4.5,"Uplifted,Euphoric,Tingly,Creative,Happy","Diesel,Citrus,Pine",Unknown,
-Yumboldt,indica,4.2,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Spicy/Herbal,Earthy,Sweet",,
+Yumboldt,indica,4.2,"Relaxed,Happy,Sleepy,Euphoric,Hungry","Spicy_Herbal,Earthy,Sweet",,
 Yummy,hybrid,4.2,"Uplifted,Relaxed,Happy,Energetic,Euphoric","Sweet,Earthy,Pungent",Unknown,California
 Zamaldelica,sativa,5,"Tingly,Uplifted,Energetic",None,Ace Seeds,"Valencia, Spain"
 Zellys-Gift,sativa,5,"Happy,Uplifted,Energetic,Relaxed,Euphoric","Sweet,Citrus,Lime",Dragonfly Earth Medicine,
@@ -2347,6 +2347,6 @@ Zen,hybrid,4.3,"Happy,Energetic,Uplifted,Euphoric,Focused","Earthy,Sweet,Flowery
 Zeta-Sage,sativa,4.5,"Happy,Relaxed,Uplifted,Euphoric,Focused","Diesel,Pungent,Sage",,
 Zeus-Og,hybrid,4.7,"Happy,Uplifted,Relaxed,Euphoric,Energetic","Earthy,Woody,Pine",A Greener Today's Dankczar,
 Zkittlez,indica,4.6,"Relaxed,Happy,Euphoric,Uplifted,Sleepy","Sweet,Berry,Grape",3rd Gen Family and Terp Hogz,
-Zombie-Kush,indica,5,"Relaxed,Sleepy,Talkative,Euphoric,Happy","Earthy,Sweet,Spicy/Herbal",Ripper Seeds,
+Zombie-Kush,indica,5,"Relaxed,Sleepy,Talkative,Euphoric,Happy","Earthy,Sweet,Spicy_Herbal",Ripper Seeds,
 Zombie-Og,indica,4.4,"Relaxed,Sleepy,Euphoric,Happy,Hungry","Sweet,Earthy,Pungent",,
 Zoom-Pie,indica,4.6,"Hungry,Relaxed,Uplifted,Happy,Sleepy","Berry,Earthy,Pungent",,
