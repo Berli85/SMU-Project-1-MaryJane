@@ -4,8 +4,9 @@ Shanara's folder contains the final report and presentation slides.
 
 For Project 1, Team 2 analyzed a dataset from Kaggle. The dataset consisted of various datapoints on legal cannabis. Hypothesis were divided out among team members as follows:
 
-Hypothesis 1 (Misha)
-Hypothesis 2 (Kimberly)
-Hypothesis 3 (Lattiana)
-Hypothesis 4 (Tacha)
+Hypothesis 1 (Misha),
+Hypothesis 2 (Kimberly),
+Hypothesis 3 (Lattiana),
+Hypothesis 4 (Tacha),
+Report/Presentation/QC (Shanara)
 
