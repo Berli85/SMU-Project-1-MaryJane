@@ -8,5 +8,5 @@ Hypothesis 1 (Misha),
 Hypothesis 2 (Kimberly),
 Hypothesis 3 (Lattiana),
 Hypothesis 4 (Tacha),
-Report/Presentation/QC (Shanara)
+Report/Presentation/QC/Coded with other team members (Shanara)
 
